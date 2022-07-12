@@ -1,0 +1,3481 @@
+{
+    "_id" : "19f990d9-7ab4-4f4b-ba1a-c306b21a2031",
+    "title" : "Estoque de RO-0178",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "0d2abe04-33f4-4d4c-b1e5-576ffe8e29b1",
+    "body" : "A máquina RO-0178 atingiu o estoque mínimo de 16",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-08-20T13:30:13.364+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "b8589cef-d1ff-4abd-8e2b-6021b5f2160e",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-03T17:07:10.596+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "16e5c0e5-2785-41d3-8943-467e9ba2fc48",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-27T23:44:08.071+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "07529a39-017f-4e48-a519-1139e6b70ed7",
+    "title" : "Estoque de 01",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "87bddbb9-fd47-4ae6-ad24-6862a093afc5",
+    "body" : "A máquina 01 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-21T13:25:09.993+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "a6016ab3-3fb9-49cc-8534-5420712b1c32",
+    "title" : "Estoque de 06",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "0446f562-d614-498d-a0bd-f2a99aa7f5ad",
+    "body" : "A máquina 06 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-06T15:20:08.936+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "cf4285a2-d762-481e-a0f3-595a4ec8d4fc",
+    "title" : "Estoque de 07",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "4d3ecb19-5314-4d26-87c0-0e502cce8717",
+    "body" : "A máquina 07 atingiu o estoque mínimo de 20",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-13T13:52:22.844+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "9e1b4c6e-b492-4ccc-ac0a-8d804797e64a",
+    "title" : "Estoque de 06",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "0446f562-d614-498d-a0bd-f2a99aa7f5ad",
+    "body" : "A máquina 06 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-06T15:49:09.393+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "3e46ffbf-79c5-42c2-a857-873932e81749",
+    "title" : "Estoque de 06",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "0446f562-d614-498d-a0bd-f2a99aa7f5ad",
+    "body" : "A máquina 06 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-06T18:01:12.845+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "052cc1ad-6443-4077-bed3-e6b01181b4c9",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 10",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-02T17:25:59.923+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "4137ccb8-a530-47e3-be67-d211d3dcc441",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-14T17:26:04.572+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "9609715f-fc2b-4edb-8517-448f57f427c5",
+    "title" : "Estoque de GB-0426",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "5a8ef454-bcd3-4402-a1ec-adbd3b0a7c45",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "40388cfa-2397-4de7-9f31-239db34baab2",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "183f7215-a0d4-4877-9bfa-0c803ff5f55d"
+    ],
+    "machineId" : "b5131efd-29f8-4849-af1a-cf2ee1d24f08",
+    "body" : "A máquina GB-0426 atingiu o estoque mínimo de 20",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-09-15T19:40:20.349+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "eb2b083e-0502-45a9-b40b-bb383dbeb48f",
+    "title" : "Estoque de CR-0173",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "c278fdea-aef6-4292-90c2-a09ec29dc042",
+    "body" : "A máquina CR-0173 atingiu o estoque mínimo de 20",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-27T01:44:30.580+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "722d9bba-ccf3-405b-9941-2e0fd132e149",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-23T00:10:52.913+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "efde1762-6f98-483c-9f7f-58f1a451311a",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "9677b3ee-aaab-4509-a746-cf608cc84661",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "7f4884c3-9803-4795-ae03-7189275558f0"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-22T22:44:56.347+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "be6d83f3-3e7b-47d4-b028-a60fc03b6659",
+    "title" : "Estoque de MP-0608",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "5a8ef454-bcd3-4402-a1ec-adbd3b0a7c45",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "40388cfa-2397-4de7-9f31-239db34baab2",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "183f7215-a0d4-4877-9bfa-0c803ff5f55d"
+    ],
+    "machineId" : "1d381704-492f-4dbd-92d0-921a24276d45",
+    "body" : "A máquina MP-0608 atingiu o estoque mínimo de 20",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-08-09T19:06:31.823+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "af0b0805-af62-49bd-9828-bf5d0b650041",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-04T20:18:08.688+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "9ab07280-4537-40b5-a199-7cabf280356b",
+    "title" : "Estoque de VT-0174",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "1150a12b-9f2b-46c0-af7e-13ccd432f119",
+    "body" : "A máquina VT-0174 atingiu o estoque mínimo de 0",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-07-28T21:28:14.110+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "4b690b63-ffb7-4322-8654-830db5471b39",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 10",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-07-27T19:59:03.291+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "4ba667e9-c150-4fc8-9f11-d4817e59f71e",
+    "title" : "Estoque de BK-0435-A",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "d4b6d224-10eb-499f-877f-8d2fc457c23c",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "335020fa-f646-48ab-8a1e-4cc9e056f722",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f"
+    ],
+    "machineId" : "f18068b4-6881-4e8b-bdc3-df85630c72a5",
+    "body" : "A máquina BK-0435-A atingiu o estoque mínimo de 20",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "date" : ISODate("2021-07-23T20:55:54.656+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "c9a11547-3075-46fe-9f9e-b313901fb320",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-24T13:14:08.233+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "d75bb678-015f-434d-ae64-4df1938030c4",
+    "title" : "Estoque de MP-0004",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "99190199-41a5-4c30-aa2a-9633bcc74c0e"
+    ],
+    "machineId" : "ea8e622c-b0f6-4efd-b0a2-be249e2ac94e",
+    "body" : "A máquina MP-0004 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-08-17T22:03:52.927+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "00625eb5-c9d0-4a22-8009-e1e9c44a6898",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661",
+        "7f4884c3-9803-4795-ae03-7189275558f0"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-19T17:39:38.447+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "d92ffca2-13f2-4f6e-a92a-4f97f4754d5d",
+    "title" : "Estoque de MP-0001",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "99190199-41a5-4c30-aa2a-9633bcc74c0e"
+    ],
+    "machineId" : "a236f01a-5b85-44c2-9f8e-694ba731bfdc",
+    "body" : "A máquina MP-0001 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-21T17:06:07.073+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "eb6de582-7b37-48a2-bc07-29c99d8b4fbd",
+    "title" : "Estoque de 30",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "d9527998-9245-42d0-9c1a-d8d2c446e2b5",
+    "body" : "A máquina 30 atingiu o estoque mínimo de 20",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-27T15:23:50.830+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "1d205dab-012c-4b3f-9953-b6ceb70095f5",
+    "title" : "Estoque de RO-0178",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "0d2abe04-33f4-4d4c-b1e5-576ffe8e29b1",
+    "body" : "A máquina RO-0178 atingiu o estoque mínimo de 2",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-27T13:03:16.356+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "58a7232c-97a9-4e43-8d2b-6b20d522e6a1",
+    "title" : "Estoque de MP-0147",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "0a8112c1-cc5b-4f69-b16b-08c429d78c7c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "d1f5e5b1-0906-4e53-953b-d8449b062cc2"
+    ],
+    "machineId" : "2b9f663e-21ee-495b-a460-d77f214091ee",
+    "body" : "A máquina MP-0147 atingiu o estoque mínimo de 20",
+    "groupId" : "79d57250-a440-40a6-9670-2834f7036114",
+    "date" : ISODate("2021-08-09T22:41:01.458+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "5ad00a8f-6276-4c1b-839d-0365b6c79b55",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-03T17:04:42.308+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "d25f17ac-2d56-475b-83ee-f3abc1cf1973",
+    "title" : "Estoque de GT-0272",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "f323a56d-4a2f-4de1-8b50-a22030654375"
+    ],
+    "machineId" : "474e0dba-d920-4ed2-b2bd-b445bd5e3e84",
+    "body" : "A máquina GT-0272 atingiu o estoque mínimo de 20",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-08-01T15:35:09.327+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "a36b9970-1171-4701-84ea-9e29f55a0de0",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-19T23:15:13.809+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "16c48bd9-cf9e-4303-95d5-3119bab733df",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-19T21:15:24.714+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "c32a7fbe-606f-43eb-a9eb-b6cd2e62889b",
+    "title" : "Estoque de BS-0148",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "dd1126f6-981f-427f-9980-edd38e564485",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4c4aa267-66ed-4efe-b9ab-a1716394078d"
+    ],
+    "machineId" : "327ebffc-19a0-451e-b132-c090c83c88e8",
+    "body" : "A máquina BS-0148 atingiu o estoque mínimo de 20",
+    "groupId" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "date" : ISODate("2021-09-14T19:02:00.754+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "6ba881e5-dc72-4bc9-8da9-dc614dabc1b9",
+    "title" : "Estoque de RO-0178",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "0d2abe04-33f4-4d4c-b1e5-576ffe8e29b1",
+    "body" : "A máquina RO-0178 atingiu o estoque mínimo de 2",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-28T12:37:22.218+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "7ee119be-a263-4aa2-a018-10e18ccfc672",
+    "title" : "Estoque de RO-0153",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "cef184f5-11cb-4524-b65d-b0f414d0271b",
+    "body" : "A máquina RO-0153 atingiu o estoque mínimo de 16",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-08-20T00:20:45.465+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "68cec015-4694-45e2-a7f0-67112871e097",
+    "title" : "Estoque de VT-0175",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "a8d0006d-5499-44ef-9ccd-00c907487443",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "c79381ce-9fb6-4359-a0c0-292bf4e79776"
+    ],
+    "machineId" : "442af5dc-9db3-462e-8a0f-4ead922228ba",
+    "body" : "A máquina VT-0175 atingiu o estoque mínimo de 0",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "date" : ISODate("2021-07-22T22:07:25.548+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "5b18d0d0-273d-4d32-8684-f262a0245fcc",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-05T23:47:30.123+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "9b6f4686-e284-4251-9a35-f03786eed3bd",
+    "title" : "Estoque de CR-0227",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "f6d12388-aed8-4543-b01a-efa45283cdc4",
+    "body" : "A máquina CR-0227 atingiu o estoque mínimo de 20",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "date" : ISODate("2021-06-26T20:05:23.247+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "cf62df6c-7466-4485-9598-47679088f0a8",
+    "title" : "Estoque de VT-0174",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "1150a12b-9f2b-46c0-af7e-13ccd432f119",
+    "body" : "A máquina VT-0174 atingiu o estoque mínimo de 0",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-07-18T02:04:23.680+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "f9933a7c-8054-4fa1-88fc-9aa2dbf63402",
+    "title" : "Estoque de 28",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "bc24a072-02b7-4956-b572-8f7515047a2c",
+    "body" : "A máquina 28 atingiu o estoque mínimo de 20",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-04T19:45:27.752+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "277442d8-1f27-4d6b-9533-db8287ad85d3",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-07-23T23:54:15.583+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "6617325e-0e89-43f2-aacc-2ef60196f16e",
+    "title" : "Estoque de 017",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "13172950-b0ad-4482-807b-6da49e4a567e",
+    "body" : "A máquina 017 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-21T17:17:24.295+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "abbd94bd-d5cf-4f8a-bb7d-3f126dc49023",
+    "title" : "Estoque de B-173",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "c278fdea-aef6-4292-90c2-a09ec29dc042",
+    "body" : "A máquina B-173 atingiu o estoque mínimo de 20",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-25T01:22:09.941+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "ef3dded2-2a65-4c25-b0b1-1db6b0a28591",
+    "title" : "Estoque de 37",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "4e11aa5c-22ab-4896-b4da-742dd9c13a34",
+    "body" : "A máquina 37 atingiu o estoque mínimo de 20",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-29T16:09:47.590+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "da2f051e-68a9-4f5f-9389-77de87d3ae56",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 10",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-07-24T19:12:56.039+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "c3f66867-e11b-4c03-b31f-f94eb54666d4",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-15T22:40:49.447+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "f328028b-7182-4a5a-8161-715800343341",
+    "title" : "Estoque de 28",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "bc24a072-02b7-4956-b572-8f7515047a2c",
+    "body" : "A máquina 28 atingiu o estoque mínimo de 20",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-11T14:49:07.989+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "07826131-80f1-43b5-a128-d8640fe2f819",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-02T20:10:59.686+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "3a631a23-0940-4111-b900-9aaadca75e63",
+    "title" : "Estoque de B-276",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "ab85b90d-3db9-4c1b-99c9-d7a966c09359",
+    "body" : "A máquina B-276 atingiu o estoque mínimo de 20",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "date" : ISODate("2021-06-25T17:04:50.036+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "0aa4e07b-9e37-4b8c-9c6f-158eb9c7a021",
+    "title" : "Estoque de VT-0175",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "d4b6d224-10eb-499f-877f-8d2fc457c23c",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "a8d0006d-5499-44ef-9ccd-00c907487443"
+    ],
+    "machineId" : "442af5dc-9db3-462e-8a0f-4ead922228ba",
+    "body" : "A máquina VT-0175 atingiu o estoque mínimo de 0",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "date" : ISODate("2021-07-04T04:18:32.140+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "167864d9-23a1-455f-8504-596fb80a002a",
+    "title" : "Estoque de MP-0118",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "335020fa-f646-48ab-8a1e-4cc9e056f722",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "c79381ce-9fb6-4359-a0c0-292bf4e79776"
+    ],
+    "machineId" : "859e851d-db27-4fef-abef-dd313f4b9011",
+    "body" : "A máquina MP-0118 atingiu o estoque mínimo de 10",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "date" : ISODate("2021-07-29T14:59:30.081+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "eaa6bad2-6557-49f7-ab07-01bb9c6c39a5",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-27T15:34:35.161+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "5881a97f-876a-495b-b664-43601c4cd309",
+    "title" : "Estoque de VT-0175",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "a8d0006d-5499-44ef-9ccd-00c907487443",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "c79381ce-9fb6-4359-a0c0-292bf4e79776"
+    ],
+    "machineId" : "442af5dc-9db3-462e-8a0f-4ead922228ba",
+    "body" : "A máquina VT-0175 atingiu o estoque mínimo de 0",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "date" : ISODate("2021-08-01T02:02:15.466+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "aee226c3-7ac7-4b48-ab1d-7a11d89bff25",
+    "title" : "Estoque de RO-0153",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "cef184f5-11cb-4524-b65d-b0f414d0271b",
+    "body" : "A máquina RO-0153 atingiu o estoque mínimo de 2",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-26T02:27:29.512+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "5b1b017f-c70c-47e8-ac10-f23f13322ec0",
+    "title" : "Estoque de MP-0004",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "99190199-41a5-4c30-aa2a-9633bcc74c0e"
+    ],
+    "machineId" : "ea8e622c-b0f6-4efd-b0a2-be249e2ac94e",
+    "body" : "A máquina MP-0004 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-25T20:45:49.733+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "43e4dd3b-fcab-44e8-b2f6-7e81c8390bce",
+    "title" : "Estoque de 017",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "13172950-b0ad-4482-807b-6da49e4a567e",
+    "body" : "A máquina 017 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-25T22:23:50.049+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "497a8a02-d1a6-45f9-8039-54fba3340ee0",
+    "title" : "Estoque de MP-0002",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "99190199-41a5-4c30-aa2a-9633bcc74c0e"
+    ],
+    "machineId" : "321fc342-a882-41d2-a041-3d92b16dd395",
+    "body" : "A máquina MP-0002 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-25T12:30:30.635+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "09197583-5fef-45da-a72e-bf0faa0e209e",
+    "title" : "Estoque de BB-0172",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "9b28e47b-44e7-4198-8655-7a5939caf933",
+    "body" : "A máquina BB-0172 atingiu o estoque mínimo de 20",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-26T23:08:28.403+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "5bdcdc4e-dbb9-4b22-8742-ce38b7df9c72",
+    "title" : "Estoque de VT-0174",
+    "receivers" : [
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "1150a12b-9f2b-46c0-af7e-13ccd432f119",
+    "body" : "A máquina VT-0174 atingiu o estoque mínimo de 0",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-07-20T00:51:50.255+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "3b6869b1-ce50-4084-82dc-faf5f0c122ac",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-10T16:33:52.834+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "3e9503f2-acb4-4d7f-8bee-ff1b12c8e24e",
+    "title" : "Estoque de GB-0157",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "2f093078-43f6-41a0-b374-bdc00ea6a813",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "5a8ef454-bcd3-4402-a1ec-adbd3b0a7c45",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "40388cfa-2397-4de7-9f31-239db34baab2",
+        "2dc1bc59-25c3-4b6e-8df3-b19eb4d590a0",
+        "c6aa2636-5833-4b02-bdcb-bb8f90af8854",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "c5d91956-2343-4205-9b32-518348c9a92c",
+        "0cd4ece6-3e46-40d4-a261-cf8aaa986ccf"
+    ],
+    "machineId" : "e5501881-53b7-4c9a-984a-1a6a017aac7e",
+    "body" : "A máquina GB-0157 atingiu o estoque mínimo de 20",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-08-21T22:07:10.733+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "3f7a8360-9402-4b1c-af2a-f9c815f7f60e",
+    "title" : "Estoque de 18",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "ab15a7d8-9042-4552-bf07-fb3a3fc9f0be",
+    "body" : "A máquina 18 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-18T21:44:35.806+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "b5d0dc1a-133a-4d2f-9db5-fa27a3271b04",
+    "title" : "Estoque de 017",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "9677b3ee-aaab-4509-a746-cf608cc84661",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "7f4884c3-9803-4795-ae03-7189275558f0"
+    ],
+    "machineId" : "13172950-b0ad-4482-807b-6da49e4a567e",
+    "body" : "A máquina 017 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-21T21:33:24.677+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "f8bbd094-ac75-40e8-94a7-dfb95419de0e",
+    "title" : "Estoque de B-276",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "ab85b90d-3db9-4c1b-99c9-d7a966c09359",
+    "body" : "A máquina B-276 atingiu o estoque mínimo de 20",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "date" : ISODate("2021-06-24T20:19:58.262+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "2b04b904-c442-4578-ad2e-d202560f45dd",
+    "title" : "Estoque de 37",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "4e11aa5c-22ab-4896-b4da-742dd9c13a34",
+    "body" : "A máquina 37 atingiu o estoque mínimo de 20",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-07T22:57:47.443+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "5980328b-c4b3-4cfc-82de-9d8d369132ff",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-02T00:51:16.996+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "d191f08a-46a1-40f2-950b-3898604bb5ff",
+    "title" : "Estoque de RO-0178",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "0d2abe04-33f4-4d4c-b1e5-576ffe8e29b1",
+    "body" : "A máquina RO-0178 atingiu o estoque mínimo de 2",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-28T12:37:18.124+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "1f3f2b21-0829-4b1a-b828-4be84dd5ac24",
+    "title" : "Estoque de MP-0118",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "335020fa-f646-48ab-8a1e-4cc9e056f722",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "c79381ce-9fb6-4359-a0c0-292bf4e79776"
+    ],
+    "machineId" : "859e851d-db27-4fef-abef-dd313f4b9011",
+    "body" : "A máquina MP-0118 atingiu o estoque mínimo de 10",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "date" : ISODate("2021-08-18T13:45:27.954+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "4c39a5a2-4c25-4677-9859-13871bc20fd7",
+    "title" : "Estoque de MP-0102",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "dd1126f6-981f-427f-9980-edd38e564485",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4c4aa267-66ed-4efe-b9ab-a1716394078d"
+    ],
+    "machineId" : "a7442c22-1e0d-434c-85eb-ba4e14f83add",
+    "body" : "A máquina MP-0102 atingiu o estoque mínimo de 20",
+    "groupId" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "date" : ISODate("2021-09-14T20:01:47.367+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "0081b089-4c5f-49a3-94bd-a1a353c8f712",
+    "title" : "Estoque de MP-0001",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300"
+    ],
+    "machineId" : "a236f01a-5b85-44c2-9f8e-694ba731bfdc",
+    "body" : "A máquina MP-0001 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-09T21:40:55.100+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "4ddbcad8-b150-4aeb-b4e5-91fbf30f2af0",
+    "title" : "Estoque de MP-0004",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "99190199-41a5-4c30-aa2a-9633bcc74c0e"
+    ],
+    "machineId" : "ea8e622c-b0f6-4efd-b0a2-be249e2ac94e",
+    "body" : "A máquina MP-0004 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-23T20:11:52.723+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "650ec7f4-64f7-4e7b-919b-55381c672feb",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661",
+        "7f4884c3-9803-4795-ae03-7189275558f0"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-20T18:16:27.862+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "0e1d3158-8c71-41dd-9da8-58bf300b99c1",
+    "title" : "Estoque de 06",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "0446f562-d614-498d-a0bd-f2a99aa7f5ad",
+    "body" : "A máquina 06 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-06T15:22:34.056+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "a29c9fed-aee0-4461-aadc-35b08ab9b11d",
+    "title" : "Estoque de MP-0006",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300"
+    ],
+    "machineId" : "f8df295b-c49d-4618-931d-15baaac10e4f",
+    "body" : "A máquina MP-0006 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-11T21:36:27.789+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "635e30d2-a4a2-42b1-9705-ee0ceadf0284",
+    "title" : "Estoque de CR-0227",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "f6d12388-aed8-4543-b01a-efa45283cdc4",
+    "body" : "A máquina CR-0227 atingiu o estoque mínimo de 20",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "date" : ISODate("2021-06-26T20:05:18.067+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "dd12e1db-7e9b-454b-b428-9de5eb3a432a",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661",
+        "7f4884c3-9803-4795-ae03-7189275558f0"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-18T22:12:10.079+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "5c151073-eef5-4f63-8b22-acc29eb6da66",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 10",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-02T19:17:13.904+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "ad4f86ba-ec2b-40b5-b8ee-845fc1f0cec6",
+    "title" : "Estoque de MP-0000",
+    "receivers" : [
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "1c74e87e-14f0-4185-9144-f982b2ad5eeb",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f"
+    ],
+    "machineId" : "4da980ba-5e2a-4af0-9a24-ba2367476f8d",
+    "body" : "A máquina MP-0000 atingiu o estoque mínimo de 20",
+    "groupId" : "2f552be1-e971-46fa-9a25-553c76e81a45",
+    "date" : ISODate("2021-07-27T10:39:13.712+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "35133a7d-181e-4309-899b-151d15a62ee7",
+    "title" : "Estoque de VT-0189",
+    "receivers" : [
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "a7fcea8e-ee7a-4fa7-85b4-226c954a1774",
+    "body" : "A máquina VT-0189 atingiu o estoque mínimo de 0",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "date" : ISODate("2021-07-10T17:39:15.728+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "36976b94-37b6-4797-8a34-595cf810e208",
+    "title" : "Estoque de 10000",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "34ffa723-2634-4cac-8c33-25f084688995",
+    "body" : "A máquina 10000 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-06T16:50:03.949+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "1d898532-71b7-4492-a51a-99b11a663c16",
+    "title" : "Estoque de RO-0153",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "cef184f5-11cb-4524-b65d-b0f414d0271b",
+    "body" : "A máquina RO-0153 atingiu o estoque mínimo de 2",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-28T15:59:09.569+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "31506e50-d595-4732-b2a8-9e42c4dae57e",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-10T17:08:47.896+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "f7a442ba-1c72-442f-b70e-70acf6562175",
+    "title" : "Estoque de GB-0214",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "5a8ef454-bcd3-4402-a1ec-adbd3b0a7c45",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "40388cfa-2397-4de7-9f31-239db34baab2",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "48a78136-1fc0-421f-a3f7-63b4d2699b2f"
+    ],
+    "machineId" : "beac4709-9e52-49d6-9e57-37784cc38f2f",
+    "body" : "A máquina GB-0214 atingiu o estoque mínimo de 20",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-09-15T15:32:27.636+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "15292a73-2ae6-4ba8-bd80-9665760176cf",
+    "title" : "Estoque de BB-0108",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "0a8112c1-cc5b-4f69-b16b-08c429d78c7c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "c79381ce-9fb6-4359-a0c0-292bf4e79776"
+    ],
+    "machineId" : "7d57fe4d-2671-4fbf-97c8-8f2d6b80f3e0",
+    "body" : "A máquina BB-0108 atingiu o estoque mínimo de 5",
+    "groupId" : "79d57250-a440-40a6-9670-2834f7036114",
+    "date" : ISODate("2021-07-22T21:00:33.633+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "b6765706-2e6a-4212-94cd-6a5317adf819",
+    "title" : "Estoque de RO-0152",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "c79381ce-9fb6-4359-a0c0-292bf4e79776"
+    ],
+    "machineId" : "aafdbcb6-5b80-4f62-bb6f-1c014ec8a100",
+    "body" : "A máquina RO-0152 atingiu o estoque mínimo de 16",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "date" : ISODate("2021-07-01T01:43:37.056+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "33997f3e-f024-4d43-b3f7-37bc2eecaac2",
+    "title" : "Estoque de VT-0174",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "1150a12b-9f2b-46c0-af7e-13ccd432f119",
+    "body" : "A máquina VT-0174 atingiu o estoque mínimo de 0",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-08-11T21:41:36.689+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "d5b4adac-352b-4d8a-a9bc-4a17e37afa3d",
+    "title" : "Estoque de MP-0103",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "dd1126f6-981f-427f-9980-edd38e564485",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4c4aa267-66ed-4efe-b9ab-a1716394078d"
+    ],
+    "machineId" : "a70ee2fe-43f4-42b1-bafa-17fe0f76aa70",
+    "body" : "A máquina MP-0103 atingiu o estoque mínimo de 20",
+    "groupId" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "date" : ISODate("2021-09-14T21:43:27.851+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "5391ef76-0aaa-4b90-82b0-2e2155d9c41a",
+    "title" : "Estoque de 18",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "ab15a7d8-9042-4552-bf07-fb3a3fc9f0be",
+    "body" : "A máquina 18 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-17T17:40:33.485+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "a5b17464-afa5-4507-b81e-659aa7269fd2",
+    "title" : "Estoque de 11",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "e88e2db7-4722-4825-92fe-e45fe372db6f",
+    "body" : "A máquina 11 atingiu o estoque mínimo de 0",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-06T12:18:26.870+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "00a198a4-4f99-4b68-814a-e1c397a3af53",
+    "title" : "Estoque de 21",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661",
+        "7f4884c3-9803-4795-ae03-7189275558f0"
+    ],
+    "machineId" : "7825085a-999b-41c4-ac80-06a5439350db",
+    "body" : "A máquina 21 atingiu o estoque mínimo de 20",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-19T20:28:58.889+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "f219b8d1-75b0-40e7-aaa1-378e2446dc84",
+    "title" : "Estoque de 38",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661",
+        "7f4884c3-9803-4795-ae03-7189275558f0"
+    ],
+    "machineId" : "f44299f0-17a4-4922-9c0d-912f49c16c99",
+    "body" : "A máquina 38 atingiu o estoque mínimo de 50",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-21T00:24:37.075+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "81d86ce0-53c6-401c-962f-72a3a39e195e",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 10",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-07-26T23:19:22.396+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "ba970f6a-9704-4008-9c08-c9a31f1194d2",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-12T21:33:00.674+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "659975c2-d40c-48f2-8d6e-dbc45a572e54",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "9677b3ee-aaab-4509-a746-cf608cc84661",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "7f4884c3-9803-4795-ae03-7189275558f0"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-22T22:56:12.743+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "00bb9497-4251-49c4-9ff0-1fae7720a9af",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-11T21:55:46.075+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "37b73fca-a9c2-4445-bbaf-b3b569910414",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-18T23:19:42.773+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "f8bee07b-bddd-4d65-9fe9-4d0bbb5f9155",
+    "title" : "Estoque de 01",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "87bddbb9-fd47-4ae6-ad24-6862a093afc5",
+    "body" : "A máquina 01 atingiu o estoque mínimo de 20",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-17T15:32:51.399+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "0eb1649b-3530-4091-a051-a383f7fa5a35",
+    "title" : "Estoque de MP-0601",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "5a8ef454-bcd3-4402-a1ec-adbd3b0a7c45",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "40388cfa-2397-4de7-9f31-239db34baab2",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "7692079d-2217-4ee5-bb9f-4a81b11460b3"
+    ],
+    "machineId" : "c7599fce-3c6f-4def-86d3-82afd642eed5",
+    "body" : "A máquina MP-0601 atingiu o estoque mínimo de 20",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-08-10T22:27:10.375+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "540b2fc3-6d7a-4dbf-a316-104a3a533a10",
+    "title" : "Estoque de 24",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "84cc466e-c496-4caf-9cf9-26024d8b2c88",
+    "body" : "A máquina 24 atingiu o estoque mínimo de 20",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-13T18:24:27.438+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "7f1991a6-7115-4e3e-8598-632cb538ac72",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-11T22:11:06.612+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "4f812dd1-125e-4e2e-a179-443308b57ca0",
+    "title" : "Estoque de MP-0608",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "183f7215-a0d4-4877-9bfa-0c803ff5f55d"
+    ],
+    "machineId" : "1d381704-492f-4dbd-92d0-921a24276d45",
+    "body" : "A máquina MP-0608 atingiu o estoque mínimo de 20",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-07-30T20:35:11.756+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "8d590ea7-a24c-4f17-8d35-ddafb9372e47",
+    "title" : "Estoque de 06",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "0446f562-d614-498d-a0bd-f2a99aa7f5ad",
+    "body" : "A máquina 06 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-06T17:54:16.940+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "5299377e-85ee-4491-8305-dc881e61c537",
+    "title" : "Estoque de GB-0157",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "2f093078-43f6-41a0-b374-bdc00ea6a813",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "5a8ef454-bcd3-4402-a1ec-adbd3b0a7c45",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "40388cfa-2397-4de7-9f31-239db34baab2",
+        "2dc1bc59-25c3-4b6e-8df3-b19eb4d590a0",
+        "c6aa2636-5833-4b02-bdcb-bb8f90af8854",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "c5d91956-2343-4205-9b32-518348c9a92c",
+        "0cd4ece6-3e46-40d4-a261-cf8aaa986ccf"
+    ],
+    "machineId" : "e5501881-53b7-4c9a-984a-1a6a017aac7e",
+    "body" : "A máquina GB-0157 atingiu o estoque mínimo de 20",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-08-16T17:42:41.261+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "50086943-1ff0-4a59-b0eb-23ac6ecd20b5",
+    "title" : "Estoque de CR-0173",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "c278fdea-aef6-4292-90c2-a09ec29dc042",
+    "body" : "A máquina CR-0173 atingiu o estoque mínimo de 20",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-27T20:06:22.538+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "53f52916-4247-45e5-83af-4dc2c3b0379d",
+    "title" : "Estoque de MP-0009",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "0a8112c1-cc5b-4f69-b16b-08c429d78c7c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f"
+    ],
+    "machineId" : "2b9f663e-21ee-495b-a460-d77f214091ee",
+    "body" : "A máquina MP-0009 atingiu o estoque mínimo de 20",
+    "groupId" : "79d57250-a440-40a6-9670-2834f7036114",
+    "date" : ISODate("2021-07-25T21:23:53.241+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "aeeca889-ca21-444b-ab74-d7b4f001449c",
+    "title" : "Estoque de B-173",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "c278fdea-aef6-4292-90c2-a09ec29dc042",
+    "body" : "A máquina B-173 atingiu o estoque mínimo de 20",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-25T01:28:26.825+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "c8e149cb-e696-42f2-97ca-925d7ac62cee",
+    "title" : "Estoque de MP-0001",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "99190199-41a5-4c30-aa2a-9633bcc74c0e"
+    ],
+    "machineId" : "a236f01a-5b85-44c2-9f8e-694ba731bfdc",
+    "body" : "A máquina MP-0001 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-31T17:02:08.151+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "0f3a6259-888f-4bca-86a6-11b377477305",
+    "title" : "Estoque de B-176",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "5471450a-fda6-4cce-ad1c-316750d64d66",
+    "body" : "A máquina B-176 atingiu o estoque mínimo de 20",
+    "groupId" : "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd",
+    "date" : ISODate("2021-06-27T15:41:36.475+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "cd6576ef-a478-4b08-93cc-e7720ea035f0",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-11T21:57:34.231+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "7eca58c6-ab7d-4c90-af50-a68f5cb79000",
+    "title" : "Estoque de BT-0521",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "40388cfa-2397-4de7-9f31-239db34baab2",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "7692079d-2217-4ee5-bb9f-4a81b11460b3"
+    ],
+    "machineId" : "881b7505-2c6d-413e-acdb-09e656a0c5fd",
+    "body" : "A máquina BT-0521 atingiu o estoque mínimo de 120",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-08-07T03:06:32.063+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "34c49438-f8e6-45c8-a26f-0d1d606587a3",
+    "title" : "Estoque de BT-0521",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "40388cfa-2397-4de7-9f31-239db34baab2",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "7692079d-2217-4ee5-bb9f-4a81b11460b3"
+    ],
+    "machineId" : "881b7505-2c6d-413e-acdb-09e656a0c5fd",
+    "body" : "A máquina BT-0521 atingiu o estoque mínimo de 120",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-08-07T03:06:26.608+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "b0bc9f79-4c59-4607-ac48-67712f6e7eb9",
+    "title" : "Estoque de BT-0525",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "5a8ef454-bcd3-4402-a1ec-adbd3b0a7c45",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "40388cfa-2397-4de7-9f31-239db34baab2",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "6c7295f6-8491-4ab9-8ac3-ac42c118a33e"
+    ],
+    "machineId" : "eda89712-84e5-4c81-8595-d5cad32fcbaa",
+    "body" : "A máquina BT-0525 atingiu o estoque mínimo de 120",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-09-17T15:14:34.354+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "79d671c7-d973-410d-877e-6dfff58216c3",
+    "title" : "Estoque de RO-0153",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "cef184f5-11cb-4524-b65d-b0f414d0271b",
+    "body" : "A máquina RO-0153 atingiu o estoque mínimo de 2",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-27T13:03:14.634+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "24440c61-c59f-40c8-9dbb-4757901bfdbf",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-11T22:19:42.384+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "5f3fecb2-e07d-48da-950b-a5255b22d907",
+    "title" : "Estoque de MP-0004",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "99190199-41a5-4c30-aa2a-9633bcc74c0e"
+    ],
+    "machineId" : "ea8e622c-b0f6-4efd-b0a2-be249e2ac94e",
+    "body" : "A máquina MP-0004 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-20T23:20:01.558+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "cd7e272c-76a0-4ce2-b518-cfde74e3ec29",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-29T18:43:17.988+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "ea2d3e35-7e30-4027-a3b3-e101581ee4dd",
+    "title" : "Estoque de MP-0004",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300"
+    ],
+    "machineId" : "ea8e622c-b0f6-4efd-b0a2-be249e2ac94e",
+    "body" : "A máquina MP-0004 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-08T21:13:27.890+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "7f5e574d-3422-415b-974b-9ee4f2169b5f",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-05T21:30:26.018+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "9c34ca18-885e-4037-896f-0d27c4b898bb",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 10",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-09T16:55:50.418+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "13b9bee8-ca8f-4910-98b8-a3ff4a41c9fa",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-12T10:32:43.807+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "6e6d4a69-5fe0-40ed-9c5c-d6120b101166",
+    "title" : "Estoque de MP-0002",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "99190199-41a5-4c30-aa2a-9633bcc74c0e"
+    ],
+    "machineId" : "321fc342-a882-41d2-a041-3d92b16dd395",
+    "body" : "A máquina MP-0002 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-08-16T10:46:20.628+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "82a0167d-c9d9-417e-8e90-f7c691a94cc6",
+    "title" : "Estoque de VT-0174",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "1150a12b-9f2b-46c0-af7e-13ccd432f119",
+    "body" : "A máquina VT-0174 atingiu o estoque mínimo de 0",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-08-16T16:13:09.315+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "bb4c5eca-f31d-4d61-9180-124f9e87b6b7",
+    "title" : "Estoque de GB-0274",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "5a8ef454-bcd3-4402-a1ec-adbd3b0a7c45",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "40388cfa-2397-4de7-9f31-239db34baab2",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "f323a56d-4a2f-4de1-8b50-a22030654375"
+    ],
+    "machineId" : "c9dcd7cf-4283-4347-96f4-7413750e88a0",
+    "body" : "A máquina GB-0274 atingiu o estoque mínimo de 20",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-09-14T23:52:24.511+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "447d0de1-685e-4b9a-a6d2-bb086520fd1c",
+    "title" : "Estoque de 28",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "bc24a072-02b7-4956-b572-8f7515047a2c",
+    "body" : "A máquina 28 atingiu o estoque mínimo de 20",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-30T16:09:10.690+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "63248d1c-cd85-4283-985d-207f141afdec",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-02T19:22:04.561+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "2d2fad12-21b1-4b63-8315-b2a86b72a98b",
+    "title" : "Estoque de MP-0007",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300"
+    ],
+    "machineId" : "75caef7d-c753-4ed5-9a7b-f8cef91bee6c",
+    "body" : "A máquina MP-0007 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-10T19:39:07.977+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "12e3af3c-d265-4942-a784-4128b2619421",
+    "title" : "Estoque de MP-0151",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "d4b6d224-10eb-499f-877f-8d2fc457c23c",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "335020fa-f646-48ab-8a1e-4cc9e056f722",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "d1f5e5b1-0906-4e53-953b-d8449b062cc2"
+    ],
+    "machineId" : "59dcc78f-a8eb-4b9a-a0b7-3a04371129eb",
+    "body" : "A máquina MP-0151 atingiu o estoque mínimo de 20",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "date" : ISODate("2021-08-26T23:46:55.862+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "154b5d38-1d50-402c-b0ad-072f92f3c5b6",
+    "title" : "Estoque de RO-0153",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "cef184f5-11cb-4524-b65d-b0f414d0271b",
+    "body" : "A máquina RO-0153 atingiu o estoque mínimo de 2",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-27T13:03:10.835+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "9c1c6be6-b4fc-4316-bce3-b9c3b6daccb1",
+    "title" : "Estoque de MP-0001",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "99190199-41a5-4c30-aa2a-9633bcc74c0e"
+    ],
+    "machineId" : "a236f01a-5b85-44c2-9f8e-694ba731bfdc",
+    "body" : "A máquina MP-0001 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-18T19:38:44.084+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "c3b15a40-12e4-4b1c-9340-15ac6a208fe0",
+    "title" : "Estoque de RO-0185",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "45f684e8-3768-4fdf-8746-0ceedd57c15d",
+    "body" : "A máquina RO-0185 atingiu o estoque mínimo de 2",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-26T02:27:34.276+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "5f1a2f5e-619c-44c2-9e75-4c8e374b8b76",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-07T17:13:54.156+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "28199e81-fb88-48e1-a622-d81fd750f90f",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-26T16:31:25.194+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "fbaebb22-5314-41b4-b2b4-da990da0f222",
+    "title" : "Estoque de 18",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "ab15a7d8-9042-4552-bf07-fb3a3fc9f0be",
+    "body" : "A máquina 18 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-04T16:27:35.679+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "ae13402b-3db9-481c-b3c1-870f282ea77d",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-04T18:28:43.971+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "b4c0a7fe-5cca-4ff7-bf76-852bd6fcd43b",
+    "title" : "Estoque de MP-0002",
+    "receivers" : [
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300"
+    ],
+    "machineId" : "321fc342-a882-41d2-a041-3d92b16dd395",
+    "body" : "A máquina MP-0002 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-10T02:40:07.715+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "ac504308-675a-4a11-9bd5-1292265cc4b2",
+    "title" : "Estoque de MP-0002",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "99190199-41a5-4c30-aa2a-9633bcc74c0e"
+    ],
+    "machineId" : "321fc342-a882-41d2-a041-3d92b16dd395",
+    "body" : "A máquina MP-0002 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-23T12:20:44.672+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "e1705db2-6834-4b43-9875-b7330a8d7c3e",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 10",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-01T17:09:58.678+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "b37efa28-0b90-4110-b5ec-0a00f6d1e8d2",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "9677b3ee-aaab-4509-a746-cf608cc84661",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "7f4884c3-9803-4795-ae03-7189275558f0"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-23T20:36:34.840+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "efc7cdc5-6085-4f50-a9a9-e978c4385fc3",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-12T00:29:43.382+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "ea967300-2dae-4462-8969-d9359dce97ff",
+    "title" : "Estoque de RO-0153",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "cef184f5-11cb-4524-b65d-b0f414d0271b",
+    "body" : "A máquina RO-0153 atingiu o estoque mínimo de 2",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-26T02:27:31.582+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "2f45fb94-0b96-43c5-87cb-bb59edb6ae90",
+    "title" : "Estoque de VT-0175",
+    "receivers" : [
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "a8d0006d-5499-44ef-9ccd-00c907487443",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "c79381ce-9fb6-4359-a0c0-292bf4e79776"
+    ],
+    "machineId" : "442af5dc-9db3-462e-8a0f-4ead922228ba",
+    "body" : "A máquina VT-0175 atingiu o estoque mínimo de 0",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "date" : ISODate("2021-07-27T02:05:21.992+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "299b075b-c327-41b2-8263-6f8459a5f91f",
+    "title" : "Estoque de GT-0526",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "6c7295f6-8491-4ab9-8ac3-ac42c118a33e"
+    ],
+    "machineId" : "39832c81-9f15-42af-a60a-fb87b1a45bc8",
+    "body" : "A máquina GT-0526 atingiu o estoque mínimo de 20",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-08-06T11:41:17.422+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "a7274baf-8c39-43e5-ac7e-45adbca9ce91",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-18T18:43:39.614+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "f1b3e79e-386e-4178-846a-39f36bc8183f",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-12T19:51:44.077+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "0973a8f4-db8e-4549-b571-2c4fccfe34d8",
+    "title" : "Estoque de 06",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "0446f562-d614-498d-a0bd-f2a99aa7f5ad",
+    "body" : "A máquina 06 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-06T18:15:56.040+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "26cf3041-6d5d-467f-9e18-41b4e419c40c",
+    "title" : "Estoque de 06",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "0446f562-d614-498d-a0bd-f2a99aa7f5ad",
+    "body" : "A máquina 06 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-06T13:06:57.656+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "a1c8c078-826e-40bc-abfd-2c75951ae31e",
+    "title" : "Estoque de MP-0000",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "1c74e87e-14f0-4185-9144-f982b2ad5eeb",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f"
+    ],
+    "machineId" : "4da980ba-5e2a-4af0-9a24-ba2367476f8d",
+    "body" : "A máquina MP-0000 atingiu o estoque mínimo de 20",
+    "groupId" : "2f552be1-e971-46fa-9a25-553c76e81a45",
+    "date" : ISODate("2021-07-24T18:15:40.269+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "18ab747c-9444-4bf1-9c97-242694d15df0",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-06T22:10:00.949+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "8f98fff6-59b2-45d1-9661-95f4d96ed391",
+    "title" : "Estoque de MP-0001",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "6cc4d8fe-473c-4efe-9c56-cc9177542500"
+    ],
+    "machineId" : "a236f01a-5b85-44c2-9f8e-694ba731bfdc",
+    "body" : "A máquina MP-0001 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-09-15T21:16:06.451+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "047b8e4b-ac29-492f-ac7b-e9922c8c8776",
+    "title" : "Estoque de MP-0151",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "d4b6d224-10eb-499f-877f-8d2fc457c23c",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "335020fa-f646-48ab-8a1e-4cc9e056f722",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "d1f5e5b1-0906-4e53-953b-d8449b062cc2"
+    ],
+    "machineId" : "59dcc78f-a8eb-4b9a-a0b7-3a04371129eb",
+    "body" : "A máquina MP-0151 atingiu o estoque mínimo de 20",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "date" : ISODate("2021-08-21T18:22:17.660+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "3a27aeef-ed95-4e60-917a-67e032f06656",
+    "title" : "Estoque de GB-6306",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "2f093078-43f6-41a0-b374-bdc00ea6a813",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "5a8ef454-bcd3-4402-a1ec-adbd3b0a7c45",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "40388cfa-2397-4de7-9f31-239db34baab2",
+        "2dc1bc59-25c3-4b6e-8df3-b19eb4d590a0",
+        "c6aa2636-5833-4b02-bdcb-bb8f90af8854",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "c5d91956-2343-4205-9b32-518348c9a92c",
+        "0cd4ece6-3e46-40d4-a261-cf8aaa986ccf"
+    ],
+    "machineId" : "9e927c30-9b49-444c-8b41-f634e5009f81",
+    "body" : "A máquina GB-6306 atingiu o estoque mínimo de 20",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-08-19T23:08:49.678+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "39fea592-7f2e-4569-9f43-e455bfce1abc",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-05T20:16:06.280+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "527267d2-5cca-4858-b0d8-37c13b008a16",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-18T18:24:31.938+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "8d3b7fe4-44fd-486f-9188-0b1e42cb8632",
+    "title" : "Estoque de RO-0153",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "cef184f5-11cb-4524-b65d-b0f414d0271b",
+    "body" : "A máquina RO-0153 atingiu o estoque mínimo de 2",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-28T12:37:17.021+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "bca8ba70-0d65-44a8-a09a-e42a12dc6f29",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-07-31T02:03:55.802+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "dc5c76f6-e4af-4462-b32f-c925f813039c",
+    "title" : "Estoque de MP-0612",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "5a8ef454-bcd3-4402-a1ec-adbd3b0a7c45",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "40388cfa-2397-4de7-9f31-239db34baab2",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "183f7215-a0d4-4877-9bfa-0c803ff5f55d"
+    ],
+    "machineId" : "4fdee45b-0e61-40ea-a85e-6a4ffd958523",
+    "body" : "A máquina MP-0612 atingiu o estoque mínimo de 20",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-08-27T19:53:10.145+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "12f469c2-c6e3-4c2c-9988-23e4021af1e7",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-05T23:25:36.108+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "08620f65-3423-43ab-a34c-0e2456713d4e",
+    "title" : "Estoque de 01",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "87bddbb9-fd47-4ae6-ad24-6862a093afc5",
+    "body" : "A máquina 01 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-07T23:11:04.846+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "cadbc7a4-4a5d-4f7b-be11-308d1cfa677e",
+    "title" : "Estoque de 06",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "0446f562-d614-498d-a0bd-f2a99aa7f5ad",
+    "body" : "A máquina 06 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-06T15:20:16.487+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "7fa98944-d7a0-434a-a73e-2d6dfcbb347a",
+    "title" : "Estoque de MP-0608",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "5a8ef454-bcd3-4402-a1ec-adbd3b0a7c45",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "40388cfa-2397-4de7-9f31-239db34baab2",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "183f7215-a0d4-4877-9bfa-0c803ff5f55d"
+    ],
+    "machineId" : "1d381704-492f-4dbd-92d0-921a24276d45",
+    "body" : "A máquina MP-0608 atingiu o estoque mínimo de 20",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-08-22T17:48:42.985+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "56152360-5877-46e1-8a96-8d06e0c55992",
+    "title" : "Estoque de MP-0004",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "99190199-41a5-4c30-aa2a-9633bcc74c0e"
+    ],
+    "machineId" : "ea8e622c-b0f6-4efd-b0a2-be249e2ac94e",
+    "body" : "A máquina MP-0004 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-19T18:02:36.146+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "c8508ab5-5fe3-4956-baff-b4bb3b999747",
+    "title" : "Estoque de RO-0178",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "0d2abe04-33f4-4d4c-b1e5-576ffe8e29b1",
+    "body" : "A máquina RO-0178 atingiu o estoque mínimo de 2",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-27T21:40:57.940+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "7032a274-3ae8-4585-bd9f-6262b818d7a9",
+    "title" : "Estoque de MP-0105",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "dd1126f6-981f-427f-9980-edd38e564485",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4c4aa267-66ed-4efe-b9ab-a1716394078d"
+    ],
+    "machineId" : "9794aed4-f2c0-4171-adff-c375ea662bed",
+    "body" : "A máquina MP-0105 atingiu o estoque mínimo de 20",
+    "groupId" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "date" : ISODate("2021-09-16T20:57:04.527+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "f42c95dc-7867-42d9-9205-412a6298deed",
+    "title" : "Estoque de B-276",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "ab85b90d-3db9-4c1b-99c9-d7a966c09359",
+    "body" : "A máquina B-276 atingiu o estoque mínimo de 20",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "date" : ISODate("2021-06-24T20:07:13.333+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "a94d3607-4e57-47d8-88db-79bca712ded9",
+    "title" : "Estoque de 06",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "0446f562-d614-498d-a0bd-f2a99aa7f5ad",
+    "body" : "A máquina 06 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-06T15:15:32.655+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "f9664cc5-6e34-4303-b762-0bc1b0643558",
+    "title" : "Estoque de CR-0227",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "f6d12388-aed8-4543-b01a-efa45283cdc4",
+    "body" : "A máquina CR-0227 atingiu o estoque mínimo de 20",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "date" : ISODate("2021-06-28T16:30:30.588+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "6e585190-7cdd-42c9-bc71-bf6886a3a554",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-05T17:08:20.295+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "5f75d417-0580-413d-95bc-de14b8fe8d14",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-13T21:17:59.882+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "413daddc-c538-4fb8-b8db-b099e43aaa83",
+    "title" : "Estoque de B-176",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "5471450a-fda6-4cce-ad1c-316750d64d66",
+    "body" : "A máquina B-176 atingiu o estoque mínimo de 20",
+    "groupId" : "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd",
+    "date" : ISODate("2021-06-25T22:52:12.589+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "4e22d041-8fce-44b9-b1ea-7cd7fd04e537",
+    "title" : "Estoque de MP-0001",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "99190199-41a5-4c30-aa2a-9633bcc74c0e"
+    ],
+    "machineId" : "a236f01a-5b85-44c2-9f8e-694ba731bfdc",
+    "body" : "A máquina MP-0001 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-15T23:29:13.582+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "f46fd3c9-a014-481b-b1d8-fb6c2dcb9192",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-09T23:50:41.516+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "77d3c868-5a99-46b2-95ca-2c17d8284354",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-03T15:10:43.176+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "027bcae8-98e7-410e-840a-013723033255",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "9677b3ee-aaab-4509-a746-cf608cc84661",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "7f4884c3-9803-4795-ae03-7189275558f0"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-22T20:33:14.878+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "287a72af-237a-48fa-83f2-4939618a0c7b",
+    "title" : "Estoque de MP-0009",
+    "receivers" : [
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "0a8112c1-cc5b-4f69-b16b-08c429d78c7c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f"
+    ],
+    "machineId" : "2b9f663e-21ee-495b-a460-d77f214091ee",
+    "body" : "A máquina MP-0009 atingiu o estoque mínimo de 20",
+    "groupId" : "79d57250-a440-40a6-9670-2834f7036114",
+    "date" : ISODate("2021-07-19T19:59:44.789+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "0d6164a5-2230-4b3f-affc-fccfe371e460",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-24T20:38:32.360+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "9ee24e77-f951-482a-831b-42b3c637e04b",
+    "title" : "Estoque de VT-0175",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "c79381ce-9fb6-4359-a0c0-292bf4e79776"
+    ],
+    "machineId" : "442af5dc-9db3-462e-8a0f-4ead922228ba",
+    "body" : "A máquina VT-0175 atingiu o estoque mínimo de 0",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "date" : ISODate("2021-07-09T02:16:04.212+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "a0ecd369-d72a-4be8-9db3-c55b28daacbd",
+    "title" : "Estoque de CR-0227",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "f6d12388-aed8-4543-b01a-efa45283cdc4",
+    "body" : "A máquina CR-0227 atingiu o estoque mínimo de 20",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "date" : ISODate("2021-06-28T16:30:29.051+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "ca8180e8-edb1-4dc5-97de-dbbac011c4d1",
+    "title" : "Estoque de 06",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "0446f562-d614-498d-a0bd-f2a99aa7f5ad",
+    "body" : "A máquina 06 atingiu o estoque mínimo de 20",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-12T15:13:17.060+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "7e0d877c-7463-4840-b663-126d7f817238",
+    "title" : "Estoque de MP-0004",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "99190199-41a5-4c30-aa2a-9633bcc74c0e"
+    ],
+    "machineId" : "ea8e622c-b0f6-4efd-b0a2-be249e2ac94e",
+    "body" : "A máquina MP-0004 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-08-21T15:45:24.313+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "0064285a-550c-4efc-bb24-3f14a8d50884",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-31T23:31:52.728+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "21cadcc7-cb12-4f1f-9092-4ccce8d6de36",
+    "title" : "Estoque de VT-0174",
+    "receivers" : [
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "1150a12b-9f2b-46c0-af7e-13ccd432f119",
+    "body" : "A máquina VT-0174 atingiu o estoque mínimo de 0",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-07-11T20:33:29.680+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "84374e77-50c1-458d-8ced-7a6076b5d865",
+    "title" : "Estoque de 06",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "0446f562-d614-498d-a0bd-f2a99aa7f5ad",
+    "body" : "A máquina 06 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-06T15:25:17.705+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "d1e5e738-dd40-4d00-8a0c-68ee7552cba1",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-07-25T00:38:24.700+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "98cb7a56-fbed-45e8-8dcc-879689d5209a",
+    "title" : "Estoque de 06",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "0446f562-d614-498d-a0bd-f2a99aa7f5ad",
+    "body" : "A máquina 06 atingiu o estoque mínimo de 20",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-16T13:00:35.280+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "38d39a26-19f5-44f1-840a-4ae85bed8b86",
+    "title" : "Estoque de GB-6306",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "4a27e7f6-4ffd-4f7e-8f74-f4bd66a76ca1",
+        "379b1032-5373-4618-859d-c7b9573110a5",
+        "9b2d3fdb-5bbe-4dbb-b479-76ffaac64c06",
+        "2f093078-43f6-41a0-b374-bdc00ea6a813",
+        "00d29f25-1b89-4232-8ac9-4f9d62adc6bd",
+        "5a8ef454-bcd3-4402-a1ec-adbd3b0a7c45",
+        "d9515682-31ba-4ed5-bdd2-1b88241a9b2f",
+        "40388cfa-2397-4de7-9f31-239db34baab2",
+        "2dc1bc59-25c3-4b6e-8df3-b19eb4d590a0",
+        "c6aa2636-5833-4b02-bdcb-bb8f90af8854",
+        "374d527d-c476-4115-8ae2-0749516d644d",
+        "c5d91956-2343-4205-9b32-518348c9a92c",
+        "0cd4ece6-3e46-40d4-a261-cf8aaa986ccf"
+    ],
+    "machineId" : "9e927c30-9b49-444c-8b41-f634e5009f81",
+    "body" : "A máquina GB-6306 atingiu o estoque mínimo de 20",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "date" : ISODate("2021-08-26T17:23:13.390+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "f15395a3-0e29-44be-924c-1401cd98c749",
+    "title" : "Estoque de VT-0175",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "a8d0006d-5499-44ef-9ccd-00c907487443",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "c79381ce-9fb6-4359-a0c0-292bf4e79776"
+    ],
+    "machineId" : "442af5dc-9db3-462e-8a0f-4ead922228ba",
+    "body" : "A máquina VT-0175 atingiu o estoque mínimo de 0",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "date" : ISODate("2021-07-16T21:50:09.079+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "ecbfc9b0-548f-43f2-a168-712af2cb299d",
+    "title" : "Estoque de BK-0139",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "0a8112c1-cc5b-4f69-b16b-08c429d78c7c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "c79381ce-9fb6-4359-a0c0-292bf4e79776"
+    ],
+    "machineId" : "47ea5699-4eeb-4c5b-b6d4-3fba725e7575",
+    "body" : "A máquina BK-0139 atingiu o estoque mínimo de 20",
+    "groupId" : "79d57250-a440-40a6-9670-2834f7036114",
+    "date" : ISODate("2021-08-20T04:40:03.284+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "ce18944a-5fc6-48ff-9fd6-06949ff60b11",
+    "title" : "Estoque de VT-0175",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "a8d0006d-5499-44ef-9ccd-00c907487443",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "c79381ce-9fb6-4359-a0c0-292bf4e79776"
+    ],
+    "machineId" : "442af5dc-9db3-462e-8a0f-4ead922228ba",
+    "body" : "A máquina VT-0175 atingiu o estoque mínimo de 0",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "date" : ISODate("2021-07-25T02:36:53.385+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "cc858e68-4671-42f6-a318-eb1b3561fde6",
+    "title" : "Estoque de 18",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "ab15a7d8-9042-4552-bf07-fb3a3fc9f0be",
+    "body" : "A máquina 18 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-28T21:45:40.161+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "1308103c-dd05-4635-bfc2-3f919aae747b",
+    "title" : "Estoque de TM-564-A",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "93573ba9-c833-4ae9-8c32-28aee4b92880"
+    ],
+    "machineId" : "c15c7bec-a331-479a-ac87-f68dc0313cfd",
+    "body" : "A máquina TM-564-A atingiu o estoque mínimo de 30",
+    "groupId" : "df23f4f5-043e-4397-afad-864ca67739dc",
+    "date" : ISODate("2021-08-15T00:07:37.852+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "af4b2515-ff74-44bc-9a3c-b0a5c23b899c",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-12T20:07:20.510+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "39305945-d3e5-4229-9c00-8173cdecc335",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-07T16:54:44.307+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "ba43c6af-fb47-404c-9ee1-969c76ddca3d",
+    "title" : "Estoque de RO-0153",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "cef184f5-11cb-4524-b65d-b0f414d0271b",
+    "body" : "A máquina RO-0153 atingiu o estoque mínimo de 2",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-27T13:03:12.588+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "23260420-a290-4db3-9868-d04b91d1a7c6",
+    "title" : "Estoque de MP-0000",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "1c74e87e-14f0-4185-9144-f982b2ad5eeb",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f"
+    ],
+    "machineId" : "4da980ba-5e2a-4af0-9a24-ba2367476f8d",
+    "body" : "A máquina MP-0000 atingiu o estoque mínimo de 20",
+    "groupId" : "2f552be1-e971-46fa-9a25-553c76e81a45",
+    "date" : ISODate("2021-08-02T00:22:00.947+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "41c641fb-70e2-4422-bbd6-e00ab528d09d",
+    "title" : "Estoque de VT-0175",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "a8d0006d-5499-44ef-9ccd-00c907487443",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "c79381ce-9fb6-4359-a0c0-292bf4e79776"
+    ],
+    "machineId" : "442af5dc-9db3-462e-8a0f-4ead922228ba",
+    "body" : "A máquina VT-0175 atingiu o estoque mínimo de 0",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "date" : ISODate("2021-08-22T01:10:19.671+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "371256cd-a8e9-4221-a586-41f6844dad32",
+    "title" : "Estoque de 017",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "13172950-b0ad-4482-807b-6da49e4a567e",
+    "body" : "A máquina 017 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-29T15:20:44.226+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "4dd2f5ff-d46f-4522-90c8-dd7e0ee8d78c",
+    "title" : "Estoque de RO-0178",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "0d2abe04-33f4-4d4c-b1e5-576ffe8e29b1",
+    "body" : "A máquina RO-0178 atingiu o estoque mínimo de 2",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "date" : ISODate("2021-06-27T22:53:19.217+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "a4fc94a2-e638-493e-aaa4-1cb3b8bab52d",
+    "title" : "Estoque de 28",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661",
+        "7f4884c3-9803-4795-ae03-7189275558f0"
+    ],
+    "machineId" : "bc24a072-02b7-4956-b572-8f7515047a2c",
+    "body" : "A máquina 28 atingiu o estoque mínimo de 20",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-19T22:29:04.314+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "c24d1cfd-c39e-4a2a-8b94-e300aaf20db1",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 25",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-11T19:48:44.659+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "6885b36f-e21f-4365-a296-243e2a7fb90b",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-14T00:19:59.684+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "892f6a25-a6f3-47af-b14d-8775bb8144f5",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-09T23:16:34.015+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "b0d943d2-66ea-49ef-a295-40f67a20cfbf",
+    "title" : "Estoque de 11",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "e88e2db7-4722-4825-92fe-e45fe372db6f",
+    "body" : "A máquina 11 atingiu o estoque mínimo de 0",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-07-13T19:11:20.592+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "a85caf94-5708-4fbc-80a5-ea75ead2d1c7",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-13T19:22:26.219+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "ba3ac38e-62b9-4838-ac9e-9fec93a78960",
+    "title" : "Estoque de VT-0304",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "c79381ce-9fb6-4359-a0c0-292bf4e79776"
+    ],
+    "machineId" : "89e29c09-315f-47f0-9063-dbe66b4686d3",
+    "body" : "A máquina VT-0304 atingiu o estoque mínimo de 0",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "date" : ISODate("2021-09-17T13:43:13.976+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "972985f2-5819-4a50-b14b-bb269d1dc080",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 10",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-07-23T23:12:21.949+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "ca5c0ab9-6538-4a82-8b6f-0cfab023b69c",
+    "title" : "Estoque de 22",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f177fbf1-68cf-4441-9bb8-ed0c024c4264",
+    "body" : "A máquina 22 atingiu o estoque mínimo de 10",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-07T19:43:49.597+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "9257a253-44e8-4f5c-9d0d-e1fd618fefec",
+    "title" : "Estoque de MP-0004",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "99190199-41a5-4c30-aa2a-9633bcc74c0e"
+    ],
+    "machineId" : "ea8e622c-b0f6-4efd-b0a2-be249e2ac94e",
+    "body" : "A máquina MP-0004 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-30T04:59:58.189+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "a0f708f7-08b6-40ad-8971-dcae00a082fa",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-11T00:40:36.951+0000"),
+    "isRead" : false
+}
+{
+    "_id" : "639213ed-87ad-4e7b-9cf6-96ca58134e5a",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-03T11:49:10.882+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "336168ad-56e7-4e30-968a-0d96d7ab29f1",
+    "title" : "Estoque de 06",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "0446f562-d614-498d-a0bd-f2a99aa7f5ad",
+    "body" : "A máquina 06 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-08T17:33:46.726+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "da40ffc3-67c4-477f-b910-9442f76d9448",
+    "title" : "Estoque de 24",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "84cc466e-c496-4caf-9cf9-26024d8b2c88",
+    "body" : "A máquina 24 atingiu o estoque mínimo de 20",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-13T18:24:25.327+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "811f877d-f2c8-43bd-9593-e7d6fe6f193d",
+    "title" : "Estoque de BB-0116",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "d4b6d224-10eb-499f-877f-8d2fc457c23c",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "335020fa-f646-48ab-8a1e-4cc9e056f722",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "d1f5e5b1-0906-4e53-953b-d8449b062cc2"
+    ],
+    "machineId" : "b798c658-71b3-437c-93fb-afb8f89c6255",
+    "body" : "A máquina BB-0116 atingiu o estoque mínimo de 10",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "date" : ISODate("2021-08-19T00:21:24.684+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "d5cc904c-b799-411d-9856-26edde3cc93e",
+    "title" : "Estoque de B-176",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc"
+    ],
+    "machineId" : "5471450a-fda6-4cce-ad1c-316750d64d66",
+    "body" : "A máquina B-176 atingiu o estoque mínimo de 20",
+    "groupId" : "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd",
+    "date" : ISODate("2021-06-27T21:51:19.196+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "d6b92140-95d6-4677-93f6-82a59d86afee",
+    "title" : "Estoque de MP-0118",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "b48f6003-e893-4765-82f3-5ff948d0ed6b",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "6d83abca-ff4d-4b89-9796-22d9b9a1d9c0",
+        "335020fa-f646-48ab-8a1e-4cc9e056f722",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "c79381ce-9fb6-4359-a0c0-292bf4e79776"
+    ],
+    "machineId" : "859e851d-db27-4fef-abef-dd313f4b9011",
+    "body" : "A máquina MP-0118 atingiu o estoque mínimo de 10",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "date" : ISODate("2021-08-12T14:46:39.129+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "06e361b1-add6-44d4-af19-e2f5ab3145a8",
+    "title" : "Estoque de 40",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "e83b767e-f0f5-48d7-b219-ee76d62adefc",
+    "body" : "A máquina 40 atingiu o estoque mínimo de 20",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-09-13T21:12:43.683+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "afb22518-27eb-4682-8d7c-db700ec3f479",
+    "title" : "Estoque de MP-0001",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "022ecd36-97c8-4851-889e-e5679d434081",
+        "73578ee3-fa3b-441d-a90c-931abe1f4300",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "99190199-41a5-4c30-aa2a-9633bcc74c0e"
+    ],
+    "machineId" : "a236f01a-5b85-44c2-9f8e-694ba731bfdc",
+    "body" : "A máquina MP-0001 atingiu o estoque mínimo de 20",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "date" : ISODate("2021-07-26T15:09:12.972+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "0bef4e54-9fc4-42dd-992b-c628692f7fb6",
+    "title" : "Estoque de BK-0126",
+    "receivers" : [
+        "ab9bd12c-b1de-40f5-bef5-b55537c355c0",
+        "46b70227-c251-4c35-a97b-1ae1243e6156",
+        "4563b6ed-c456-4efd-bc69-d7359240028c",
+        "0a8112c1-cc5b-4f69-b16b-08c429d78c7c",
+        "18f90f39-cac9-42cb-9cf1-ad4db804ce8f",
+        "c79381ce-9fb6-4359-a0c0-292bf4e79776"
+    ],
+    "machineId" : "10402e89-8fe1-4920-8b1f-e8dafeabdd8c",
+    "body" : "A máquina BK-0126 atingiu o estoque mínimo de 20",
+    "groupId" : "79d57250-a440-40a6-9670-2834f7036114",
+    "date" : ISODate("2021-08-08T01:35:16.482+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "b76ef37d-837d-415f-8673-2cc75e817961",
+    "title" : "Estoque de 13",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "b0d86e82-7ffc-46b8-addb-0435422d6734",
+    "body" : "A máquina 13 atingiu o estoque mínimo de 15",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-14T22:48:02.081+0000"),
+    "isRead" : true
+}
+{
+    "_id" : "693d16e3-14d0-4c1c-81b1-8820f3f1cb11",
+    "title" : "Estoque de 38",
+    "receivers" : [
+        "daae684f-d46e-479b-96c0-200809c95327",
+        "ce9e401d-0e4d-4acb-928e-7e248d2d7ff5",
+        "9677b3ee-aaab-4509-a746-cf608cc84661"
+    ],
+    "machineId" : "f44299f0-17a4-4922-9c0d-912f49c16c99",
+    "body" : "A máquina 38 atingiu o estoque mínimo de 20",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "date" : ISODate("2021-08-10T11:21:56.181+0000"),
+    "isRead" : true
+}

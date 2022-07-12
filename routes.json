@@ -1,0 +1,219 @@
+{
+    "_id" : "29b4d453-9974-4816-891a-89dfc77995ac",
+    "label" : "teste",
+    "operatorId" : "b85b9076-ed4d-4fb9-b6cc-624087a7631c",
+    "groupIds" : [
+        "7a964155-a095-4970-8696-4a90c9878eec"
+    ],
+    "pointsOfSaleIds" : [
+        "7c545fbe-9698-41d3-896c-4ab0170e55cd"
+    ],
+    "ownerId" : "4121a0aa-a78e-4682-acfb-f86f05ec4652"
+}
+{
+    "_id" : "5791c7c5-adcf-4d34-919a-224f7edb9a60",
+    "label" : "Rota Operador Iago",
+    "operatorId" : "370ed23b-0b2d-407c-a693-d1d636923e0f",
+    "groupIds" : [
+        "99574b16-6d46-452c-83f6-fbb0d705f18c"
+    ],
+    "pointsOfSaleIds" : [
+        "c1767306-1cb6-4303-acd6-07e057ff5e31"
+    ],
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "d02e2565-6e4e-4c46-91ed-d8200b6128c5",
+    "label" : "Rota Teste",
+    "operatorId" : "c59780a6-9107-4f69-a627-82cdabdfd262",
+    "groupIds" : [
+        "2748f4d9-b05f-4b13-9b28-f83317b850ff"
+    ],
+    "pointsOfSaleIds" : [
+        "b3a7bfe3-d035-45b7-9c14-4415d968f2cd",
+        "d8dbd62b-9662-49b0-a226-386f517514fc"
+    ],
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "8e010a79-e0cd-43d7-9617-43a03f592143",
+    "label" : "Rede de Mercados SP",
+    "operatorId" : "4e65adfc-2ef0-4f75-8aab-aab05ed1bb03",
+    "groupIds" : [
+        "8369b438-8f8e-41eb-a0d5-52148bf91689"
+    ],
+    "pointsOfSaleIds" : [
+        "4b6486d4-7e86-4e84-b8fd-a0cca8559dc6",
+        "a5303761-57d7-4302-ab5f-b0deb1d2d357",
+        "4d3a104e-b424-46f7-b60b-c2c1aad7dde1",
+        "60152746-b640-43a0-83ef-a4cf7cf5d268",
+        "978ce5ee-62ee-4c47-a944-3d46c0c182e6",
+        "944a138e-3bfb-4c1f-9522-26b372429ff0"
+    ],
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "550727d3-67d5-4e9c-86c5-382911d010b6",
+    "label" : "MEGA CAMELÔ BC",
+    "operatorId" : null,
+    "groupIds" : [
+        "79d57250-a440-40a6-9670-2834f7036114"
+    ],
+    "pointsOfSaleIds" : [
+        "638ee198-6849-4fe2-ba1c-28f278f724d2"
+    ],
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "d4eb5965-392b-4615-92cb-89708320f4e5",
+    "label" : "Rota Ricardo - Florianópolis",
+    "operatorId" : "9c75495c-33dc-4c21-bcaa-7313c3aa7774",
+    "groupIds" : [
+        "538e5185-36bc-42a1-b2eb-0d75acf0c9bb"
+    ],
+    "pointsOfSaleIds" : [
+        "8d789aff-0fac-419c-86ff-bb456a3cf24f",
+        "42b56cf1-87c0-4c4a-902a-489dce9f685a",
+        "55c7f1ce-0475-47ee-83a6-df9d89d3726f",
+        "acd57201-82b0-4a74-949a-fac0322275bc",
+        "ca8ad191-468f-461a-a910-a54e2b0b6d1f",
+        "973c0d2b-c067-4a6d-91ee-52fc0ad1a95e",
+        "2cdfe45e-72f7-4988-acd5-66fc9fbab2dc"
+    ],
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "7ec57f14-2d52-4929-bbef-0077d4dcd1f2",
+    "label" : "a",
+    "operatorId" : null,
+    "groupIds" : [
+
+    ],
+    "pointsOfSaleIds" : [
+
+    ],
+    "ownerId" : "64907cd6-e679-4765-b563-20cf08326cac"
+}
+{
+    "_id" : "5b20ff8f-623c-4c9e-857a-27bfacb8e5cd",
+    "label" : "Rota Operador Allan Silva",
+    "operatorId" : "c79381ce-9fb6-4359-a0c0-292bf4e79776",
+    "groupIds" : [
+        "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd"
+    ],
+    "pointsOfSaleIds" : [
+        "2d1c2bda-e05f-4dc7-8635-b2be3edaa582"
+    ],
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "a5f3c105-0845-4322-9861-ccdefd05e112",
+    "label" : "teste ",
+    "operatorId" : null,
+    "groupIds" : [
+
+    ],
+    "pointsOfSaleIds" : [
+
+    ],
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737",
+    "label" : "Rota Operador Daniel",
+    "operatorId" : "d8fc9086-730e-4f6e-bbf7-1c6c974c0ecc",
+    "groupIds" : [
+        "8c3e3dc1-c6ad-488c-895f-b7e25537f5eb",
+        "8369b438-8f8e-41eb-a0d5-52148bf91689",
+        "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+        "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+        "79d57250-a440-40a6-9670-2834f7036114",
+        "99574b16-6d46-452c-83f6-fbb0d705f18c",
+        "8b9196f7-241f-4a11-8ba2-2830fabdf441",
+        "2d691750-0b5f-428d-a635-ee9b804bbe47",
+        "ede4846a-8c3a-4270-b85e-0cdae9d9d2ab",
+        "2eb8df8b-1eaf-4363-b1bc-88176b85a9c1",
+        "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd"
+    ],
+    "pointsOfSaleIds" : [
+        "53023c43-c52e-4d39-8385-b7ccadacbc57",
+        "8e37a901-ea24-4d60-8ba5-9b72733b5785",
+        "f2bc3e23-8b5d-40a4-9019-7a63b9f34c80",
+        "017b1155-478b-434f-ae3e-5f867cc1ec77",
+        "0d0e0c20-a3f3-4a06-8917-776acacd8275",
+        "9c127f58-6059-46df-bab0-e70287bbb6cb",
+        "17e84338-e619-4a05-9b9d-a2f18049a57a",
+        "4ab8490b-6b60-4bf1-a9c8-3727ada1fcef",
+        "78ac9681-6ef0-4c05-9933-e5ea96001a6f",
+        "a9cc432c-caa4-4ed1-969e-1a49f24edb4e",
+        "76328584-63db-481c-97f2-739417f00244",
+        "8aaf8da8-84d8-4a2f-9e64-6de4bd8cb5f7",
+        "f8ec65a7-0c93-41c7-893f-c97d4508527e",
+        "eed8bbe8-358f-46d4-9d56-c49e7fe3db50",
+        "4bce310a-2d59-440d-bd6c-deccbbada113",
+        "c514aa0e-117f-4835-b53c-2de91809f660",
+        "9d75972b-8af3-439a-a7b9-000ee654cebb",
+        "c7bfdd9c-adfa-436d-ae63-75d61c5c6e1e",
+        "5494742f-a0df-41c7-97b6-b2867c574540",
+        "148cd985-84df-43a5-b9f1-b779db5be5c9",
+        "9562c027-6e07-4a24-a4b3-8a7fcac46fbb",
+        "d7496c35-bd81-43d3-90de-9e5c24e78e1c",
+        "5370cb08-58db-4d1e-9e1d-73a4f4fc1259",
+        "e85f192a-a8db-4f1a-b006-9e9d91e30048",
+        "adc5a2ea-6f6d-4107-ba02-40df8ae9d82d",
+        "17fe5166-f5bd-4d42-8378-284e4b7c581f"
+    ],
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "40dd10ca-ac93-4d76-97ad-f9cdce4c2783",
+    "label" : "Rota Operadora Ane Carolina",
+    "operatorId" : "359b0f63-b63a-4fae-af17-410bece57a27",
+    "groupIds" : [
+        "538e5185-36bc-42a1-b2eb-0d75acf0c9bb"
+    ],
+    "pointsOfSaleIds" : [
+        "00450500-ad31-4fa7-922a-6c610bccc858"
+    ],
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "ce540e6e-db4a-44e7-a75f-e273fff3d135",
+    "label" : "Rota Operador Alexandre",
+    "operatorId" : "4af8dcd8-f35f-4a59-8e41-9dbdb87c86d9",
+    "groupIds" : [
+        "6bb4dd70-0ec4-43d2-99ff-b8e1738cb187"
+    ],
+    "pointsOfSaleIds" : [
+        "9f4a94c3-d3e7-42f6-b533-bc0d96b06846"
+    ],
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "2c20271d-00dd-4cf4-824b-4e14335daca0",
+    "label" : "Rota Operador Fábio RJ",
+    "operatorId" : "93573ba9-c833-4ae9-8c32-28aee4b92880",
+    "groupIds" : [
+        "df23f4f5-043e-4397-afad-864ca67739dc"
+    ],
+    "pointsOfSaleIds" : [
+        "445e47f2-8f65-41ef-91bf-ff2ecb65fa01"
+    ],
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "2dcc027f-5b8f-46e3-b27e-74dfe826b144",
+    "label" : "Rota Embarcadero e Canela",
+    "operatorId" : "04500e81-e28e-4d31-ad89-041d9eea1b6c",
+    "groupIds" : [
+        "8d481e4b-c2a0-4ecd-85c9-776d968d0284",
+        "2d691750-0b5f-428d-a635-ee9b804bbe47",
+        "8b9196f7-241f-4a11-8ba2-2830fabdf441"
+    ],
+    "pointsOfSaleIds" : [
+        "1b5a8fa7-bdd4-41ff-87c3-a5befb4c9c64",
+        "3f5aa58e-74f6-4b84-b2ba-b26166757ff8",
+        "1b6897c3-171e-447e-b8d0-cd119f5c07ac"
+    ],
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}

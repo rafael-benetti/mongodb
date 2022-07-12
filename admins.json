@@ -1,0 +1,18 @@
+{
+    "_id" : "a4cd5ef0-1e3e-4b15-91cc-fd1ef468c43c",
+    "email" : "marketing@blackenter.com.br",
+    "password" : "$2b$10$X/abrd38abE5tggWL.oyc.2ploAOtdf5KXGoiDxNzZWmR1D/6qzkC",
+    "name" : "Rafael"
+}
+{
+    "_id" : "18d59349-4182-4fee-89f3-f769b2caeab1",
+    "email" : "spots@admin.com",
+    "password" : "$2b$10$tR/E8rHaquUTgodYOm4Ol.27F61xfThw9Ncs4aXslh2yFj7xi1vuS",
+    "name" : "admin"
+}
+{
+    "_id" : "f695f77e-0891-44ff-82b9-3829d3edfdb4",
+    "email" : "contato@sttigma.com",
+    "password" : "$2b$10$X/abrd38abE5tggWL.oyc.2ploAOtdf5KXGoiDxNzZWmR1D/6qzkC",
+    "name" : "Admin"
+}

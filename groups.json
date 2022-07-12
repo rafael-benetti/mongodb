@@ -1,0 +1,1472 @@
+{
+    "_id" : "2eb8df8b-1eaf-4363-b1bc-88176b85a9c1",
+    "label" : "1.07 BLACK/JOÃO PAULO ALMEIDA",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "1450c42e-0def-43e8-bb97-f4a636a3ba07",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(44)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "label" : "1.15 BLACK/WEIK",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "f2927061-e843-458d-a551-a8ed76bbc385",
+                "label" : "Prêmio Roleta",
+                "quantity" : NumberInt(156)
+            },
+            {
+                "id" : "46481082-7242-4110-9077-fb9f23c5e026",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(34)
+            },
+            {
+                "id" : "c91889be-c0b6-418d-a1c3-1aafac6d34ff",
+                "label" : "Pelúcia 80cm",
+                "quantity" : NumberInt(30)
+            },
+            {
+                "id" : "669bd04c-abac-4d0b-8d7b-e929d928c6e8",
+                "label" : "Pelúcia 40cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "327d72c4-3043-4f88-b1fb-8e7020707476",
+                "label" : "Pelúcia BIG",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "719f09ea-6c91-4077-ba0b-6aa4e95e358b",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(38)
+            },
+            {
+                "id" : "cd0be264-2b89-403c-aba6-7ecba2fe44b5",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "3c8c3e06-0614-45b1-b2db-13a3379c43d2",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(15)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "7b465c5d-8b92-4802-9aba-54b5184da00c",
+    "label" : "1.08 BLACK/MARIANA-ALAN",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "2745c643-59b3-40f2-bd5a-c22095686fc0",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "e1c4d472-ac57-451e-8c24-3222209dd000",
+    "label" : "Xcdc",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "a7949153-d920-4658-a2be-1e8793f4f5d6",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "f8dd5a7b-b36b-4243-98d6-33f098585ff3"
+}
+{
+    "_id" : "cfa2e870-0676-4089-a5f3-4c6424171417",
+    "label" : "1.18 BLACK/LEONARDO FLORIPA (Big Truck)",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "0e28edd6-25c1-44b9-8bb7-5aabdb4dc904",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(110)
+            },
+            {
+                "id" : "c437ec74-5cdc-4425-84f6-7b7ccf890ae6",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "576539c2-f10f-4cd5-b21b-eb3ff39118b2",
+    "label" : "teste",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "64907cd6-e679-4765-b563-20cf08326cac"
+}
+{
+    "_id" : "ec7d03fd-6c65-4537-a601-66a9c355d9f3",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "10268f11-0663-403d-aeb1-6a3d5311f800",
+                "label" : "pelucia",
+                "quantity" : NumberInt(1293)
+            },
+            {
+                "id" : "f106d1f1-0829-4d1e-bf28-cad8ff990e26",
+                "label" : "pel",
+                "quantity" : NumberInt(100)
+            }
+        ],
+        "supplies" : [
+            {
+                "id" : "2e87fc1f-4728-489b-a88b-37fd07181100",
+                "label" : "a",
+                "quantity" : NumberInt(100)
+            }
+        ]
+    },
+    "ownerId" : "64907cd6-e679-4765-b563-20cf08326cac"
+}
+{
+    "_id" : "d6736138-8b4e-42fc-841f-4312a57706b1",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "61bc37e5-e160-4752-b79d-621a9424657d"
+}
+{
+    "_id" : "a0195558-5ac7-46a0-9d19-30de4f67e1bf",
+    "label" : "d",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "8c3e3dc1-c6ad-488c-895f-b7e25537f5eb",
+    "label" : "EVENTO - EXPOLONDRINA",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "f647c360-9606-48ed-9401-bf4c344037e5",
+                "label" : "Pelucia 20 cm",
+                "quantity" : NumberInt(783)
+            },
+            {
+                "id" : "77289f6a-81ef-49db-9594-659a59f318f8",
+                "label" : "Pelucia Mega 80/100 cm",
+                "quantity" : NumberInt(11)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "538e5185-36bc-42a1-b2eb-0d75acf0c9bb",
+    "label" : "1.09 BLACK/RICARDO FLORIPA",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "67f78a84-bf43-4091-8f15-c3ca7dbbfb40",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "1470454e-1c16-4e7d-8a05-cdb852175ca5",
+                "label" : "Pelúcia 40cm",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "61d5e40a-108c-4f02-8d2c-c8fa1d1d606d",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "4fd0454d-bb45-4d66-bd6c-472fcfa29436"
+}
+{
+    "_id" : "8d481e4b-c2a0-4ecd-85c9-776d968d0284",
+    "label" : "BLACK/DIEGO-LONDRINA",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "d240a9b2-eea2-4041-8b47-d6b19d9d2427",
+                "label" : "pelúcia 20cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "eaa31e2c-bf1c-4107-927a-498986a54c06",
+                "label" : "Pelúcia 40 cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "1fb8e901-0a88-4b14-9b2f-b708e19ea175",
+                "label" : "Pelúcia Big 100/120",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "b3f4b7dd-1132-49f3-ac9b-f75570b86d3d",
+                "label" : "Pelucia Mega 80/100cm",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd",
+    "label" : "1.03 BLACK/FERNANDO RIBEIRO",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "1450c42e-0def-43e8-bb97-f4a636a3ba07",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(374)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "df23f4f5-043e-4397-afad-864ca67739dc",
+    "label" : "2.03 MEGA/LUIZ RIO DE JANEIRO",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "8662f1c3-f8ea-4ad2-8bce-2a0831e624c8",
+                "label" : "Pelucia 80cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "1e132adf-7f25-4ee6-adfa-1d795c6303c2",
+                "label" : "Pelucia 20cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "7bd1b61c-7717-4f21-8ab1-072ecc40f6c8",
+                "label" : "Premio Roleta",
+                "quantity" : NumberInt(1)
+            },
+            {
+                "id" : "a29e9526-d150-4c26-997a-b8602dcde34a",
+                "label" : "Pelúcia 40cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "87a264e8-1e44-4871-a501-9c2df5cfdd0c",
+                "label" : "Pelúcia 100/120 - Big",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "label" : "1.02 BLACK/GUSTAVO - LOJA",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "1450c42e-0def-43e8-bb97-f4a636a3ba07",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "1470454e-1c16-4e7d-8a05-cdb852175ca5",
+                "label" : "Pelúcia 40cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "fea8afb4-792f-458c-895b-b2f11d31e194",
+                "label" : "Bola LOL",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "c9da1d15-fe66-4016-bb2d-cb105891e271",
+                "label" : "Pelúcia 80cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "fc6b7841-73dc-4009-9f71-8cbcc2ec1059",
+                "label" : "Prêmio Roleta",
+                "quantity" : NumberInt(5)
+            },
+            {
+                "id" : "d1e0eb38-43b5-4eee-aff1-f1dc5a8c231a",
+                "label" : "Pelúcia BIG",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "6917de6d-2b6e-4bf9-ae7b-4b387316efa2",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "a5e685b1-2ca4-4c98-b62f-28c842bd1a4d"
+}
+{
+    "_id" : "6ca5cf5f-fa73-4e81-99ff-e86b4610e4ec",
+    "label" : "1.05 BLACK/DANIEL",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "1450c42e-0def-43e8-bb97-f4a636a3ba07",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "22d51838-e851-4c1c-b5c0-78aceb48c9b6",
+    "label" : "awecegy",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "46315b85-0e02-4e46-9696-ef56d00da49b",
+    "label" : "MEGA/MARCELO FRANZEN (RS)",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "e3ee50fb-33d4-4cf1-afa7-26f59a40d56d",
+                "label" : "Pelúcia 80cm",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "2f552be1-e971-46fa-9a25-553c76e81a45",
+    "label" : "2.05 MEGA/GABRIEL PORTO ALEGRE",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "2d774fcf-7417-4818-8d43-0f617696711d",
+                "label" : "Pelucia 80cm",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "5265ba0a-f5f9-4091-9e66-5b414da553c5",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "169dc713-2c4c-4247-949c-3ea4baae8482",
+                "label" : "Pelúcias variadas",
+                "quantity" : NumberInt(140)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "a2aa44ba-7e0a-4416-94d4-58a277d1c27a"
+}
+{
+    "_id" : "24e00114-d33a-4954-b4a4-ed734e14fc51",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "bc27c71e-0139-4133-9a18-78b8944a1b58"
+}
+{
+    "_id" : "bd76348c-d4ac-40ab-b984-abe7317b440c",
+    "label" : "Y TESTES 1",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "a0f3be15-0963-49a8-a98d-119bf516cb5e",
+                "label" : "PELUCIA 20CM",
+                "quantity" : NumberInt(100)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "15b8a6b8-e2df-4dbe-b765-3571f5b898e7",
+    "label" : "1.06 BLACK/GABRIEL",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "3012f0a5-5df4-4a51-9a60-0ca77979e67b",
+    "label" : "cg",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "2.07 MEGA/RODRIGO MARINGA PR",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "f3ecbbcd-ab78-4a1d-99a4-de1f2fc23c94",
+                "label" : "Pelucia 20cm",
+                "quantity" : NumberInt(1630)
+            },
+            {
+                "id" : "c30a9d44-04ba-47ae-b4f7-4ade3191fbc5",
+                "label" : "Pelucia 40cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "8633f961-7db2-4864-b3b7-7d71ef6c9d70",
+                "label" : "Pelucia 80cm",
+                "quantity" : NumberInt(2118)
+            },
+            {
+                "id" : "e5b02861-240f-4472-8d30-4b697f9d1ccb",
+                "label" : "Premio Roleta",
+                "quantity" : NumberInt(1)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "3d46fb87-f91d-4c84-a06f-22b4504c6c8d",
+    "label" : "ffffff",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "64a15fa5-c2ad-4fcd-a205-9f4576508a3f",
+    "label" : "fffecj",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "e385d47b-ca32-4398-9c33-18d06ecf59fd",
+                "label" : "Pelucia 20cm",
+                "quantity" : NumberInt(5)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "7a964155-a095-4970-8696-4a90c9878eec",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "f0dc5ad8-b2a5-405e-ad20-b84992bad74b",
+                "label" : "PELÚCIA",
+                "quantity" : NumberInt(391)
+            },
+            {
+                "id" : "dae2f0ed-d1ce-489a-95fc-ee2904c84c6f",
+                "label" : "OTRA PELÚCIA",
+                "quantity" : NumberInt(200)
+            }
+        ],
+        "supplies" : [
+            {
+                "id" : "a1a979a1-db5f-4617-87ef-c64cef274b64",
+                "label" : "PELÚCIA SUP",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "f3dbd380-cd6e-4975-a896-d43902e7a0f7",
+                "label" : "Peça JoyStick",
+                "quantity" : NumberInt(10)
+            }
+        ]
+    },
+    "ownerId" : "4121a0aa-a78e-4682-acfb-f86f05ec4652"
+}
+{
+    "_id" : "94fdd3e7-c81c-4863-b948-e21449f39e9b",
+    "label" : "Parceria Teste",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "f0dc5ad8-b2a5-405e-ad20-b84992bad74b",
+                "label" : "PELÚCIA",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "4121a0aa-a78e-4682-acfb-f86f05ec4652"
+}
+{
+    "_id" : "92df6845-44e9-4aa3-8580-6d5c41c24b22",
+    "label" : "a",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "9390d791-1d40-43b7-96dc-90f54db39fb1",
+    "label" : "1.10 BLACK/TACIANE",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "719f09ea-6c91-4077-ba0b-6aa4e95e358b",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "63ecae2a-6617-4309-9d78-07a77f81b696",
+                "label" : "Bola LOL",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "1450c42e-0def-43e8-bb97-f4a636a3ba07",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "7caf70fe-681c-4cdf-8f7f-7bef72bbece9",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "e9f24273-1e82-4cc5-9442-6820e5155965"
+}
+{
+    "_id" : "99574b16-6d46-452c-83f6-fbb0d705f18c",
+    "label" : "BLACK/GABRIEL E WEIK",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "6be3c027-ba3e-41b8-ab77-e91e93388692",
+                "label" : "pelúcia 20cm ",
+                "quantity" : NumberInt(81)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "bd2f7947-1c6f-4f68-9160-d288bb34dd4a",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "13433966-5d52-435b-89f8-0dbac74b66d5"
+}
+{
+    "_id" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "label" : "2.04 MEGA/DOUGLAS MINAS GERAIS",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "181fa9bc-51be-4892-b905-ed33190e22fc",
+                "label" : "Pelucia 20cm",
+                "quantity" : NumberInt(50)
+            },
+            {
+                "id" : "6b3cea5c-1f5c-4b48-a3c6-0467c3139874",
+                "label" : "Pelucia 80cm",
+                "quantity" : NumberInt(12)
+            },
+            {
+                "id" : "c6199062-d05a-4c95-b5f0-6cd3f3c7eec9",
+                "label" : "Pelúcia BIG",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "83024520-2fab-452a-be79-70bfcb999467",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "992dc75a-47ed-483a-81a7-2dcc43a7968c"
+}
+{
+    "_id" : "b02e4c43-3c7b-40d4-a17f-161154ca8b13",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "3a80347d-f030-42b4-8dc6-b1d2f63d48ed"
+}
+{
+    "_id" : "eeab4806-8545-4d17-8658-c728b4b294a4",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "5aeff7de-7e04-4a31-9ae8-f142048b0b4b"
+}
+{
+    "_id" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "label" : "1.13 BLACK/BEN HUR FLORIPA",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "c437ec74-5cdc-4425-84f6-7b7ccf890ae6",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(45)
+            },
+            {
+                "id" : "b7f0561f-af28-4297-9908-175b88a632c5",
+                "label" : "Pelúcia 40cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "6f64ba62-39a2-4946-9acd-d619212f5968",
+                "label" : "Pelúcia 80cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "3f18c911-b82c-48bc-86f6-6da66619ac39",
+                "label" : "Prêmio Roleta",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "4fd73ba3-9e55-4873-97af-629b1aefb18f",
+                "label" : "Prêmio Roleta",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "label" : "5.02 MEGA/RENAN SÃO PAULO",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "35fd7c0d-f0db-4be6-afb5-e3b9ee4d0290",
+                "label" : "Pelucia 80cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "9cd303bb-a343-4c09-8baf-a99eaf6ec21d",
+                "label" : "Pelucias 60 cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "017d41b4-64f4-4bfe-9535-cb20f32de99b",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "4106b461-0a34-4a9c-9c23-0ad5c62f9be3",
+                "label" : "Pelúcia 40cm",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "68fa01e7-faf0-4d2b-a038-b106046428be",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "50eb9e7d-538e-4b76-92c5-da050b230fd1"
+}
+{
+    "_id" : "447548b0-476d-4a28-8cfc-ed3e9a920396",
+    "label" : "c",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "55b7152b-ea18-4666-a73e-0f8ee179ac7a",
+    "label" : "aqe",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "e385d47b-ca32-4398-9c33-18d06ecf59fd",
+                "label" : "Pelucia 20cm",
+                "quantity" : NumberInt(10)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "ad52104e-a49e-4822-9069-4e5f12d5b132",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "0045b81b-a3c6-4902-ac2d-b6eb40c1fb2b",
+                "label" : "Pelúcia de 20cm",
+                "quantity" : NumberInt(56)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "d6691cbd-e3e7-4306-af4b-9a165af5818e"
+}
+{
+    "_id" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "3b75a809-a2c1-4d62-8d19-f9c31d658758",
+                "label" : "Pelúcias PP",
+                "quantity" : NumberInt(8261)
+            },
+            {
+                "id" : "8f9c9d27-9c99-441a-a73d-4e2d9574510a",
+                "label" : "Pelúcias P",
+                "quantity" : NumberInt(979)
+            },
+            {
+                "id" : "8fa0bc50-ea91-4968-8870-a36e93aa2c7f",
+                "label" : "Pelúcias M",
+                "quantity" : NumberInt(5299)
+            },
+            {
+                "id" : "e467190d-a237-463d-bfd1-c97b98a4ec39",
+                "label" : "Pelúcias G",
+                "quantity" : NumberInt(434)
+            },
+            {
+                "id" : "533aa885-fec8-4674-a27b-c1b2f3eab2f0",
+                "label" : "Carrinhos",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "cb7d6db6-9e31-4166-b8e7-c5df862be3c1",
+                "label" : "Bolas personagens",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "2d470ec1-af28-4cee-bbfb-85d25e7eb2d5",
+                "label" : "Bolas personagens",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "0deb6be0-6186-46c8-9652-2d13ab19ee8e",
+                "label" : "Bolas futebol",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "3a0d5a5a-d01e-499d-bab9-0a131c4aeca9",
+                "label" : "Polvo",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "8e5f1de4-40ba-439d-a8cd-a440686ad2e2",
+                "label" : "Cofre",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "ee303c8d-5e07-459f-8d98-f076e2bdaf3f",
+                "label" : "Pelúcias GG",
+                "quantity" : NumberInt(251)
+            },
+            {
+                "id" : "c497b11e-ac6d-4047-872f-e35fe456a5a2",
+                "label" : "Pelúcia GG papai noel",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "ba0554b6-adaa-426d-82df-da7cbcfb9b28",
+                "label" : "Pelúcia GG (venda) ",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "ec30af60-863c-4d67-89b4-7316e59033c7",
+                "label" : "Pop It",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "79d29fc4-42dd-4f7c-b244-10838a556491",
+                "label" : "Pelucia natal ",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "a7ed93c1-d5db-4603-92d2-5cf86e125157",
+                "label" : "Peles (enchimento)",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "0e1c50a7-87dd-40a3-8529-8ad441efbf60",
+                "label" : "Pelúcias M (NATAL)",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "9523f5af-ceb7-4096-9ff5-1c1d6a0965d3",
+                "label" : "Peles GG (enchimento)",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "458031b9-07c5-4a3e-bcbb-0230657dd498",
+                "label" : "Pelúcias Natal (enchiemento)",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "8e2da2ee-e1b3-487b-bc57-c5b547a4b818",
+                "label" : "Bonés",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278"
+}
+{
+    "_id" : "2748f4d9-b05f-4b13-9b28-f83317b850ff",
+    "label" : "Teste",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "d422c852-86b4-46fa-9041-e463d150c2a0",
+                "label" : "prêmio teste",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "e385d47b-ca32-4398-9c33-18d06ecf59fd",
+                "label" : "Pelucia 20cm",
+                "quantity" : NumberInt(75)
+            },
+            {
+                "id" : "c25aaa2a-ba98-4a21-8d92-d6e8763296a2",
+                "label" : "Respeito",
+                "quantity" : NumberInt(5)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "87ee1b46-13de-41b4-be5e-fbe5d0c75689",
+    "label" : "5.01 MEGA/GRUPO RS",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "a9c24877-cc14-4690-93ec-5e319c03411b",
+                "label" : "Pelúcia 80cm",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "e58202db-7627-4cdc-9ff7-3036d78aa05c",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "bdabd5eb-dccb-45d7-acad-98fd8ed51a57"
+}
+{
+    "_id" : "4d980dd0-3c0a-4e59-97da-6a2ffe21056e",
+    "label" : "b",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "f3a1f3b6-116a-4855-858e-36d6e3197305",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "b5e8208b-907a-423e-91bb-e6fe0095b787"
+}
+{
+    "_id" : "2fbb082b-b716-4b18-8eee-a1e15ff86542",
+    "label" : "BLACK/GUSTAVO - GRUAS",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "dc879af2-811a-47a7-bdd2-e58d47b6fccb",
+                "label" : "Pelúcia 20cm - PBGG",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "90a17480-0873-4d6b-89f7-996f3726b58d",
+    "label" : "2.09 MEGA/RAFAEL CUIABA",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "3bd50a52-1546-4f2f-9592-a36e0d093699",
+                "label" : "Pelúcia 80cm",
+                "quantity" : NumberInt(11)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "6ac3336d-3ce6-4036-a13b-b71fe67531e0",
+    "label" : "1.12 BLACK/VITOR",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "3c8c3e06-0614-45b1-b2db-13a3379c43d2",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(15)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "79d57250-a440-40a6-9670-2834f7036114",
+    "label" : "2.01 - IVAN/JOACIR",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "cd0be264-2b89-403c-aba6-7ecba2fe44b5",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(526)
+            },
+            {
+                "id" : "c09ee103-9e58-44bc-9338-10f7a8d7b608",
+                "label" : "Pelúcia 40cm",
+                "quantity" : NumberInt(16)
+            },
+            {
+                "id" : "4ae5a087-98b6-485c-b06e-623c1a2d3e6c",
+                "label" : "Pelúcia 50cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "db7e8471-6469-4990-b78f-b068f745541e",
+                "label" : "Pelúcia 80cm",
+                "quantity" : NumberInt(1)
+            },
+            {
+                "id" : "6e87fb0f-58fd-4f48-a44a-c88ddca90582",
+                "label" : "Prêmio Roleta",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "0bd20489-0cd1-4719-8e7b-ac79cffdf52c",
+                "label" : "Bola LOL",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "c3f00a4e-5ae5-49c8-9bad-3bbf668f6791",
+    "label" : "2.06 MEGA/GLADIS BELEM",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "085edcc5-da4c-4e9e-9367-3e75c72eace2",
+                "label" : "Pelúcia 80cm",
+                "quantity" : NumberInt(25)
+            },
+            {
+                "id" : "01dc61ff-fe4e-45da-8a65-b393e2d037bd",
+                "label" : "Prêmio Roleta",
+                "quantity" : NumberInt(1)
+            },
+            {
+                "id" : "f2cc3fa7-b789-4a01-9fef-af3494b11f5c",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(485)
+            },
+            {
+                "id" : "2f484b8f-04d5-4a62-bb67-57e2ee97fcb4",
+                "label" : "Pelúcia 100cm",
+                "quantity" : NumberInt(40)
+            },
+            {
+                "id" : "4b90e043-f4cb-4519-8269-8aa2f855779c",
+                "label" : "Pelúcia BIG",
+                "quantity" : NumberInt(3)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "1.01 BLACK ENTERTAINMENT",
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "1450c42e-0def-43e8-bb97-f4a636a3ba07",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(107)
+            },
+            {
+                "id" : "1470454e-1c16-4e7d-8a05-cdb852175ca5",
+                "label" : "Pelúcia 40cm",
+                "quantity" : NumberInt(99)
+            },
+            {
+                "id" : "484e7ef0-32f2-4ab6-8ad5-96c2a0ae9e0d",
+                "label" : "Pelúcia 80cm",
+                "quantity" : NumberInt(41)
+            },
+            {
+                "id" : "2cab0f17-e898-4a23-8886-a5c1709b5527",
+                "label" : "Pelúcia BIG",
+                "quantity" : NumberInt(3)
+            },
+            {
+                "id" : "b7f0561f-af28-4297-9908-175b88a632c5",
+                "label" : "Pelúcia 40cm",
+                "quantity" : NumberInt(18)
+            },
+            {
+                "id" : "cd0be264-2b89-403c-aba6-7ecba2fe44b5",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(50)
+            },
+            {
+                "id" : "c09ee103-9e58-44bc-9338-10f7a8d7b608",
+                "label" : "Pelúcia 40cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "3c8c3e06-0614-45b1-b2db-13a3379c43d2",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(100)
+            },
+            {
+                "id" : "4fd73ba3-9e55-4873-97af-629b1aefb18f",
+                "label" : "Prêmio Roleta",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "4ae5a087-98b6-485c-b06e-623c1a2d3e6c",
+                "label" : "Pelúcia 50cm",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "719f09ea-6c91-4077-ba0b-6aa4e95e358b",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(91)
+            },
+            {
+                "id" : "4b7cfee6-27de-455e-b871-c514a153fe3b",
+                "label" : "Bolsinha",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "6bb4dd70-0ec4-43d2-99ff-b8e1738cb187",
+    "label" : "1.14 BLACK/PEDRO E GABRIEL",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "90d87878-9f2b-4d54-b351-179ba4a02970",
+                "label" : "Pelúcia 20cm",
+                "quantity" : NumberInt(94)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "8b9196f7-241f-4a11-8ba2-2830fabdf441",
+    "label" : "BEN HUR WIND MACHINE",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "ede4846a-8c3a-4270-b85e-0cdae9d9d2ab",
+    "label" : "EVENTO - EXPOINGÁ",
+    "isPersonal" : false,
+    "stock" : {
+        "prizes" : [
+            {
+                "id" : "3fb8ea35-7d63-46a7-97da-1bf5826e3768",
+                "label" : "pelúcia 20cm maringa",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "956e143b-b99e-4051-833f-85ae322c6452",
+                "label" : "pelúcia 40cm maringa",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "5dd3d7ac-9ef1-42e4-8f44-294a9d043230",
+                "label" : "pelúcia 60cm maringa",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "ee183820-86ec-43bd-a9cc-be90fe2f8504",
+                "label" : "pelúcia 50cm maringa",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "8933392d-ca9a-41d2-af0c-199ea7facd1a",
+                "label" : "pelúcia 100/120cm maringa",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "78305d63-bb4c-452b-936d-84aa4043bb5e",
+                "label" : "pelúcia 80/100cm maringa",
+                "quantity" : NumberInt(0)
+            },
+            {
+                "id" : "047d2d2e-2a53-4057-826d-e09a74d87be5",
+                "label" : "pelúcia black bear maringa",
+                "quantity" : NumberInt(0)
+            }
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "4e57ad6f-f91e-4c6c-92be-535674c76385",
+    "label" : null,
+    "isPersonal" : true,
+    "stock" : {
+        "prizes" : [
+
+        ],
+        "supplies" : [
+
+        ]
+    },
+    "ownerId" : "034d417d-add3-4425-ab36-4555eb099221"
+}

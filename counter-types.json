@@ -1,0 +1,618 @@
+{
+    "_id" : "a94047a8-88fd-4f65-8e19-65d46b0c2c90",
+    "label" : "Ficheiro",
+    "type" : "IN",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "ced916bf-97f7-47de-91b0-0de25b6ecb5d",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "64907cd6-e679-4765-b563-20cf08326cac"
+}
+{
+    "_id" : "86f2702c-45f8-4da2-ba48-b59f8f64465b",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "f8dd5a7b-b36b-4243-98d6-33f098585ff3"
+}
+{
+    "_id" : "cefe9af9-9b6b-4dde-b7b8-12e3f17e680b",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "50eb9e7d-538e-4b76-92c5-da050b230fd1"
+}
+{
+    "_id" : "f3111af7-5c15-4ae7-a1fe-2301b0f806f3",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "4fd0454d-bb45-4d66-bd6c-472fcfa29436"
+}
+{
+    "_id" : "2c3dfb6c-9948-4fdf-9ba7-4e077f050b7e",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "64907cd6-e679-4765-b563-20cf08326cac"
+}
+{
+    "_id" : "8bdd693b-b672-4591-b98c-640be7b0b0fe",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "5aeff7de-7e04-4a31-9ae8-f142048b0b4b"
+}
+{
+    "_id" : "64d4f74e-4b1b-4312-8e57-37e4463ab48c",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "4fd0454d-bb45-4d66-bd6c-472fcfa29436"
+}
+{
+    "_id" : "ceb87d57-c407-4552-be05-b8c4dd2dcdbc",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "a2aa44ba-7e0a-4416-94d4-58a277d1c27a"
+}
+{
+    "_id" : "f5c6362e-d899-4d86-9ed3-74cc961261c6",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "e9f24273-1e82-4cc5-9442-6820e5155965"
+}
+{
+    "_id" : "bb1f0eda-051b-4397-a8be-de2f4435d2ad",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "bc27c71e-0139-4133-9a18-78b8944a1b58"
+}
+{
+    "_id" : "67fe0ba7-4658-4b3b-863c-100dbb85aa89",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "430091b8-c2e6-47a5-8873-5e91233158d8",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "992dc75a-47ed-483a-81a7-2dcc43a7968c"
+}
+{
+    "_id" : "93bb5f85-07fb-4b35-9297-ad0ab0d0a305",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "f8dd5a7b-b36b-4243-98d6-33f098585ff3"
+}
+{
+    "_id" : "707b767d-b619-475a-8465-afb0f0bdc88e",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "13433966-5d52-435b-89f8-0dbac74b66d5"
+}
+{
+    "_id" : "d1193a17-ae20-4d86-b6bf-34ac556c15bc",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "e9f24273-1e82-4cc5-9442-6820e5155965"
+}
+{
+    "_id" : "efcd7268-ca77-4615-9124-71af14e9950b",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "4121a0aa-a78e-4682-acfb-f86f05ec4652"
+}
+{
+    "_id" : "9234dc5d-92c2-444c-9f78-cfea6b8153d8",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "bc27c71e-0139-4133-9a18-78b8944a1b58"
+}
+{
+    "_id" : "ac02fd25-fa15-4865-bd53-fc286ef0d79a",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "5aeff7de-7e04-4a31-9ae8-f142048b0b4b"
+}
+{
+    "_id" : "bf7beef4-0995-4743-9555-2020eb74073d",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "61bc37e5-e160-4752-b79d-621a9424657d"
+}
+{
+    "_id" : "733031f9-1f82-452c-ba18-1e5640e94f49",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "61bc37e5-e160-4752-b79d-621a9424657d"
+}
+{
+    "_id" : "fa81066e-1c26-4f16-9a1d-91a07dec7fb7",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "f8dd5a7b-b36b-4243-98d6-33f098585ff3"
+}
+{
+    "_id" : "48214dbc-3029-453a-ad96-9f756a3cf0d2",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "13433966-5d52-435b-89f8-0dbac74b66d5"
+}
+{
+    "_id" : "3252fbed-2ae9-43f2-a21e-1c20a99ca436",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "b5e8208b-907a-423e-91bb-e6fe0095b787"
+}
+{
+    "_id" : "18bc8b9e-6b25-4f04-87aa-2575ceea7a07",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "5aeff7de-7e04-4a31-9ae8-f142048b0b4b"
+}
+{
+    "_id" : "d6127455-46fa-4017-8dbb-2474e7fa192e",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "5aeff7de-7e04-4a31-9ae8-f142048b0b4b"
+}
+{
+    "_id" : "c584abb2-371b-4cb9-981d-04fe294ae70f",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "a2aa44ba-7e0a-4416-94d4-58a277d1c27a"
+}
+{
+    "_id" : "4b2b30b5-5e8a-48c2-901e-8d1e96c65a11",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "50eb9e7d-538e-4b76-92c5-da050b230fd1"
+}
+{
+    "_id" : "e3affb79-8eaa-491c-9651-b5073350d740",
+    "label" : "Cartão e Noteiro",
+    "type" : "IN",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "4a2feb12-e90f-41c5-b43d-c66c8f256156",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278"
+}
+{
+    "_id" : "b4d10dfd-383b-4da4-be37-930979a20e9c",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "a5e685b1-2ca4-4c98-b62f-28c842bd1a4d"
+}
+{
+    "_id" : "8c241be8-1041-49da-9b63-d2de30153594",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "e9f24273-1e82-4cc5-9442-6820e5155965"
+}
+{
+    "_id" : "eb478bcd-be1f-4454-ad31-579a1df85c7c",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "d6691cbd-e3e7-4306-af4b-9a165af5818e"
+}
+{
+    "_id" : "7399c4b0-d151-453e-a804-f379e63a291d",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "b5e8208b-907a-423e-91bb-e6fe0095b787"
+}
+{
+    "_id" : "b17e3fb7-79ff-4730-8986-c1126001f6cb",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "61bc37e5-e160-4752-b79d-621a9424657d"
+}
+{
+    "_id" : "a5ab0af3-778d-4396-8fb9-facefdd010f7",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "a5e685b1-2ca4-4c98-b62f-28c842bd1a4d"
+}
+{
+    "_id" : "e80e23eb-d31d-4344-8772-04038b267591",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "a5e685b1-2ca4-4c98-b62f-28c842bd1a4d"
+}
+{
+    "_id" : "2723f222-f0a0-44f4-a28d-181792c06982",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "13433966-5d52-435b-89f8-0dbac74b66d5"
+}
+{
+    "_id" : "2e2e203b-c755-45a3-9720-25be958fb568",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "3a80347d-f030-42b4-8dc6-b1d2f63d48ed"
+}
+{
+    "_id" : "5584eb6e-726e-4cde-a2d7-9fffb122dee7",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "992dc75a-47ed-483a-81a7-2dcc43a7968c"
+}
+{
+    "_id" : "eb67fa2f-4ed9-4480-b074-d989f208464e",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "a2aa44ba-7e0a-4416-94d4-58a277d1c27a"
+}
+{
+    "_id" : "b61de755-8a57-4660-bb95-719bb286bcd3",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "dcbbd6a7-1827-40b9-a51c-26cefbfdece2",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "a2aa44ba-7e0a-4416-94d4-58a277d1c27a"
+}
+{
+    "_id" : "5079b48e-e02d-4bcc-846a-614da0c02a8f",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "64907cd6-e679-4765-b563-20cf08326cac"
+}
+{
+    "_id" : "33177b7d-a1aa-4935-a6c4-f0041562ebd7",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "61bc37e5-e160-4752-b79d-621a9424657d"
+}
+{
+    "_id" : "870c7a1f-c7d2-4217-8fbb-27d5b5957ea7",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "50eb9e7d-538e-4b76-92c5-da050b230fd1"
+}
+{
+    "_id" : "f14b67fd-40d7-4e60-b7b4-56240fa0289f",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "4121a0aa-a78e-4682-acfb-f86f05ec4652"
+}
+{
+    "_id" : "2b97fda8-9544-49a2-ac39-5133f6350fc4",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "d6691cbd-e3e7-4306-af4b-9a165af5818e"
+}
+{
+    "_id" : "fba25145-78fd-4498-a38f-4c173294a6c4",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "f8dd5a7b-b36b-4243-98d6-33f098585ff3"
+}
+{
+    "_id" : "cfc92060-52f0-4413-a5ff-24072f408f12",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278"
+}
+{
+    "_id" : "f9f91ac4-d0be-44b2-ba9b-3dd9f90d5955",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "4fd0454d-bb45-4d66-bd6c-472fcfa29436"
+}
+{
+    "_id" : "21af793c-ce3b-4bf7-ba4e-971a97a94b57",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "bc27c71e-0139-4133-9a18-78b8944a1b58"
+}
+{
+    "_id" : "34e744d8-5ce4-46da-b7f4-7f8141ca9f9b",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "4121a0aa-a78e-4682-acfb-f86f05ec4652"
+}
+{
+    "_id" : "15ef4a0b-15af-4aea-b821-3608f1cef142",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "b5e8208b-907a-423e-91bb-e6fe0095b787"
+}
+{
+    "_id" : "e1d24915-9a07-4510-a4ba-19fff38f658d",
+    "label" : "Cartão/Espécie",
+    "type" : "IN",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278"
+}
+{
+    "_id" : "8b719a59-04b2-4299-b68b-e13eef92bb88",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "a5e685b1-2ca4-4c98-b62f-28c842bd1a4d"
+}
+{
+    "_id" : "985523a6-134c-48f3-bee3-6a7deff7a071",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "bdabd5eb-dccb-45d7-acad-98fd8ed51a57"
+}
+{
+    "_id" : "3e15fb6e-3949-4575-861d-abeafef99603",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "3a80347d-f030-42b4-8dc6-b1d2f63d48ed"
+}
+{
+    "_id" : "562531a7-a74b-4de3-b98a-97fb941d1f3d",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "3a80347d-f030-42b4-8dc6-b1d2f63d48ed"
+}
+{
+    "_id" : "e6d78687-582f-457b-b267-5b42973f48fc",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "3a80347d-f030-42b4-8dc6-b1d2f63d48ed"
+}
+{
+    "_id" : "a6e97137-e915-427d-9c2e-66ef6d10b81d",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "d6691cbd-e3e7-4306-af4b-9a165af5818e"
+}
+{
+    "_id" : "bbd7a705-1e92-40e7-8ffd-8c7675a262d5",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "d6691cbd-e3e7-4306-af4b-9a165af5818e"
+}
+{
+    "_id" : "3d3d7a69-b224-4ae5-9f6c-2a52a52d7f2a",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "64907cd6-e679-4765-b563-20cf08326cac"
+}
+{
+    "_id" : "76a2937b-1b93-4f43-9aae-d9b3a17c4d0f",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "bdabd5eb-dccb-45d7-acad-98fd8ed51a57"
+}
+{
+    "_id" : "16bf0455-7d49-40cb-8414-a4a4e2bd630f",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "3a80347d-f030-42b4-8dc6-b1d2f63d48ed"
+}
+{
+    "_id" : "b188f715-fe16-4cfc-8f09-00dbc4be6dda",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "a50de687-9bbd-410e-aab6-cf864101ee37",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "992dc75a-47ed-483a-81a7-2dcc43a7968c"
+}
+{
+    "_id" : "4f2cd2df-2ac8-4a26-bd8a-23b7e5b3a678",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "a2aa44ba-7e0a-4416-94d4-58a277d1c27a"
+}
+{
+    "_id" : "5bdb8e64-b7e1-4427-a348-e7f7a08dc778",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "b6eb462f-fb40-48ad-8eae-6c0a15e7106d",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "bdabd5eb-dccb-45d7-acad-98fd8ed51a57"
+}
+{
+    "_id" : "2a0a3a71-aa11-4575-99f6-0e23c8f6b20a",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "e9f24273-1e82-4cc5-9442-6820e5155965"
+}
+{
+    "_id" : "c50b9338-e938-4b31-8eb7-b23a81863e81",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "5aeff7de-7e04-4a31-9ae8-f142048b0b4b"
+}
+{
+    "_id" : "2a19d1ea-2dcf-4f6d-b666-ddfd3069a671",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278"
+}
+{
+    "_id" : "f514197a-caa7-40b9-b5a3-ee3d45b90dbf",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "bc27c71e-0139-4133-9a18-78b8944a1b58"
+}
+{
+    "_id" : "9b3a2c0f-a3c7-49fe-a089-0937286878c3",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "4fd0454d-bb45-4d66-bd6c-472fcfa29436"
+}
+{
+    "_id" : "41ad7f51-8a84-46bc-9609-9277c43c4c1f",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "992dc75a-47ed-483a-81a7-2dcc43a7968c"
+}
+{
+    "_id" : "083b55a2-1805-432b-8287-9cb72e237b04",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "bdabd5eb-dccb-45d7-acad-98fd8ed51a57"
+}
+{
+    "_id" : "0a017384-a1bc-41fc-89ba-0a652570638f",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "bdabd5eb-dccb-45d7-acad-98fd8ed51a57"
+}
+{
+    "_id" : "c4be987f-4a01-4855-afb5-1288235343c8",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "4121a0aa-a78e-4682-acfb-f86f05ec4652"
+}
+{
+    "_id" : "a9805434-8fa0-4b07-8d70-01b9dffc0b3c",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "bc27c71e-0139-4133-9a18-78b8944a1b58"
+}
+{
+    "_id" : "9093fca0-7923-4cde-9cc8-072528bff6af",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "64907cd6-e679-4765-b563-20cf08326cac"
+}
+{
+    "_id" : "f95021ba-e5d8-486b-8a8a-d16fc0a2ca56",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "992dc75a-47ed-483a-81a7-2dcc43a7968c"
+}
+{
+    "_id" : "8da4a320-ca85-4fb5-92b5-72a40d4b263f",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "13433966-5d52-435b-89f8-0dbac74b66d5"
+}
+{
+    "_id" : "96cdb4d5-d16a-459c-b0e1-c505e25acb17",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278"
+}
+{
+    "_id" : "70613629-1654-4f96-854e-97a604f6fd29",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "50eb9e7d-538e-4b76-92c5-da050b230fd1"
+}
+{
+    "_id" : "d6373f49-3061-4454-9983-dbaf4406506c",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "f8dd5a7b-b36b-4243-98d6-33f098585ff3"
+}
+{
+    "_id" : "3df81ed4-185c-4b1f-8b94-cfad5859a8d2",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278"
+}
+{
+    "_id" : "fa5768de-e598-4397-9dd5-2410501a398c",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "e9f24273-1e82-4cc5-9442-6820e5155965"
+}
+{
+    "_id" : "1753a9a4-8a9a-4fd2-9715-5c4ae0a95ef4",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "b5e8208b-907a-423e-91bb-e6fe0095b787"
+}
+{
+    "_id" : "9649b4fa-be37-4e89-b0fc-b8dbaddb7230",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "50eb9e7d-538e-4b76-92c5-da050b230fd1"
+}
+{
+    "_id" : "8125d138-2bb6-495b-a31b-7891d16200ed",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "61bc37e5-e160-4752-b79d-621a9424657d"
+}
+{
+    "_id" : "e5bad027-1337-4fe2-b08c-26c63501419b",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "a5e685b1-2ca4-4c98-b62f-28c842bd1a4d"
+}
+{
+    "_id" : "2e3605ad-b8b4-4c55-9f55-7c5d44aa4cf2",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "13433966-5d52-435b-89f8-0dbac74b66d5"
+}
+{
+    "_id" : "f271ecd5-8e7e-49e1-b5d1-103d33666f71",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "d6691cbd-e3e7-4306-af4b-9a165af5818e"
+}
+{
+    "_id" : "3983c7dc-03b7-43df-860d-37e9723f4c9a",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "b5e8208b-907a-423e-91bb-e6fe0095b787"
+}
+{
+    "_id" : "3d0bc476-e226-4d1e-81eb-708f5ef57183",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8"
+}
+{
+    "_id" : "9fc8f22d-7c96-4920-b639-a57ea4613e72",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "4fd0454d-bb45-4d66-bd6c-472fcfa29436"
+}
+{
+    "_id" : "91bb9ba0-eb68-4476-806b-e419b7037fbf",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "4121a0aa-a78e-4682-acfb-f86f05ec4652"
+}
+{
+    "_id" : "7b8cf376-e8ac-44fe-916f-8f0a29384cdb",
+    "label" : "Cartão",
+    "type" : "IN",
+    "ownerId" : "034d417d-add3-4425-ab36-4555eb099221"
+}
+{
+    "_id" : "f1905002-780b-4228-b7f0-13573257bf89",
+    "label" : "Crédito Remoto",
+    "type" : "IN",
+    "ownerId" : "034d417d-add3-4425-ab36-4555eb099221"
+}
+{
+    "_id" : "bfa01c7b-07b8-42f3-a8c6-3b9fb916f1d4",
+    "label" : "Noteiro",
+    "type" : "IN",
+    "ownerId" : "034d417d-add3-4425-ab36-4555eb099221"
+}
+{
+    "_id" : "7346b476-3180-48fb-a942-1223dde8e8f7",
+    "label" : "Moedeiro",
+    "type" : "IN",
+    "ownerId" : "034d417d-add3-4425-ab36-4555eb099221"
+}
+{
+    "_id" : "8c905ee4-c3fa-4c13-b9c5-741f6c27d322",
+    "label" : "Prêmio",
+    "type" : "OUT",
+    "ownerId" : "034d417d-add3-4425-ab36-4555eb099221"
+}

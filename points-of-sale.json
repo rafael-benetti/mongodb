@@ -1,0 +1,5478 @@
+{
+    "_id" : "a3f27acd-04e8-485a-90d9-2691a67e8dc6",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "label" : "Loja Black Mogi Shopping",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+551147988800",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(6000),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "08780000",
+        "state" : "SP",
+        "city" : "Mogi das Cruzes",
+        "street" : "Avenida Vereador Narciso Yague Guimarães",
+        "neighborhood" : "Centro Cívico",
+        "number" : "1001"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "9452b3fb-4414-456c-bb09-364f81f2824b",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "MGA-SHOP AV CENTER",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554430337000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(5500),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "87030040",
+        "state" : "PR",
+        "city" : "Maringá",
+        "street" : " Av. São Paulo",
+        "neighborhood" : "Centro",
+        "number" : "743"
+    }
+}
+{
+    "_id" : "faed7501-2e82-4751-a123-148dbad229fd",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "MGA-SHOP AV CENTER",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554421031100",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "87040360",
+        "state" : "PR",
+        "city" : "Maringá",
+        "street" : "Av. Tuiuti",
+        "neighborhood" : "Vila Morangueira",
+        "number" : "710"
+    }
+}
+{
+    "_id" : "cfd302b3-ac8f-4daa-9eff-aa9cdbb6d1ae",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "label" : "Padaria Ceniro - São José/SC",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+5548999999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88107483",
+        "state" : "SC",
+        "city" : "São José",
+        "street" : "Rua Justino Machado de Loreto",
+        "neighborhood" : "Forquilhas",
+        "number" : "14"
+    }
+}
+{
+    "_id" : "2d8170d3-6e16-4eec-9cd3-66395005b3b9",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "PGR-CONDOR JD CARVALHO ",
+    "contactName" : "(41) 3888-2242",
+    "primaryPhoneNumber" : "+554138882242",
+    "secondaryPhoneNumber" : "+554138882242",
+    "rent" : NumberInt(1800),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "84016210",
+        "state" : "PR",
+        "city" : "Ponta Grossa",
+        "street" : "Avenida Monteiro Lobato",
+        "neighborhood" : "Jardim Carvalho",
+        "number" : "2180 "
+    }
+}
+{
+    "_id" : "6a685173-eaa2-4a0b-a5b6-2171c646e084",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "7b465c5d-8b92-4802-9aba-54b5184da00c",
+    "label" : "Tietê Plaza Shopping",
+    "contactName" : "Shopping",
+    "primaryPhoneNumber" : "+551132019000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "05145000",
+        "state" : "SP",
+        "city" : "São Paulo",
+        "street" : "Avenida Raimundo Pereira de Magalhães",
+        "neighborhood" : "Jardim Íris",
+        "number" : "1465"
+    }
+}
+{
+    "_id" : "bbc16135-3481-4f8c-bcc9-822f96f00815",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Canela",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555432821844",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "95680000",
+        "state" : "RS",
+        "city" : "Canela",
+        "street" : "R. João Pessoa",
+        "neighborhood" : "Centro",
+        "number" : "417"
+    }
+}
+{
+    "_id" : "344d50ed-2364-4b8c-9646-a32450357c2c",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Zaffari Higienópolis",
+    "contactName" : "0 51 9557-0908",
+    "primaryPhoneNumber" : "+555140041112",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "90520000",
+        "state" : "RS",
+        "city" : "Porto Alegre",
+        "street" : "Avenida Plínio Brasil Milano",
+        "neighborhood" : "Higienópolis",
+        "number" : "1000"
+    }
+}
+{
+    "_id" : "3f3a8ea6-c53b-4758-a90a-b5bb660f64c1",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Xangri-Lá",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555136895350",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "95588000",
+        "state" : "RS",
+        "city" : "Xangri-Lá",
+        "street" : "Rodovia Rs 407",
+        "neighborhood" : "Av. Guará",
+        "number" : "2575"
+    }
+}
+{
+    "_id" : "d3a9e745-2291-4913-8f4a-e96af8faae43",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "87ee1b46-13de-41b4-be5e-fbe5d0c75689",
+    "label" : "Bourbon Shopping San Pellegrino",
+    "contactName" : "Shopping",
+    "primaryPhoneNumber" : "+551140041828",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "95010060",
+        "state" : "RS",
+        "city" : "Caxias do Sul",
+        "street" : "Avenida Rio Branco",
+        "neighborhood" : "São Pelegrino",
+        "number" : "425"
+    }
+}
+{
+    "_id" : "2c488d16-09d4-4cbe-9701-f190645ae329",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "label" : "Big Shopping",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+553133913300",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "32315100",
+        "state" : "MG",
+        "city" : "Contagem",
+        "street" : "Rua Norberto Mayer",
+        "neighborhood" : "Eldorado",
+        "number" : "1275"
+    }
+}
+{
+    "_id" : "00f544fa-7759-4740-8855-62d28c500d38",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "label" : "Suzano Shopping",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+551125007940",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "08673020",
+        "state" : "SP",
+        "city" : "Suzano",
+        "street" : "Rua Sete de Setembro",
+        "neighborhood" : "Parque Suzano",
+        "number" : "555"
+    }
+}
+{
+    "_id" : "f8ec65a7-0c93-41c7-893f-c97d4508527e",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd",
+    "label" : "Brasil Atacadista - Itajaí",
+    "contactName" : "Às definir",
+    "primaryPhoneNumber" : "+5547999999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88306600",
+        "state" : "SC",
+        "city" : "Itajaí",
+        "neighborhood" : "Praia Brava de Itajaí",
+        "street" : "Avenida Osvaldo Reis",
+        "number" : "2751"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "550f7183-40aa-4a06-a92a-54f03a359374",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Rissul São Leopoldo Loja 02",
+    "contactName" : "0123567",
+    "primaryPhoneNumber" : "+550123456789",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "93040290",
+        "state" : "Rio Grande do Sul ",
+        "city" : "São Leopoldo ",
+        "neighborhood" : "São José ",
+        "street" : "Av Feitoria ",
+        "number" : "350"
+    }
+}
+{
+    "_id" : "c5fa7dab-c06a-4325-8b0a-66967a4baa8f",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "c3f00a4e-5ae5-49c8-9bad-3bbf668f6791",
+    "label" : "Shopping Pátio Marabá",
+    "contactName" : "94 33234722",
+    "primaryPhoneNumber" : "+559432120100",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "68507445",
+        "state" : "Pará",
+        "city" : "Marabá",
+        "neighborhood" : "folha 32",
+        "street" : "Quadra Quinze",
+        "number" : "62"
+    }
+}
+{
+    "_id" : "5a342e10-eaff-4134-a6c5-7fb53cdf30c8",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "LDN-SHOP NORTE",
+    "contactName" : "(43) 3372-3600",
+    "primaryPhoneNumber" : "+554333723600",
+    "secondaryPhoneNumber" : "+554333723600",
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "86079225",
+        "state" : "PR",
+        "city" : "Londrina",
+        "street" : "Avenida Américo Deolindo Garla",
+        "neighborhood" : "Pacaembu",
+        "number" : "224"
+    }
+}
+{
+    "_id" : "f42c8019-38d7-4c44-87c1-dd4ddf705a3f",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "2f552be1-e971-46fa-9a25-553c76e81a45",
+    "label" : "Supermercado Zanella",
+    "contactName" : "Supermercado Zanella",
+    "primaryPhoneNumber" : "+555133150106",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "91560000",
+        "state" : "RS",
+        "city" : "Porto Alegre",
+        "street" : "Estrada João de Oliveira Remião",
+        "neighborhood" : "Lomba do Pinheiro",
+        "number" : "6634"
+    }
+}
+{
+    "_id" : "5d011c09-e2fe-4354-9d0a-2213feb3c8cb",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CGR-CARREFOUR SHOP ",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+552124121528",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(2400),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "23085660",
+        "state" : "RJ",
+        "city" : "Rio de Janeiro",
+        "street" : "Estrada das Capoeiras",
+        "neighborhood" : "Campo Grande",
+        "number" : "355"
+    }
+}
+{
+    "_id" : "c514aa0e-117f-4835-b53c-2de91809f660",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "2eb8df8b-1eaf-4363-b1bc-88176b85a9c1",
+    "label" : "Panificadora Nova Navegantes Confeitaria",
+    "contactName" : "Panificadora",
+    "primaryPhoneNumber" : "+554730658239",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88370206",
+        "state" : "SC",
+        "city" : "Navegantes",
+        "street" : "Avenida Prefeito José Juvenal Mafra",
+        "neighborhood" : "Centro",
+        "number" : "1975"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "4ab8490b-6b60-4bf1-a9c8-3727ada1fcef",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "79d57250-a440-40a6-9670-2834f7036114",
+    "label" : "Ponto 250 - Itapema - JOA",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Rua 250",
+        "neighborhood" : "Meia Praia",
+        "number" : "0000"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "f0e5198a-afe7-4f7b-b2eb-1025589795d8",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "label" : "Bola 8 - Ingleses - Floripa",
+    "contactName" : "Bola 8",
+    "primaryPhoneNumber" : "+5548998309669",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88058001",
+        "state" : "SC",
+        "city" : "Florianópolis",
+        "street" : "Rodovia Armando Calil Bulos",
+        "neighborhood" : "Ingleses do Rio Vermelho",
+        "number" : "6145"
+    }
+}
+{
+    "_id" : "72a5a728-f9b7-4643-a5a0-dead92251d77",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Shopping Pelotas",
+    "contactName" : "(53) 8145-8026",
+    "primaryPhoneNumber" : "+555330264500",
+    "secondaryPhoneNumber" : "+555330264500",
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "96085000",
+        "state" : "RS",
+        "city" : "Pelotas",
+        "street" : "Avenida Ferreira Viana",
+        "neighborhood" : "Areal",
+        "number" : "1526"
+    }
+}
+{
+    "_id" : "7d64c048-8a3f-4297-8a7a-569d8fba2a9a",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "RCL-SHOP RIO CLARO ",
+    "contactName" : "RONALDO",
+    "primaryPhoneNumber" : "+551935343377",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(5500),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "13506845",
+        "state" : "SP",
+        "city" : "Rio Claro",
+        "street" : "Avenida Conde Francisco Matarazzo Júnior",
+        "neighborhood" : "Vila Paulista",
+        "number" : "205"
+    }
+}
+{
+    "_id" : "7150a237-6750-40e5-8a45-5d9a809705c6",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "Hiper Condor Oficinas",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554232293714",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "84035310",
+        "state" : "PR",
+        "city" : "Ponta Grossa",
+        "street" : "Rua Doutor Leopoldo Guimarães da Cunha",
+        "neighborhood" : "Oficinas",
+        "number" : "330"
+    }
+}
+{
+    "_id" : "537b50b7-868b-49c1-847d-0aa6485cfe87",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Posto do Chiquinho - Tijucas",
+    "contactName" : "Posto Chiquinho",
+    "primaryPhoneNumber" : "+554832630147",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88200000",
+        "state" : "SC",
+        "city" : "Tijucas",
+        "street" : "Av. Bayer Filho",
+        "neighborhood" : "Centro",
+        "number" : "1205"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "83a66e79-384e-4e50-91f9-c47e32cbbfc8",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "MGA-CONDOR AV PARANA",
+    "contactName" : "A definir",
+    "primaryPhoneNumber" : "+554432253545",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(1300),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "87020085",
+        "state" : "Paraná",
+        "city" : "Maringá",
+        "neighborhood" : "zona 7",
+        "street" : "Avenida Paraná",
+        "number" : "1600"
+    }
+}
+{
+    "_id" : "944a138e-3bfb-4c1f-9522-26b372429ff0",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Supermercado Nações Unidas - Av. Yervant",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+5522222222222",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "04428000",
+        "state" : "SP",
+        "city" : "São Paulo",
+        "street" : "Avenida Yervant Kissajikian",
+        "neighborhood" : "Vila Joaniza",
+        "number" : "1918"
+    },
+    "routeId" : "8e010a79-e0cd-43d7-9617-43a03f592143"
+}
+{
+    "_id" : "29bca33d-e255-4006-bc24-c3bd7134c846",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Ipiranga",
+    "contactName" : "Operacional POA",
+    "primaryPhoneNumber" : "+5551995570908",
+    "secondaryPhoneNumber" : "+5551995570908",
+    "rent" : NumberInt(1500),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "04870470",
+        "state" : "Rio Grande do sul",
+        "city" : "Porto alegre",
+        "neighborhood" : "Chácara Santo Hubertus",
+        "street" : "Estrada da Servidão",
+        "number" : "1"
+    }
+}
+{
+    "_id" : "ef475190-bfc6-45ea-83e4-7ba4833160d6",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "label" : "Via Shopping ",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+5571999862707",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "41730101",
+        "state" : "BA",
+        "city" : "Salvador",
+        "street" : "Avenida Luís Viana Filho",
+        "neighborhood" : "Paralela",
+        "number" : "8544 "
+    }
+}
+{
+    "_id" : "3739b835-af4b-4e20-840a-916880404a8d",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CCV-MUF AV BRASIL",
+    "contactName" : "(45) 4009-5400",
+    "primaryPhoneNumber" : "+554540095400",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(3600),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "85810000",
+        "state" : "PR",
+        "city" : "Cascavel",
+        "street" : "Avenida Brasil",
+        "neighborhood" : "Centro",
+        "number" : "7210"
+    }
+}
+{
+    "_id" : "00450500-ad31-4fa7-922a-6c610bccc858",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "538e5185-36bc-42a1-b2eb-0d75acf0c9bb",
+    "label" : "DEFAULT 02",
+    "contactName" : "Posto Camarão",
+    "primaryPhoneNumber" : "+554832262182",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88047001",
+        "state" : "SC",
+        "city" : "Florianópolis",
+        "street" : "Avenida Governador Jorge Lacerda",
+        "neighborhood" : "Costeira do Pirajubaé",
+        "number" : "1625"
+    },
+    "routeId" : "40dd10ca-ac93-4d76-97ad-f9cdce4c2783"
+}
+{
+    "_id" : "5330f5fa-9b2f-4de7-b99b-55d91d9a0539",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "label" : "Mini Mercado da Lage - Barra Velha/SC",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554722222222",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88390000",
+        "state" : "SC",
+        "city" : "Barra Velha",
+        "neighborhood" : "São Cristóvão",
+        "street" : "Rua Manoel Jacinto de Jesus",
+        "number" : "222"
+    }
+}
+{
+    "_id" : "fb591772-a797-462c-9773-c780117b1c60",
+    "ownerId" : "d6691cbd-e3e7-4306-af4b-9a165af5818e",
+    "groupId" : "ad52104e-a49e-4822-9069-4e5f12d5b132",
+    "label" : "Padaria Sonho Meu",
+    "contactName" : "Ana Carolina",
+    "primaryPhoneNumber" : "+5547997894132",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(20),
+    "isPercentage" : true,
+    "address" : {
+        "zipCode" : "88337155",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "street" : "Rua Dom Henrique",
+        "neighborhood" : "Vila Real",
+        "number" : "189"
+    }
+}
+{
+    "_id" : "3c3a50f8-e664-4d99-a1f7-b8f4a26cab9e",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd",
+    "label" : "Rancho Bom Supermercados - Barra",
+    "contactName" : "Rancho Bom-Barra",
+    "primaryPhoneNumber" : "+554733746993",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89260300",
+        "state" : "SC",
+        "city" : "Jaraguá do Sul",
+        "street" : "Rua Pastor Albert Schneider",
+        "neighborhood" : "Barra do Rio Cerro",
+        "number" : "900"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "29b3fbf8-aefe-41fe-a65d-25e989631fd1",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "7b465c5d-8b92-4802-9aba-54b5184da00c",
+    "label" : "Shopping Atlântico PISO 1 - ESG",
+    "contactName" : "FATIMA",
+    "primaryPhoneNumber" : "+5547999999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88330900",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "street" : "Avenida Brasil",
+        "neighborhood" : "Centro",
+        "number" : "1271"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "12721a6b-5184-4026-b9fd-2c82616b78fd",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "label" : "Delta Padel Brasil",
+    "contactName" : "Delta Padel",
+    "primaryPhoneNumber" : "+554730509550",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88343412",
+        "state" : "SC",
+        "city" : "Camboriú",
+        "street" : "Rua Antonio Lopes Gonçalves Bastos",
+        "neighborhood" : "Rio Pequeno",
+        "number" : "1043",
+        "extraInfo" : "Rodovia SC 102"
+    }
+}
+{
+    "_id" : "6b3630cb-1ee2-4047-b23b-fcd10703e2c5",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "2fbb082b-b716-4b18-8eee-a1e15ff86542",
+    "label" : "Distrito Sport Bar",
+    "contactName" : "Diego ",
+    "primaryPhoneNumber" : "+5551985943880",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "94930230",
+        "state" : "RS",
+        "city" : "Cachoeirinha",
+        "neighborhood" : "Distrito Industrial",
+        "street" : "Avenida das Indústrias",
+        "number" : "50",
+        "extraInfo" : "Quadra futebol "
+    }
+}
+{
+    "_id" : "06f0dd35-9209-4fea-9cc1-7772b7b991c2",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Wallig",
+    "contactName" : "Operacional POA",
+    "primaryPhoneNumber" : "+5551995570908",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "04870470",
+        "state" : "Rio Grande do Sul",
+        "city" : "Porto Alegre",
+        "street" : "Av. Assis Brasil",
+        "neighborhood" : "Cristo Redentor",
+        "number" : "2611"
+    }
+}
+{
+    "_id" : "13e20997-a23d-4ae0-8238-c39f9155eedd",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Gravataí",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555134219400",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "94035240",
+        "state" : "RS",
+        "city" : "Gravataí",
+        "street" : "Avenida Centenário",
+        "neighborhood" : "Passo das Pedras",
+        "number" : "555"
+    }
+}
+{
+    "_id" : "7be86ec9-2327-478b-bce1-bac516895f92",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "label" : "Padaria Dona Lia - Canasvieiras - Floripa",
+    "contactName" : "Padaria Dona Lia",
+    "primaryPhoneNumber" : "+5548999927834",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88054250",
+        "state" : "SC",
+        "city" : "Florianópolis",
+        "street" : "Rua José Daux",
+        "neighborhood" : "Canasvieiras",
+        "number" : "73"
+    }
+}
+{
+    "_id" : "aa590618-b703-46f9-a229-749cd9748633",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "df23f4f5-043e-4397-afad-864ca67739dc",
+    "label" : "Partage Shopping São Gonçalo",
+    "contactName" : "Partage Shopping",
+    "primaryPhoneNumber" : "+552136117989",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "24445000",
+        "state" : "RJ",
+        "city" : "São Gonçalo",
+        "street" : "Avenida Presidente Kennedy",
+        "neighborhood" : "Centro",
+        "number" : "425"
+    }
+}
+{
+    "_id" : "c99a2c1c-3f6e-4b23-909b-b0586b448491",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "label" : "Shopping Metrô Tatuapé",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+551120907400",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "03314030",
+        "state" : "SP",
+        "city" : "São Paulo",
+        "street" : "Rua Melo Freire",
+        "neighborhood" : "Tatuapé",
+        "number" : "0"
+    }
+}
+{
+    "_id" : "60a38641-c9fa-4b66-a096-fcd602a13a91",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Loja Black Shopping Park Europeu",
+    "contactName" : "Shopping Park Europeu",
+    "primaryPhoneNumber" : "+554730391900",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89052381",
+        "state" : "SC",
+        "city" : "Blumenau",
+        "street" : "Via Expressa Paul Fritz Kuehnrich",
+        "neighborhood" : "Itoupava Norte",
+        "number" : "1600"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "894aa775-17bf-491a-9483-777df78f5e41",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "2eb8df8b-1eaf-4363-b1bc-88176b85a9c1",
+    "label" : "Xburguinho Navegantes",
+    "contactName" : "Xburguinho",
+    "primaryPhoneNumber" : "+5547997051808",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88370206",
+        "state" : "SC",
+        "city" : "Navegantes",
+        "street" : "Avenida Prefeito José Juvenal Mafra",
+        "neighborhood" : "Centro",
+        "number" : "1681"
+    }
+}
+{
+    "_id" : "18782887-6539-4cf2-9bc5-5f7d38f9b7ca",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CCV-MUF NORTE",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554540093700",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(3600),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "85815460",
+        "state" : "PR",
+        "city" : "Cascavel",
+        "street" : "Rua Altemar Dutra",
+        "neighborhood" : "Brasília",
+        "number" : "1327"
+    }
+}
+{
+    "_id" : "b5b216c8-2f49-4577-b579-a08bb7542212",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "FOZ-SHOP CATUAI",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554539390000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(8500),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "85853000",
+        "state" : "PR",
+        "city" : "Foz do Iguaçu",
+        "street" : "Avenida das Cataratas",
+        "neighborhood" : "Yolanda",
+        "number" : "3570"
+    }
+}
+{
+    "_id" : "fd0b84cc-699a-4398-81bf-04ed5632264e",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Pelotas/Guanabara Dom Pedro II",
+    "contactName" : "(53) 98145 8026",
+    "primaryPhoneNumber" : "+555321252222",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "96010300",
+        "state" : "RS",
+        "city" : "Pelotas",
+        "street" : "Rua Dom Pedro II",
+        "neighborhood" : "Centro",
+        "number" : "1155"
+    }
+}
+{
+    "_id" : "8d789aff-0fac-419c-86ff-bb456a3cf24f",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "538e5185-36bc-42a1-b2eb-0d75acf0c9bb",
+    "label" : "Mercado Barra da Lagoa",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+5548999999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88061090",
+        "state" : "SC",
+        "city" : "Florianópolis",
+        "street" : "Rua Amaro Coelho",
+        "neighborhood" : "Barra da Lagoa",
+        "number" : "47"
+    },
+    "routeId" : "d4eb5965-392b-4615-92cb-89708320f4e5"
+}
+{
+    "_id" : "4a7560e7-4acf-41b3-843c-64a714f2c2a0",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "label" : "Itaquá Garden Shopping",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+551140105195",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "08596000",
+        "state" : "SP",
+        "city" : "Itaquaquecetuba",
+        "street" : "Estrada Municipal do Mandi",
+        "neighborhood" : "Jardim Adriane",
+        "number" : "1205"
+    }
+}
+{
+    "_id" : "c90b9093-7bb2-434f-a699-c7859ba93d3b",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd",
+    "label" : "Rancho Bom Supermercados - Jaraguá Esquerdo",
+    "contactName" : "Rancho Bom",
+    "primaryPhoneNumber" : "+554733746994",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89253295",
+        "state" : "SC",
+        "city" : "Jaraguá do Sul",
+        "street" : "Rua João Januário Ayroso",
+        "neighborhood" : "Jaraguá Esquerdo",
+        "number" : "1616"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "f92e0c8f-c7c2-42f8-8f0c-d52a25380e6a",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd",
+    "label" : "Rancho Bom Supermercados - Guaramirim",
+    "contactName" : "Rancho Bom-Guaramirim",
+    "primaryPhoneNumber" : "+554733746989",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89270000",
+        "state" : "SC",
+        "city" : "Guaramirim",
+        "street" : "R. Gerônimo Correa",
+        "neighborhood" : "Centro",
+        "number" : "444"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "ac87b0cd-ec9e-4e0a-b38f-4e5ee0d02685",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "c3f00a4e-5ae5-49c8-9bad-3bbf668f6791",
+    "label" : "Parque Shopping Belém",
+    "contactName" : "40420542",
+    "primaryPhoneNumber" : "+559140420542",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "66635110",
+        "state" : "PA",
+        "city" : "Belém",
+        "neighborhood" : "Parque Verde",
+        "street" : "Rodovia Augusto Montenegro",
+        "number" : "4300"
+    }
+}
+{
+    "_id" : "24c80191-96f9-4553-b479-cec18fdeed56",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "7b465c5d-8b92-4802-9aba-54b5184da00c",
+    "label" : "Shopping BIG Anita Garibaldi",
+    "contactName" : "A Definir ",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89202000",
+        "state" : "SC",
+        "city" : "Joinville",
+        "street" : "Avenida Getúlio Vargas",
+        "neighborhood" : "Anita Garibaldi",
+        "number" : "1446"
+    }
+}
+{
+    "_id" : "0a3220d4-1176-49ce-9e38-06b8d8a965a0",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "79d57250-a440-40a6-9670-2834f7036114",
+    "label" : "Passeio das Águas Shopping",
+    "contactName" : "Passeio das Águas Shopping",
+    "primaryPhoneNumber" : "+556236021317",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "74573260",
+        "state" : "GO",
+        "city" : "Goiânia",
+        "street" : "Avenida Perimetral Norte",
+        "neighborhood" : "Jardim Diamantina",
+        "number" : "8303"
+    }
+}
+{
+    "_id" : "4e972178-83fc-4dee-b0be-e1c7ac58e8d4",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8b9196f7-241f-4a11-8ba2-2830fabdf441",
+    "label" : "Loja Black Calçadão Praia Shopping - WM",
+    "contactName" : "Calçadão",
+    "primaryPhoneNumber" : "+554733684055",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Av. Nereu Ramos",
+        "neighborhood" : "Meia Praia",
+        "number" : "3855"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "3ba3392e-7616-4d52-9e3e-2a9ef66acb4b",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CTB-SHOP ESTAÇÄO",
+    "contactName" : "(41) 3094-5300",
+    "primaryPhoneNumber" : "+554130945300",
+    "secondaryPhoneNumber" : "+554130945300",
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "80230010",
+        "state" : "PR",
+        "city" : "Curitiba",
+        "street" : "Avenida Sete de Setembro",
+        "neighborhood" : "Rebouças",
+        "number" : "2775"
+    }
+}
+{
+    "_id" : "3c44ae6a-50b8-41ca-af7f-675ff037fb0f",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "label" : "Shopping ABC",
+    "contactName" : "RENAN",
+    "primaryPhoneNumber" : "+5511965485012",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "09190210",
+        "state" : "SP",
+        "city" : "Santo André",
+        "neighborhood" : "Vila Gilda",
+        "street" : "Avenida Pereira Barreto",
+        "number" : "42",
+        "extraInfo" : "Shopping "
+    }
+}
+{
+    "_id" : "acd57201-82b0-4a74-949a-fac0322275bc",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "538e5185-36bc-42a1-b2eb-0d75acf0c9bb",
+    "label" : "Posto Camarão - Costeira do Pirajubaé",
+    "contactName" : "Posto Camarão",
+    "primaryPhoneNumber" : "+554832262182",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88047001",
+        "state" : "SC",
+        "city" : "Florianópolis",
+        "street" : "Avenida Governador Jorge Lacerda",
+        "neighborhood" : "Costeira do Pirajubaé",
+        "number" : "1625"
+    },
+    "routeId" : "d4eb5965-392b-4615-92cb-89708320f4e5"
+}
+{
+    "_id" : "f345a21c-2a9b-4c82-9258-5f9ba05b2e57",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Hiper Condor Jaraguá do Sul",
+    "contactName" : "Condor Jaraguá",
+    "primaryPhoneNumber" : "+554732730327",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89252490",
+        "state" : "SC",
+        "city" : "Jaraguá do Sul",
+        "street" : "R. Maria Umbelina da Silva",
+        "neighborhood" : "Vila Lenzi",
+        "number" : "40"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "6521bb39-fe45-417e-8b2b-c8415ed82472",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "df23f4f5-043e-4397-afad-864ca67739dc",
+    "label" : "Shopping Nova América",
+    "contactName" : "Shopping Nova América",
+    "primaryPhoneNumber" : "+552130831000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "20765000",
+        "state" : "RJ",
+        "city" : "Rio de Janeiro",
+        "street" : "Avenida Pastor Martin Luther King Jr",
+        "neighborhood" : "Del Castilho",
+        "number" : "126"
+    }
+}
+{
+    "_id" : "de506f3f-7003-4715-bcb1-d7239e52937a",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Lindoia",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+5554991195005",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "95670000",
+        "state" : "RS",
+        "city" : "Gramado",
+        "street" : "R. Santa Maria",
+        "neighborhood" : "Carniel",
+        "number" : "376 "
+    }
+}
+{
+    "_id" : "ca8ad191-468f-461a-a910-a54e2b0b6d1f",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "538e5185-36bc-42a1-b2eb-0d75acf0c9bb",
+    "label" : "Pântano do Sul Mercado RP",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554899999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88067100",
+        "state" : "SC",
+        "city" : "Florianópolis",
+        "street" : "Rua Abelardo Otacílio Gomes",
+        "neighborhood" : "Pântano do Sul",
+        "number" : "147"
+    },
+    "routeId" : "d4eb5965-392b-4615-92cb-89708320f4e5"
+}
+{
+    "_id" : "5370cb08-58db-4d1e-9e1d-73a4f4fc1259",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Food Park - BC",
+    "contactName" : "Maurício",
+    "primaryPhoneNumber" : "+5547999999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(20),
+    "isPercentage" : true,
+    "address" : {
+        "zipCode" : "88330828",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "neighborhood" : "Centro",
+        "street" : "Rua 1931",
+        "number" : "21"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "ed6189f8-ddb7-4b45-9291-67a9b82502e5",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Bourbon Wallig | Bourbon Shopping",
+    "contactName" : "4004-1828",
+    "primaryPhoneNumber" : "+555199999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "91010004",
+        "state" : "RS",
+        "city" : "Porto Alegre",
+        "street" : "Avenida Assis Brasil",
+        "neighborhood" : "Passo da Areia",
+        "number" : "2611"
+    }
+}
+{
+    "_id" : "61c4a679-e2e8-4ded-9e67-ef532d7c631c",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "87ee1b46-13de-41b4-be5e-fbe5d0c75689",
+    "label" : "Shopping Pelotas",
+    "contactName" : "Shopping",
+    "primaryPhoneNumber" : "+555330264500",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "96085000",
+        "state" : "RS",
+        "city" : "Pelotas",
+        "street" : "Avenida Ferreira Viana",
+        "neighborhood" : "Areal",
+        "number" : "1526"
+    }
+}
+{
+    "_id" : "fca5a6dd-171b-41e2-962b-7397273dfc1c",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "90a17480-0873-4d6b-89f7-996f3726b58d",
+    "label" : "Pantanal Shopping",
+    "contactName" : "Pantanal Shopping",
+    "primaryPhoneNumber" : "+556536174000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "78050250",
+        "state" : "MT",
+        "city" : "Cuiabá",
+        "street" : "Av. Historiador Rubens de Mendonça",
+        "neighborhood" : "Jardim Aclimação",
+        "number" : "3.300"
+    }
+}
+{
+    "_id" : "142f1c7e-f30a-4215-af64-c23c53a02f82",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "2f552be1-e971-46fa-9a25-553c76e81a45",
+    "label" : "Praia de Belas Shopping",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+5547999999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "90110001",
+        "state" : "RS",
+        "city" : "Porto Alegre",
+        "street" : "Avenida Praia de Belas",
+        "neighborhood" : "Praia de Belas",
+        "number" : "1181"
+    }
+}
+{
+    "_id" : "42b56cf1-87c0-4c4a-902a-489dce9f685a",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "538e5185-36bc-42a1-b2eb-0d75acf0c9bb",
+    "label" : "Mercado Castanheira - Campeche",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+5548999999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88063080",
+        "state" : "SC",
+        "city" : "Florianópolis",
+        "street" : "Rua do Gramal",
+        "neighborhood" : "Campeche",
+        "number" : "1156 / 1157 ao Fim 1753"
+    },
+    "routeId" : "d4eb5965-392b-4615-92cb-89708320f4e5"
+}
+{
+    "_id" : "9cab342c-57c7-4c49-ab80-5be29819cf64",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Rua da Praia ",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555132116600",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "90020007",
+        "state" : "RS",
+        "city" : "Porto Alegre",
+        "street" : "Rua dos Andradas",
+        "neighborhood" : "Centro Histórico",
+        "number" : "1001"
+    }
+}
+{
+    "_id" : "55c7f1ce-0475-47ee-83a6-df9d89d3726f",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "538e5185-36bc-42a1-b2eb-0d75acf0c9bb",
+    "label" : "Mini Mercado da Ponte",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+5548999999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88062050",
+        "state" : "SC",
+        "city" : "Florianópolis",
+        "street" : "Rua Senador Ivo D'Aquino",
+        "neighborhood" : "Lagoa da Conceição",
+        "number" : "20"
+    },
+    "routeId" : "d4eb5965-392b-4615-92cb-89708320f4e5"
+}
+{
+    "_id" : "78f29f99-5644-4763-9934-d281f663e47d",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "FOZ-MAX ATACADISTA DEBRET",
+    "contactName" : "(45) 2102-1600",
+    "primaryPhoneNumber" : "+554521021600",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "85865030",
+        "state" : "PR",
+        "city" : "Foz do Iguaçu",
+        "street" : "Rua das MissõesCentro/Jardim AméricaJardim Festugato/Jardim Crist",
+        "neighborhood" : "Portes",
+        "number" : "2550"
+    }
+}
+{
+    "_id" : "f669752a-1b0c-4633-923f-176b3b7a3eab",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8b9196f7-241f-4a11-8ba2-2830fabdf441",
+    "label" : "Loja Black Savoia - WM",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Av. Nereu Ramos",
+        "neighborhood" : "Meia Praia",
+        "number" : "4078"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "39c70b02-8502-48fa-a16e-b9f9b4b3dfff",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CAM-SHOPPING CAMPINAS",
+    "contactName" : "(19) 3727-2300",
+    "primaryPhoneNumber" : "+5544988606256",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "13050913",
+        "state" : "SP",
+        "city" : "Campinas",
+        "street" : "Rua Jacy Teixeira Camargo",
+        "neighborhood" : "Jardim do Lago",
+        "number" : "940"
+    }
+}
+{
+    "_id" : "548f7738-2aba-4076-aa40-938bff4f6214",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "label" : "Supermercados Imperatriz - Coqueiros",
+    "contactName" : "Supermercado Imperatriz",
+    "primaryPhoneNumber" : "+554832486222",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88080000",
+        "state" : "SC",
+        "city" : "Florianópolis",
+        "street" : "Avenida Engenheiro Max de Souza",
+        "neighborhood" : "Coqueiros",
+        "number" : "740"
+    }
+}
+{
+    "_id" : "a2cad1dc-9c4b-49bb-a28b-4f0c36205a42",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "9390d791-1d40-43b7-96dc-90f54db39fb1",
+    "label" : "Shopping Park Europeu - Blumenau",
+    "contactName" : "Shopping Park Europeu",
+    "primaryPhoneNumber" : "+554730391900",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89052381",
+        "state" : "SC",
+        "city" : "Blumenau",
+        "street" : "Via Expressa Paul Fritz Kuehnrich",
+        "neighborhood" : "Itoupava Norte",
+        "number" : "1600"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "404db36a-5d83-4105-bc7b-be754732e463",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "2eb8df8b-1eaf-4363-b1bc-88176b85a9c1",
+    "label" : "Botequim do Império",
+    "contactName" : "Botequim",
+    "primaryPhoneNumber" : "+5547997164594",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88375000",
+        "state" : "SC",
+        "city" : "Navegantes",
+        "street" : "Av. Prefeito Cirino Adolfo Cabral",
+        "neighborhood" : "Centro",
+        "number" : "1313"
+    }
+}
+{
+    "_id" : "b25395df-f2c0-44bc-ac78-3b4b9843ba5a",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "label" : "Anhanguera Parque Shopping",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+551144487000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "07791842",
+        "state" : "SP",
+        "city" : "Cajamar",
+        "street" : "Rua Jean Anastace Kovelis",
+        "neighborhood" : "Ipês (Polvilho)",
+        "number" : "123"
+    }
+}
+{
+    "_id" : "6de56922-ff90-43dc-beb0-654cb8d384ab",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "label" : "Shopping Vila Velha",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+552733757630",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "29107900",
+        "state" : "ES",
+        "city" : "Vila Velha",
+        "street" : "Rua Luciano das Neves",
+        "neighborhood" : "Divino Espírito Santo",
+        "number" : "2418"
+    }
+}
+{
+    "_id" : "34843a10-1e6e-4776-83b1-ec10193a4bd9",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Zaffari Cabral",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555140041112",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "90420100",
+        "state" : "RS",
+        "city" : "Porto Alegre",
+        "street" : "Rua Paraguai",
+        "neighborhood" : "Rio Branco",
+        "number" : "100 - Loja 101"
+    }
+}
+{
+    "_id" : "eda2c25b-ef97-4c71-a20d-03f6cfe8a3eb",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CTB- SHOP JOCKEY PLAZA",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554132161600",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(10000),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "82821020",
+        "state" : "PR",
+        "city" : "Curitiba",
+        "street" : "Rua Konrad Adenauer",
+        "neighborhood" : "Tarumã",
+        "number" : "370"
+    }
+}
+{
+    "_id" : "7d453a5a-7ed1-433f-8edb-014be4dc9db8",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Imobiliária Buture",
+    "contactName" : "Júnior",
+    "primaryPhoneNumber" : "+554792399288",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Rua 286 (Esquina 2º Avenida)",
+        "neighborhood" : "Meia Praia",
+        "number" : "xxx"
+    }
+}
+{
+    "_id" : "c21877ee-0955-46d1-9869-71f821bede8e",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "46315b85-0e02-4e46-9696-ef56d00da49b",
+    "label" : "Bourbon Shopping Teresópolis",
+    "contactName" : "Shopping",
+    "primaryPhoneNumber" : "+550040041828",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "90680570",
+        "state" : "RS",
+        "city" : "Porto Alegre",
+        "street" : "Rua Coronel Aparício Borges",
+        "neighborhood" : "Glória",
+        "number" : "250"
+    }
+}
+{
+    "_id" : "a44a2a29-c7e7-420e-84b0-ebc4f849195b",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8b9196f7-241f-4a11-8ba2-2830fabdf441",
+    "label" : "Shopping Atlântico PISO 1 - WM",
+    "contactName" : "Fatima",
+    "primaryPhoneNumber" : "+5547999999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88330900",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "street" : "Avenida Brasil",
+        "neighborhood" : "Centro",
+        "number" : "1271"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "b011188a-0538-419e-9f9d-155354a0a1a3",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "LDN SHOP BOULEVARD",
+    "contactName" : "(43) 3142-1146",
+    "primaryPhoneNumber" : "+554331421146",
+    "secondaryPhoneNumber" : "+554331421146",
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "86027750",
+        "state" : "PR",
+        "city" : "Londrina",
+        "street" : "Avenida Theodoro Victorelli",
+        "neighborhood" : "Helena",
+        "number" : "150"
+    }
+}
+{
+    "_id" : "017b1155-478b-434f-ae3e-5f867cc1ec77",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8c3e3dc1-c6ad-488c-895f-b7e25537f5eb",
+    "label" : "ExpoLondrina",
+    "contactName" : "ExpoLondrina",
+    "primaryPhoneNumber" : "+554333782000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "86072000",
+        "state" : "PR",
+        "city" : "Londrina",
+        "street" : "Avenida Tiradentes",
+        "neighborhood" : "Jardim Rosicler",
+        "number" : "6275"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "902d5ab9-d246-4049-98fd-9114096ec256",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Pub & House - Itapema",
+    "contactName" : "Marcos",
+    "primaryPhoneNumber" : "+554732647477",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Avenida Nereu Ramos",
+        "neighborhood" : "Meia Praia",
+        "number" : "4591"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "4b6486d4-7e86-4e84-b8fd-a0cca8559dc6",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Supermercado Nações Unidas - Av. Cupecê",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+550000000000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "04365001",
+        "state" : "SP",
+        "city" : "São Paulo",
+        "street" : "Avenida Cupecê",
+        "neighborhood" : "Jardim Prudência",
+        "number" : "5661"
+    },
+    "routeId" : "8e010a79-e0cd-43d7-9617-43a03f592143"
+}
+{
+    "_id" : "2cdfe45e-72f7-4988-acd5-66fc9fbab2dc",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "538e5185-36bc-42a1-b2eb-0d75acf0c9bb",
+    "label" : "Doce Revista - Floripa",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554899999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88010510",
+        "state" : "SC",
+        "city" : "Florianópolis",
+        "street" : "Rua Fernando Machado",
+        "neighborhood" : "Centro",
+        "number" : "16"
+    },
+    "routeId" : "d4eb5965-392b-4615-92cb-89708320f4e5"
+}
+{
+    "_id" : "d2e18f8d-f373-461c-afde-181b99289c2a",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "label" : "Mercado Ana Clara -  São José/SC",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554899999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88107443",
+        "state" : "SC",
+        "city" : "São José",
+        "street" : "Av. José Francisco Coelho",
+        "neighborhood" : "Forquilhas",
+        "number" : "4"
+    }
+}
+{
+    "_id" : "996b5098-48aa-4651-80eb-64e77bc4a391",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "label" : "Supermercado Imperatriz - Santo Amaro da Imperatriz",
+    "contactName" : "Supermercado Imperatriz",
+    "primaryPhoneNumber" : "+554832451378",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88140000",
+        "state" : "SC",
+        "city" : "Santo Amaro da Imperatriz",
+        "street" : "R. Maj. Joaquim Alexandre Campos",
+        "neighborhood" : "Centro",
+        "number" : "6037"
+    }
+}
+{
+    "_id" : "5170fc6a-22ee-4be0-be8c-e6e20363d5bc",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "label" : "Nações Shopping - Criciúma/SC",
+    "contactName" : "Nações Shopping",
+    "primaryPhoneNumber" : "+554821018300",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88813901",
+        "state" : "SC",
+        "city" : "Criciúma",
+        "street" : "Avenida Jorge Elias de Lucca 765",
+        "neighborhood" : "Nossa Senhora da Salete",
+        "number" : "765"
+    }
+}
+{
+    "_id" : "c1e2aa7e-7e3f-4f65-98f8-3513ae4ccc54",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Macromix Canoas",
+    "contactName" : "(51)95570908",
+    "primaryPhoneNumber" : "+555134781098",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "92020240",
+        "state" : "RS",
+        "city" : "Canoas",
+        "street" : "Rua Liberdade",
+        "neighborhood" : "Marechal Rondon",
+        "number" : "1381"
+    }
+}
+{
+    "_id" : "8aaf8da8-84d8-4a2f-9e64-6de4bd8cb5f7",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Shopping Atlântico PISO 2",
+    "contactName" : "FATIMA",
+    "primaryPhoneNumber" : "+5547999999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(5500),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88330900",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "neighborhood" : "Centro",
+        "street" : "Avenida Brasil 1271",
+        "number" : "1271"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "78ac9681-6ef0-4c05-9933-e5ea96001a6f",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "label" : "Loja Black Tamandaré",
+    "contactName" : "Allan",
+    "primaryPhoneNumber" : "+554791417125",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(14500),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88330905",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "neighborhood" : "Centro",
+        "street" : "Avenida Atlântica 2150",
+        "number" : "2100"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "fc5d6968-a092-4678-9cc8-a345c9fecc16",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "label" : "Shopping Metrô Boulevard Tatuapé",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+551122257000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "03066030",
+        "state" : "SP",
+        "city" : "São Paulo",
+        "street" : "Rua Gonçalves Crespo",
+        "neighborhood" : "Tatuapé",
+        "number" : "78"
+    }
+}
+{
+    "_id" : "e9174d4e-2690-492f-bc15-cadb4739736b",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "label" : "Shopping Partage Betim",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+553131171063",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "32655505",
+        "state" : "MG",
+        "city" : "Betim",
+        "street" : "Rodovia BR-381 Fernão Dias",
+        "neighborhood" : "São João",
+        "number" : "601 "
+    }
+}
+{
+    "_id" : "ecb5e660-807e-4648-9694-fe66f9d48a59",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Shopping Atlântico PISO 1",
+    "contactName" : "FATIMA",
+    "primaryPhoneNumber" : "+5547999999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88330900",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "street" : "Avenida Brasil",
+        "neighborhood" : "Centro",
+        "number" : "1271"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "5b225d93-5b92-41f8-bd3b-6e5e74ad215a",
+    "ownerId" : "d6691cbd-e3e7-4306-af4b-9a165af5818e",
+    "groupId" : "ad52104e-a49e-4822-9069-4e5f12d5b132",
+    "label" : "Sorveteria Gela Boca",
+    "contactName" : "Rafael",
+    "primaryPhoneNumber" : "+5545999491098",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(20),
+    "isPercentage" : true,
+    "address" : {
+        "zipCode" : "88330596",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "street" : "Rua 902",
+        "neighborhood" : "Centro",
+        "number" : "495"
+    }
+}
+{
+    "_id" : "f2bc3e23-8b5d-40a4-9019-7a63b9f34c80",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8b9196f7-241f-4a11-8ba2-2830fabdf441",
+    "label" : "Loja Black Tamandaré - WM",
+    "contactName" : "Allan",
+    "primaryPhoneNumber" : "+554791417125",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88330905",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "street" : "Avenida Atlântica",
+        "neighborhood" : "Centro",
+        "number" : "2100"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "1ced37cc-3388-4214-983c-8f5077d9fb57",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "df23f4f5-043e-4397-afad-864ca67739dc",
+    "label" : "Caxias Shopping",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+552124305110",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "25085008",
+        "state" : "RJ",
+        "city" : "Duque de Caxias",
+        "street" : "Rodovia Washington Luiz",
+        "neighborhood" : "Parque Duque",
+        "number" : "2895"
+    }
+}
+{
+    "_id" : "32bfcf48-15bb-46fc-b3d0-89fd7ef01dd1",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "df23f4f5-043e-4397-afad-864ca67739dc",
+    "label" : "São Gonçalo Shopping",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+552120185418",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "24466970",
+        "state" : "RJ",
+        "city" : "São Gonçalo",
+        "street" : "Rod. Niterói - Manilha",
+        "neighborhood" : "Boa Vista",
+        "number" : "100"
+    }
+}
+{
+    "_id" : "b4c02700-f9a2-4d05-99f0-bfd151394aed",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "87ee1b46-13de-41b4-be5e-fbe5d0c75689",
+    "label" : "Golden Square Shopping - São Bernardo/SP",
+    "contactName" : "Golden Square Shopping",
+    "primaryPhoneNumber" : "+551131354000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "09726253",
+        "state" : "SP",
+        "city" : "São Bernardo do Campo",
+        "street" : "Avenida Kennedy",
+        "neighborhood" : "Jardim do Mar",
+        "number" : "700"
+    }
+}
+{
+    "_id" : "9c127f58-6059-46df-bab0-e70287bbb6cb",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Supermercado Meschke",
+    "contactName" : "A definir ",
+    "primaryPhoneNumber" : "+5547999999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88338063",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "neighborhood" : "Nações",
+        "street" : "Avenida do Estado Dalmo Vieira",
+        "number" : "2848"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "5494742f-a0df-41c7-97b6-b2867c574540",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "label" : "Ponto 250 - Itapema - WEIk",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Rua 250",
+        "neighborhood" : "Meia Praia",
+        "number" : "0000"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "dcb271fe-e1d1-4671-a586-063fc3389e19",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Assis",
+    "contactName" : "(51) 9557-0908",
+    "primaryPhoneNumber" : "+555140041828",
+    "secondaryPhoneNumber" : "+555140041828",
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "91010001",
+        "state" : "RS",
+        "city" : "Porto Alegre",
+        "street" : "Avenida Assis Brasil",
+        "neighborhood" : "Passo da Areia",
+        "number" : "164"
+    }
+}
+{
+    "_id" : "87ca6fda-f9aa-4f0b-baee-d69a0d4d657e",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Hiper Condor Itaum - Joinville",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554138882248",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89210085",
+        "state" : "SC",
+        "city" : "Joinville",
+        "street" : "Rua Florianópolis",
+        "neighborhood" : "Itaum",
+        "number" : "100"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "cfdcdbd2-a9ed-4aa0-adb5-1eaf446dd01d",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "bd76348c-d4ac-40ab-b984-abe7317b440c",
+    "label" : "FERNANDO TESTE 1 ",
+    "contactName" : "JOÃO TESTE 1 ",
+    "primaryPhoneNumber" : "+5547999999999",
+    "secondaryPhoneNumber" : "+5547999999999",
+    "rent" : NumberInt(500),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88317525",
+        "state" : "SC",
+        "city" : "Itajaí",
+        "street" : "Rua Waldemar da Silva",
+        "neighborhood" : "Santa Regina",
+        "number" : "5999"
+    }
+}
+{
+    "_id" : "a1e64045-360f-4dfb-8964-f40cb76d79a6",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "df23f4f5-043e-4397-afad-864ca67739dc",
+    "label" : "Recreio Shopping",
+    "contactName" : "Fabio",
+    "primaryPhoneNumber" : "+5521964305520",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "22790701",
+        "state" : "RJ",
+        "city" : "Rio de Janeiro",
+        "neighborhood" : "Recreio dos Bandeirantes",
+        "street" : "Avenida das Américas",
+        "number" : "19019",
+        "extraInfo" : "Shopping "
+    }
+}
+{
+    "_id" : "4a389f15-317b-4fc6-89c3-c29b60c56da1",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "87ee1b46-13de-41b4-be5e-fbe5d0c75689",
+    "label" : "Shopping Valinhos",
+    "contactName" : "Shopping Valinhos",
+    "primaryPhoneNumber" : "+551938294190",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(4000),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "13271600",
+        "state" : "SP",
+        "city" : "Valinhos",
+        "street" : "Rua Paiquere",
+        "neighborhood" : "Jardim Paiquerê",
+        "number" : "200"
+    }
+}
+{
+    "_id" : "03733578-f436-40f1-bd96-9c9dd13f322a",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd",
+    "label" : "Rancho Bom Supermercados - Bairro",
+    "contactName" : "Rancho Bom",
+    "primaryPhoneNumber" : "+554733746996",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89275000",
+        "state" : "SC",
+        "city" : "Schroeder",
+        "street" : "R. Cândido Tomaselli",
+        "neighborhood" : "Rancho Bom",
+        "number" : "879"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "2d1c2bda-e05f-4dc7-8635-b2be3edaa582",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd",
+    "label" : "Rancho Bom - Três Rios",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554722222222",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89254235",
+        "state" : "SC",
+        "city" : "Jaraguá do Sul",
+        "street" : "Rua Prefeito José Bauer",
+        "neighborhood" : "Três Rios do Sul",
+        "number" : "1402"
+    },
+    "routeId" : "5b20ff8f-623c-4c9e-857a-27bfacb8e5cd"
+}
+{
+    "_id" : "2981a722-9356-4a75-85cd-f38d62f03f68",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8b9196f7-241f-4a11-8ba2-2830fabdf441",
+    "label" : "Mega Loja Black Tour - WM",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Avenida Nereu Ramos",
+        "neighborhood" : "Meia Praia",
+        "number" : "Esquina 246"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "b1456b5f-0a5f-4f8d-a0c7-8a043cf69e2b",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "c3f00a4e-5ae5-49c8-9bad-3bbf668f6791",
+    "label" : "Shopping Verdes Mares",
+    "contactName" : "Shopping Verdes Mares",
+    "primaryPhoneNumber" : "+559433223353",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "68509100",
+        "state" : "PA",
+        "city" : "Marabá",
+        "street" : "Folha 27 quadra especial",
+        "neighborhood" : "Nova Marabá",
+        "number" : "s/n"
+    }
+}
+{
+    "_id" : "c1767306-1cb6-4303-acd6-07e057ff5e31",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "99574b16-6d46-452c-83f6-fbb0d705f18c",
+    "label" : "Posto Modesto",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554722222222",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Av. Nereu Ramos",
+        "neighborhood" : "Centro",
+        "number" : "0000"
+    },
+    "routeId" : "5791c7c5-adcf-4d34-919a-224f7edb9a60"
+}
+{
+    "_id" : "cd7d627f-f127-4b31-8f70-c1e0752a8802",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Novo Hamburgo",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555140041828",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "93320021",
+        "state" : "RS",
+        "city" : "Novo Hamburgo",
+        "street" : "Av. Nações Unidas",
+        "neighborhood" : "Rio Branco",
+        "number" : "2001"
+    }
+}
+{
+    "_id" : "9c1ab347-5804-43a7-a2af-df4fdaf82ec5",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "label" : "Shopping Park Europeu - Blumenau",
+    "contactName" : "Shopping Park Europeu",
+    "primaryPhoneNumber" : "+554730391900",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89052381",
+        "state" : "SC",
+        "city" : "Blumenau",
+        "street" : "Via Expressa Paul Fritz Kuehnrich",
+        "neighborhood" : "Itoupava Norte",
+        "number" : "1600"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "5f52f692-d73e-4a83-a73c-e1f26be44e1a",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CTB-CONDOR AV PRESIDENTE ",
+    "contactName" : "44) 3010-9634",
+    "primaryPhoneNumber" : "+5544988305444",
+    "secondaryPhoneNumber" : "+554430109634",
+    "rent" : NumberInt(1000),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "80060090",
+        "state" : "PR",
+        "city" : "Curitiba",
+        "street" : "Avenida Presidente Affonso Camargo",
+        "neighborhood" : "Jardim Botânico",
+        "number" : "10"
+    }
+}
+{
+    "_id" : "f5ab7275-3b7d-4b67-9d2a-1ec5bdc1a087",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "label" : "Shopping Moxuara ",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+557130388520",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "41098020",
+        "state" : "BA",
+        "city" : "Salvador",
+        "street" : "Alameda Euvaldo Luz",
+        "neighborhood" : "Horto Bela Vista",
+        "number" : "92"
+    }
+}
+{
+    "_id" : "a510f628-90e3-4a3f-8765-0814263b0d58",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "label" : "Shopping Itaguaçu - São José",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88117292",
+        "state" : "SC",
+        "city" : "São José",
+        "street" : "Rua Gerôncio Thives",
+        "neighborhood" : "Barreiros",
+        "number" : "1079"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "27521612-b0b5-40a5-909c-d9ef5870452a",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CTB-SHOP PALLADIUM",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554132123500",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(20000),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "80610905",
+        "state" : "PR",
+        "city" : "Curitiba",
+        "street" : "Avenida Presidente Kennedy",
+        "neighborhood" : "Portão",
+        "number" : "4121"
+    }
+}
+{
+    "_id" : "7fbca0fb-c029-4502-81e3-e19ee1edc324",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : " Campo Bom",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555135974002",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "93700000",
+        "state" : "RS",
+        "city" : "Campo Bom",
+        "street" : "R. Cairú",
+        "neighborhood" : "Centro",
+        "number" : "125 "
+    }
+}
+{
+    "_id" : "751b3ffb-0d62-4e2c-b377-65b36e36d69c",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "cfa2e870-0676-4089-a5f3-4c6424171417",
+    "label" : "Brasil Atacadista - São José (Léo)",
+    "contactName" : "Brasil Atacadista",
+    "primaryPhoneNumber" : "+5555483279412",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88106115",
+        "state" : "SC",
+        "city" : "São José",
+        "street" : "Rodovia SC-281",
+        "neighborhood" : "Picadas do Sul",
+        "number" : "2665"
+    }
+}
+{
+    "_id" : "fb89a17f-4895-4917-96e3-d32b820f367d",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "LDN-CONDOR",
+    "contactName" : "(43) 3322-8080",
+    "primaryPhoneNumber" : "+554333228080",
+    "secondaryPhoneNumber" : "+554333228080",
+    "rent" : NumberInt(1300),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "86026080",
+        "state" : "PR",
+        "city" : "Londrina",
+        "street" : "Rua Rio Grande do Sul",
+        "neighborhood" : "Centro",
+        "number" : "50"
+    }
+}
+{
+    "_id" : "2b5c1179-3252-4fe5-8674-2cde2b5e970b",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CCV-MAX ATACADISTA",
+    "contactName" : "(45) 4009-8300",
+    "primaryPhoneNumber" : "+554540098300",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "85816290",
+        "state" : "PARANA ",
+        "city" : "CASCAVEL",
+        "street" : "PR",
+        "neighborhood" : "SAO CRISTOVAO",
+        "number" : "900"
+    }
+}
+{
+    "_id" : "28f62edb-749e-4a46-9aa2-5b354ba0ea41",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8b9196f7-241f-4a11-8ba2-2830fabdf441",
+    "label" : "Loja Black Buriti Shopping - WM",
+    "contactName" : "Buriti Shopping",
+    "primaryPhoneNumber" : "+556230979572",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "74916260",
+        "state" : "GO",
+        "city" : "Aparecida de Goiânia",
+        "street" : "Avenida Rio Verde",
+        "neighborhood" : "Vila Sao Tomaz",
+        "number" : "Qd 102/104"
+    }
+}
+{
+    "_id" : "a9cc432c-caa4-4ed1-969e-1a49f24edb4e",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Loja Black Outlet Premium",
+    "contactName" : "Outlet Premium",
+    "primaryPhoneNumber" : "+554730402000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88210000",
+        "state" : "SC",
+        "city" : "Porto Belo",
+        "street" : "BR-101, KM 159 Sentido Norte",
+        "neighborhood" : "Alto Perequê",
+        "number" : "KM 159"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "fcb990e7-8f6e-4f1c-9113-9df1728822f2",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "87ee1b46-13de-41b4-be5e-fbe5d0c75689",
+    "label" : "Bourbon Shopping São Paulo",
+    "contactName" : "Shopping",
+    "primaryPhoneNumber" : "+551140041828",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "05005030",
+        "state" : "SP",
+        "city" : "São Paulo",
+        "street" : "Rua Palestra Itália",
+        "neighborhood" : "Perdizes",
+        "number" : "500"
+    }
+}
+{
+    "_id" : "3771a76e-340a-4d60-9bb7-bec688cf4a97",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "label" : "Shopping Itaguaçu - WEIK",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88117292",
+        "state" : "SC",
+        "city" : "São José",
+        "street" : "Rua Gerôncio Thives",
+        "neighborhood" : "Barreiros",
+        "number" : "1079"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "05d43342-39bc-4e6d-82a7-eebc8a467e32",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CGR-CARREFOUR SHOP ",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+556733163400",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "79031010",
+        "state" : "MS",
+        "city" : "Campo Grande",
+        "street" : "Avenida Afonso Pena",
+        "neighborhood" : "Santa Fé",
+        "number" : "4909"
+    }
+}
+{
+    "_id" : "29fd7f01-2201-4cba-a67e-029546235f36",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "label" : "Kairós Cervejaria - Ingleses - Floripa",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554899999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88058197",
+        "state" : "SC",
+        "city" : "Florianópolis",
+        "street" : "Rua Mercúrio",
+        "neighborhood" : "Ingleses do Rio Vermelho",
+        "number" : "162"
+    }
+}
+{
+    "_id" : "8fe20ee3-898b-42a3-b02f-9d3e0051b185",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "FOZ-MUF VILA A",
+    "contactName" : "(45) 2102-3600",
+    "primaryPhoneNumber" : "+554521023600",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(3600),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "85869580",
+        "state" : "PR",
+        "city" : "Foz do Iguaçu",
+        "street" : "Avenida Sílvio Américo SasdelliVila Residencial A/Jardim Lancaster",
+        "neighborhood" : "Lancaster",
+        "number" : "3004"
+    }
+}
+{
+    "_id" : "978ce5ee-62ee-4c47-a944-3d46c0c182e6",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Supermercado Rivieira - S. B. do Campo",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+553333333333",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "09850550",
+        "state" : "SP",
+        "city" : "São Bernardo do Campo",
+        "street" : "Estrada dos Alvarengas",
+        "neighborhood" : "Assunção",
+        "number" : "4151"
+    },
+    "routeId" : "8e010a79-e0cd-43d7-9617-43a03f592143"
+}
+{
+    "_id" : "b7c09bfa-d075-41c8-a4b9-0140edb85a72",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Camelôdromo Capão da Canoa ",
+    "contactName" : "Rodrigo (51) 99656-6798",
+    "primaryPhoneNumber" : "+551234567890",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "95555000",
+        "state" : "RS",
+        "city" : "Capão da Canoa",
+        "neighborhood" : "Centro ",
+        "street" : "Praça Centro ",
+        "number" : "000",
+        "extraInfo" : "camelô "
+    }
+}
+{
+    "_id" : "fee9f635-6978-403e-ab5e-f33d60b29935",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd",
+    "label" : "Rancho Bom Supermercados - Amizade",
+    "contactName" : "Rancho Bom-Amizade",
+    "primaryPhoneNumber" : "+554733746991",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89255685",
+        "state" : "SC",
+        "city" : "Jaraguá do Sul",
+        "street" : "Rua Roberto Ziemann",
+        "neighborhood" : "Amizade",
+        "number" : "3490"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "427a650c-4b3b-4c4d-9a0e-17043571d940",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd",
+    "label" : "Rancho Bom Supermercados - Corupá",
+    "contactName" : "Rancho Bom-Corupá",
+    "primaryPhoneNumber" : "+554733746988",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89278000",
+        "state" : "SC",
+        "city" : "Corupá",
+        "street" : "R. João Tozini",
+        "neighborhood" : "João Tozini",
+        "number" : "1484"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "2ee43d92-c591-4201-ad15-ebefaea470f9",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "9390d791-1d40-43b7-96dc-90f54db39fb1",
+    "label" : "Eskimó Sorvetes Perequê",
+    "contactName" : "Eskimó Perequê",
+    "primaryPhoneNumber" : "+5548999170222",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88210000",
+        "state" : "SC",
+        "city" : "Porto Belo",
+        "street" : "Av Hironildo Conceição dos Santos",
+        "neighborhood" : "Perequê",
+        "number" : "750"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "4bce310a-2d59-440d-bd6c-deccbbada113",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "99574b16-6d46-452c-83f6-fbb0d705f18c",
+    "label" : "Loja MIX",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554733333333",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Av. Nereu Ramos",
+        "neighborhood" : "Centro",
+        "number" : "0000"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "cd0325d5-9552-42ef-b740-5712dd5623c9",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "label" : "Shopping Poços de Caldas",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+553536974000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "37704369",
+        "state" : "MG",
+        "city" : "Poços de Caldas",
+        "street" : "Avenida Sílvio Monteiro dos Santos",
+        "neighborhood" : "Vale das Antas",
+        "number" : "180"
+    }
+}
+{
+    "_id" : "31394036-8329-4ea6-90c9-979b60fdac16",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "2748f4d9-b05f-4b13-9b28-f83317b850ff",
+    "label" : "Jardim Botânico",
+    "contactName" : "A definir",
+    "primaryPhoneNumber" : "+554133621800",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(200),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "80210390",
+        "state" : "PR",
+        "city" : "Curitiba",
+        "street" : "Rua Engenheiro Ostoja Roguski",
+        "neighborhood" : "Jardim Botânico",
+        "number" : "0"
+    }
+}
+{
+    "_id" : "871ca662-8da7-4957-8a27-4559e0ac8ed8",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "9390d791-1d40-43b7-96dc-90f54db39fb1",
+    "label" : "Brisamar Shopping - São Vicente/SP",
+    "contactName" : "Brisamar Shopping",
+    "primaryPhoneNumber" : "+551335799800",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "11310060",
+        "state" : "SP",
+        "city" : "São Vicente",
+        "street" : "Rua Frei Gaspar",
+        "neighborhood" : "Centro",
+        "number" : "365"
+    }
+}
+{
+    "_id" : "2be1a4d6-131d-42f1-a60b-ce28222a86cc",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "UMR-SHOP PALLADIUM",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554420310200",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "87507152",
+        "state" : "PR",
+        "city" : "Umuarama",
+        "street" : "Estrada Bonfim",
+        "neighborhood" : "Parque Industrial II",
+        "number" : "207"
+    }
+}
+{
+    "_id" : "fee405ae-e0b4-4710-b826-d786d0418af3",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "2eb8df8b-1eaf-4363-b1bc-88176b85a9c1",
+    "label" : "Bordin - Pizzaria e Lanchonete",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+550000000000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88310696",
+        "state" : "SC",
+        "city" : "Itajaí",
+        "street" : "Avenida Mário Uriarte",
+        "neighborhood" : "Cordeiros",
+        "number" : "160"
+    }
+}
+{
+    "_id" : "58bd29df-90f2-461e-93d4-390748b47386",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CGR-SHOP CAMPO GRANDE ",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+556733898008",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(11666),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "79031900",
+        "state" : "MS",
+        "city" : "Campo Grande",
+        "street" : "Avenida Afonso Pena 4909",
+        "neighborhood" : "Santa Fé",
+        "number" : "4909"
+    }
+}
+{
+    "_id" : "bb1eb726-5dcf-450c-9201-7fdae489597e",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "LIM-SHOP LIMEIRA ",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+551934458400",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(5000),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "13485346",
+        "state" : "SP",
+        "city" : "Limeira",
+        "street" : "Avenida Carlos Kuntz Busch",
+        "neighborhood" : "Parque Egisto Ragazzo",
+        "number" : "800"
+    }
+}
+{
+    "_id" : "47622451-f5c5-4c28-9ba8-a463a9d6eacc",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "label" : "Shopping Mestre Álvaro",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+552732038080",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "29160169",
+        "state" : "ES",
+        "city" : "Serra",
+        "street" : "Rua dos Pardais",
+        "neighborhood" : "Eurico Salles",
+        "number" : "300 "
+    }
+}
+{
+    "_id" : "9026c670-532a-4b7a-b56e-c8dd1cfbf54a",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : " Sapiranga",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555135991470",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "93815016",
+        "state" : "RS",
+        "city" : "Sapiranga",
+        "street" : "Av. 20 de Setembro",
+        "neighborhood" : "Oeste, Fazenda Leão",
+        "number" : "3358"
+    }
+}
+{
+    "_id" : "120780a9-a60d-43b4-8d08-d8707c805920",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "bd76348c-d4ac-40ab-b984-abe7317b440c",
+    "label" : "Teste 2",
+    "contactName" : " teste Elizandro",
+    "primaryPhoneNumber" : "+5547999999999",
+    "secondaryPhoneNumber" : "+5547989948499",
+    "rent" : NumberInt(500),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88317525",
+        "state" : "SC",
+        "city" : "Itajaí",
+        "street" : "Rua Waldemar da Silva",
+        "neighborhood" : "Santa Regina",
+        "number" : "497"
+    }
+}
+{
+    "_id" : "5cd81bba-592d-451d-a2b2-399cfc272055",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "9390d791-1d40-43b7-96dc-90f54db39fb1",
+    "label" : "Golden Square Shopping - São Bernardo/SP",
+    "contactName" : "Golden Square Shopping",
+    "primaryPhoneNumber" : "+551131354000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "09726253",
+        "state" : "SP",
+        "city" : "São Bernardo do Campo",
+        "street" : "Avenida Kennedy",
+        "neighborhood" : "Jardim do Mar",
+        "number" : "700"
+    }
+}
+{
+    "_id" : "cdd88b06-7145-4687-a294-e01d895c43ae",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "6ca5cf5f-fa73-4e81-99ff-e86b4610e4ec",
+    "label" : "Ponto Teste Telemetria",
+    "contactName" : "Contato Teste",
+    "primaryPhoneNumber" : "+554744444444",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Nereu Ramos",
+        "neighborhood" : "Meia Praia",
+        "number" : "0001"
+    }
+}
+{
+    "_id" : "9ba86d1a-ef11-4f0e-86c9-b53e4b0f4afa",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "label" : "Loja Black Internacional Shopping Guarulhos",
+    "contactName" : "Internacional Shopping",
+    "primaryPhoneNumber" : "+551124145000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "07034911",
+        "state" : "SP",
+        "city" : "Guarulhos",
+        "street" : " Rodovia Presidente Dutra",
+        "neighborhood" : "Itapegica",
+        "number" : "KM 225"
+    }
+}
+{
+    "_id" : "896fa356-9a17-42c2-92f2-8b539dfff9dd",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "2fbb082b-b716-4b18-8eee-a1e15ff86542",
+    "label" : "Beto Carrero World - Gustavo",
+    "contactName" : "Beto Carrero",
+    "primaryPhoneNumber" : "+554732612222",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88385000",
+        "state" : "SC",
+        "city" : "Penha",
+        "street" : "Rod. Beto Carrero World",
+        "neighborhood" : "Praia de Armação do Itapocorói",
+        "number" : "s/n"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "7f1be5ce-5a95-4e18-88ce-3f773c718fd6",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "LONDRINA NORTE SHOPPING ",
+    "contactName" : "00000000",
+    "primaryPhoneNumber" : "+550000000000",
+    "secondaryPhoneNumber" : "+550000000000",
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "86079225",
+        "state" : "PR",
+        "city" : "Londrina",
+        "street" : "Avenida Américo Deolindo Garla",
+        "neighborhood" : "Pacaembu",
+        "number" : "224"
+    }
+}
+{
+    "_id" : "9f415dc4-7529-4cb0-9aa9-4439e5916382",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "DEFAULT 01",
+    "contactName" : "a ss",
+    "primaryPhoneNumber" : "+554138882242",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(1800),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "84016210",
+        "state" : "PR",
+        "city" : "Ponta Grossa",
+        "street" : "Avenida Monteiro Lobato",
+        "neighborhood" : "Jardim Carvalho",
+        "number" : "2180"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "17cf66f2-3b08-4795-a7d9-41ed36241030",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "cfa2e870-0676-4089-a5f3-4c6424171417",
+    "label" : "Continente Shopping - São José",
+    "contactName" : "Shopping",
+    "primaryPhoneNumber" : "+554830949268",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88104800",
+        "state" : "SC",
+        "city" : "São José",
+        "street" : "Rodovia BR-101",
+        "neighborhood" : "Distrito Industrial",
+        "number" : "KM 210 Esquina Rod, SC-281"
+    }
+}
+{
+    "_id" : "e00a47f2-3485-4469-953f-3c8daf385989",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "MGA-CONDOR AV COLOMBO",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554432532094",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(1300),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "87030120",
+        "state" : "PR",
+        "city" : "Maringá",
+        "street" : "Avenida Colombo",
+        "neighborhood" : "Zona 07",
+        "number" : "3404"
+    }
+}
+{
+    "_id" : "2d229c71-9ddc-4826-a84f-93f840ab76a7",
+    "ownerId" : "a2aa44ba-7e0a-4416-94d4-58a277d1c27a",
+    "groupId" : "5265ba0a-f5f9-4091-9e66-5b414da553c5",
+    "label" : "Spazzio Sapore",
+    "contactName" : "Hacasa Administradora",
+    "primaryPhoneNumber" : "+5555478813503",
+    "secondaryPhoneNumber" : "+5500000000000",
+    "rent" : NumberInt(500),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88301320",
+        "state" : "SC",
+        "city" : "Itajaí",
+        "neighborhood" : "Centro",
+        "street" : "Rua Samuel Heusi",
+        "number" : "257",
+        "extraInfo" : "SPAZZIO SAPORE"
+    }
+}
+{
+    "_id" : "75a8791f-f5ee-4512-9b47-7fae9e4f67bd",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CCV-MUF C GOMES",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554540095500",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(3600),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "85803000",
+        "state" : "PR",
+        "city" : "Cascavel",
+        "street" : "Rua Carlos Gomes",
+        "neighborhood" : "Parque São Paulo",
+        "number" : "2685"
+    }
+}
+{
+    "_id" : "71887cc5-6eac-4b0a-93b4-b982aa81a26e",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "PGR-MENEGATTI",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554232255148",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(1000),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "84043450",
+        "state" : "PR",
+        "city" : "Ponta Grossa",
+        "street" : "Rodovia BR-376",
+        "neighborhood" : "Colônia Dona Luíza",
+        "number" : "301"
+    }
+}
+{
+    "_id" : "3355ce02-77b3-436a-a16c-9f5435cf1d58",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Reus",
+    "contactName" : "Rodrigo",
+    "primaryPhoneNumber" : "+5551980647242",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "93218270",
+        "state" : "RS",
+        "city" : "Sapucaia do Sul",
+        "street" : "Avenida Mauá",
+        "neighborhood" : "Centro",
+        "number" : "2222"
+    }
+}
+{
+    "_id" : "f2abcc26-d364-4a96-bc64-b0f19a4aefc2",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Super Condor América - Joinville",
+    "contactName" : "Condor América",
+    "primaryPhoneNumber" : "+554734275395",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89204200",
+        "state" : "SC",
+        "city" : "Joinville",
+        "street" : "Rua Almirante Barroso",
+        "neighborhood" : "América",
+        "number" : "716"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "eaeddf49-77e2-4751-b621-da14cab1bac4",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "FOZ-MAX ATACADISTA",
+    "contactName" : "(45) 2102-1300",
+    "primaryPhoneNumber" : "+554521021300",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(3600),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "85863350",
+        "state" : "PR",
+        "city" : "Foz do Iguaçu",
+        "street" : "Avenida Getúlio VargasParque Presidente",
+        "neighborhood" : "Centro Cívico",
+        "number" : "672"
+    }
+}
+{
+    "_id" : "0b32ce38-4894-4cec-aa72-31398f12ddba",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CTB-SOUQ",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+5541995424307",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(2000),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "80240074",
+        "state" : "PR",
+        "city" : "Curitiba",
+        "street" : "Avenida Iguaçu",
+        "neighborhood" : "Vila Izabel",
+        "number" : "4399"
+    }
+}
+{
+    "_id" : "85120929-a635-425f-a247-5a3891d13770",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "c3f00a4e-5ae5-49c8-9bad-3bbf668f6791",
+    "label" : "Shopping Metrópole Ananindeua",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+559133467000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "67113970",
+        "state" : "PA",
+        "city" : "Ananindeua",
+        "street" : "Rodovia BR-316 km 4 Lote",
+        "neighborhood" : "Coqueiro",
+        "number" : "4500"
+    }
+}
+{
+    "_id" : "45f5a3a7-c0d4-47e5-a27d-65002914ef12",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "87ee1b46-13de-41b4-be5e-fbe5d0c75689",
+    "label" : "Bourbon Shopping Wallig",
+    "contactName" : "Shopping",
+    "primaryPhoneNumber" : "+550040041828",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "91010004",
+        "state" : "RS",
+        "city" : "Porto Alegre",
+        "street" : "Avenida Assis Brasil",
+        "neighborhood" : "Passo da Areia",
+        "number" : "2611"
+    }
+}
+{
+    "_id" : "1e3d4dc9-a134-47be-8a4b-844f8e98272b",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Terezopólis",
+    "contactName" : "051 9557-0908",
+    "primaryPhoneNumber" : "+555140041828",
+    "secondaryPhoneNumber" : "+555140041828",
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "90680570",
+        "state" : "RS",
+        "city" : "Porto Alegre",
+        "neighborhood" : "Glória",
+        "street" : "Rua Coronel Aparício Borges",
+        "number" : "250"
+    }
+}
+{
+    "_id" : "17e84338-e619-4a05-9b9d-a2f18049a57a",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "label" : "Mini Mercado da Lage - Navegantes/SC",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554755555555",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88371092",
+        "state" : "SC",
+        "city" : "Navegantes",
+        "street" : "Rua Tenente Nildo Batista",
+        "neighborhood" : "São Paulo",
+        "number" : "74"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "7c545fbe-9698-41d3-896c-4ab0170e55cd",
+    "ownerId" : "4121a0aa-a78e-4682-acfb-f86f05ec4652",
+    "groupId" : "7a964155-a095-4970-8696-4a90c9878eec",
+    "label" : "Sunset",
+    "contactName" : "Criss",
+    "primaryPhoneNumber" : "+5547997777777",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(10),
+    "isPercentage" : true,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "RUA 210",
+        "neighborhood" : "MP",
+        "number" : "22"
+    },
+    "routeId" : "29b4d453-9974-4816-891a-89dfc77995ac"
+}
+{
+    "_id" : "794ae7da-80d5-4ecd-ae9e-c4412014c786",
+    "ownerId" : "4121a0aa-a78e-4682-acfb-f86f05ec4652",
+    "groupId" : "7a964155-a095-4970-8696-4a90c9878eec",
+    "label" : "Sunset 2",
+    "contactName" : "Rafa",
+    "primaryPhoneNumber" : "+5547999999999",
+    "secondaryPhoneNumber" : "+5547999999999",
+    "rent" : NumberInt(1),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88301320",
+        "state" : "SC",
+        "city" : "Itajaí",
+        "street" : "Rua Samuel Heusi",
+        "neighborhood" : "Centro",
+        "number" : "33",
+        "extraInfo" : "Shopping"
+    }
+}
+{
+    "_id" : "53023c43-c52e-4d39-8385-b7ccadacbc57",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8b9196f7-241f-4a11-8ba2-2830fabdf441",
+    "label" : "Ponto 250 - Itapema - WM",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Rua 250",
+        "neighborhood" : "Meia Praia",
+        "number" : "0000"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "762a6fc3-79f9-4b02-8f0b-754d774dd168",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8b9196f7-241f-4a11-8ba2-2830fabdf441",
+    "label" : "Nações Shopping - WM - Criciúma/SC",
+    "contactName" : "Nações Shopping",
+    "primaryPhoneNumber" : "+554821018300",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88813901",
+        "state" : "SC",
+        "city" : "Criciúma",
+        "street" : "Avenida Jorge Elias de Lucca",
+        "neighborhood" : "Nossa Senhora da Salete",
+        "number" : "765"
+    }
+}
+{
+    "_id" : "76328584-63db-481c-97f2-739417f00244",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8b9196f7-241f-4a11-8ba2-2830fabdf441",
+    "label" : "Loja Black Outlet Premium - WM",
+    "contactName" : "Outlet Premium",
+    "primaryPhoneNumber" : "+554730402000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88210000",
+        "state" : "SC",
+        "city" : "Porto Belo",
+        "street" : "BR-101, KM 159 Sentido Norte",
+        "neighborhood" : "Alto Perequê",
+        "number" : "KM 159"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "9f4a94c3-d3e7-42f6-b533-bc0d96b06846",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "6bb4dd70-0ec4-43d2-99ff-b8e1738cb187",
+    "label" : "Hiper Condor Comasa - Joinville",
+    "contactName" : "Hiper Condor Comasa",
+    "primaryPhoneNumber" : "+554734328610",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89228310",
+        "state" : "SC",
+        "city" : "Joinville",
+        "street" : "Rua Albano Schmidt",
+        "neighborhood" : "Comasa",
+        "number" : "4764"
+    },
+    "routeId" : "ce540e6e-db4a-44e7-a75f-e273fff3d135"
+}
+{
+    "_id" : "b5afa7d0-7770-4657-b31e-490162bad1c5",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Rissul",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555135881780",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "93040290",
+        "state" : "RS",
+        "city" : "São Leopoldo",
+        "street" : "Avenida Feitoria",
+        "neighborhood" : "São Jose",
+        "number" : "350"
+    }
+}
+{
+    "_id" : "d8dbd62b-9662-49b0-a226-386f517514fc",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "2748f4d9-b05f-4b13-9b28-f83317b850ff",
+    "label" : "PDV 2",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+5547000000000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(200),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88308492",
+        "state" : "SC",
+        "city" : "Itajaí",
+        "street" : "Rua Anatolio José da Silva",
+        "neighborhood" : "Cidade Nova",
+        "number" : "123"
+    }
+}
+{
+    "_id" : "0d0e0c20-a3f3-4a06-8917-776acacd8275",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Park Nereu Ramos - São Francisco do Sul",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89240000",
+        "state" : "SC",
+        "city" : "São Francisco do Sul",
+        "street" : "Av. Dr. Nereu Ramos",
+        "neighborhood" : "Rocio Grande",
+        "number" : "439"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "5642f587-1b15-450b-a21e-1a210333712f",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "87ee1b46-13de-41b4-be5e-fbe5d0c75689",
+    "label" : "Bourbon Shopping São Leopoldo",
+    "contactName" : "Shopping",
+    "primaryPhoneNumber" : "+550040041828",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "93010210",
+        "state" : "RS",
+        "city" : "São Leopoldo",
+        "street" : "Rua Primeiro de Março",
+        "neighborhood" : "Centro",
+        "number" : "821"
+    }
+}
+{
+    "_id" : "638ee198-6849-4fe2-ba1c-28f278f724d2",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "79d57250-a440-40a6-9670-2834f7036114",
+    "label" : "Camelódromo",
+    "contactName" : "JOACIR",
+    "primaryPhoneNumber" : "+5547984813007",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(5000),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88330532",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "street" : "Rua 1520",
+        "neighborhood" : "Centro",
+        "number" : "111 "
+    }
+}
+{
+    "_id" : "ab0e1035-cb7f-4b40-9c1c-1279cd995bd3",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Hipica",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555140041112",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "91755000",
+        "state" : "RS",
+        "city" : "Porto Alegre",
+        "street" : "Avenida Juca Batista",
+        "neighborhood" : "Hípica",
+        "number" : "4255"
+    }
+}
+{
+    "_id" : "842ed07d-c0e1-47df-9805-32127d5e6bcb",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CTB-SHOP CURITIBA ",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+551935343377",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "13506845",
+        "state" : "SP",
+        "city" : "Rio Claro",
+        "street" : "Avenida Conde Francisco Matarazzo Júnior",
+        "neighborhood" : "Vila Paulista",
+        "number" : "205"
+    }
+}
+{
+    "_id" : "98eb878d-b965-4118-b1a7-24296f5736bb",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Rissul",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555135947408",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "93315204",
+        "state" : "RS",
+        "city" : "Novo Hamburgo",
+        "street" : "Avenida Nações Unidas",
+        "neighborhood" : "Operário",
+        "number" : "334"
+    }
+}
+{
+    "_id" : "79da5635-6be1-4a9e-8b37-acaa78ce1f45",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "PGR-SHOP PALLADIUM",
+    "contactName" : "(42) 3224-3000",
+    "primaryPhoneNumber" : "+554232243000",
+    "secondaryPhoneNumber" : "+554232243000",
+    "rent" : NumberInt(9800),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "84035903",
+        "state" : "PR",
+        "city" : "Ponta Grossa",
+        "street" : "Rua Ermelino de Leão 703",
+        "neighborhood" : "Olarias",
+        "number" : "703"
+    }
+}
+{
+    "_id" : "f2aae117-7793-4335-a35b-37af2509464f",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "label" : "Brasil Atacadista - Sertão do Maruim - São José/SC",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554899999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88106115",
+        "state" : "SC",
+        "city" : "São José",
+        "street" : "Rodovia SC-281",
+        "neighborhood" : "Picadas do Sul",
+        "number" : "2665"
+    }
+}
+{
+    "_id" : "887506aa-00bc-4240-ab25-ee1ef7f9c0fb",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "LIM-SHOP PATIO LIMEIRA",
+    "contactName" : "(19) 3404-2828",
+    "primaryPhoneNumber" : "+551934042828",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(6900),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "13480013",
+        "state" : "SP",
+        "city" : "Limeira",
+        "street" : "Rua Carlos Gomes",
+        "neighborhood" : "Centro",
+        "number" : "1321"
+    }
+}
+{
+    "_id" : "830c835c-a467-49d4-987c-51063b45963c",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CTB-SHOP CRYSTAL ",
+    "contactName" : "00000000",
+    "primaryPhoneNumber" : "+550000000000",
+    "secondaryPhoneNumber" : "+550000000000",
+    "rent" : NumberInt(2000),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "80420000",
+        "state" : "PR",
+        "city" : "Curitiba",
+        "neighborhood" : "Centro",
+        "street" : "Rua Comendador Araújo",
+        "number" : "731"
+    }
+}
+{
+    "_id" : "250c53fb-fe87-4648-b111-75c5c324fe88",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : " Sapucaia",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555134749766",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "93220410",
+        "state" : "RS",
+        "city" : "Sapucaia do Sul",
+        "street" : "Passagem Sapucaia",
+        "neighborhood" : "Jardim",
+        "number" : "720"
+    }
+}
+{
+    "_id" : "86d81541-a9ed-4ed5-8509-a60be47775e9",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Macromix Torres",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555136641989",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "95560000",
+        "state" : "RS",
+        "city" : "Torres",
+        "street" : " Avenida Castelo Branco",
+        "neighborhood" : "Igra",
+        "number" : "496"
+    }
+}
+{
+    "_id" : "973c0d2b-c067-4a6d-91ee-52fc0ad1a95e",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "538e5185-36bc-42a1-b2eb-0d75acf0c9bb",
+    "label" : "Trindade Loja Posto 24 horas - Floripa",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554899999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88036003",
+        "state" : "SC",
+        "city" : "Florianópolis",
+        "street" : "Rua Lauro Linhares",
+        "neighborhood" : "Trindade",
+        "number" : "1619"
+    },
+    "routeId" : "d4eb5965-392b-4615-92cb-89708320f4e5"
+}
+{
+    "_id" : "0da1eef2-cf5b-4026-b583-448f9258990c",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "c3f00a4e-5ae5-49c8-9bad-3bbf668f6791",
+    "label" : "Shopping Bosque Grão-Pará",
+    "contactName" : "Shopping Grão-Pará",
+    "primaryPhoneNumber" : "+559132186100",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "66640150",
+        "state" : "PA",
+        "city" : "Belém",
+        "street" : "Av. Centenário",
+        "neighborhood" : "Mangueirão",
+        "number" : "1052"
+    }
+}
+{
+    "_id" : "8e37a901-ea24-4d60-8ba5-9b72733b5785",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "label" : "Farmácia Farmaclínica - BC",
+    "contactName" : "Farmácia Farmaclínica",
+    "primaryPhoneNumber" : "+554733670402",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88330050",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "street" : "Avenida Brasil esquina, Rua 1500",
+        "neighborhood" : "Centro",
+        "number" : "1884"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "d624994f-ef44-4807-8a18-9faace580d8a",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "RESTAURANTE A BAIANA Torres",
+    "contactName" : "(51)982348197",
+    "primaryPhoneNumber" : "+555195570908",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : true,
+    "address" : {
+        "zipCode" : "95560000",
+        "state" : "RS",
+        "city" : "Torres",
+        "neighborhood" : "AV",
+        "street" : "BEIRA MAR ",
+        "number" : "1219"
+    }
+}
+{
+    "_id" : "5a0e6283-ba0e-4aab-b8d8-47d5bc491be8",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "46315b85-0e02-4e46-9696-ef56d00da49b",
+    "label" : "Shopping Lynemar",
+    "contactName" : "Shopping Lynemar",
+    "primaryPhoneNumber" : "+555136251735",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "95555000",
+        "state" : "RS",
+        "city" : "Capão da Canoa",
+        "street" : "Rua Sepé",
+        "neighborhood" : "Centro",
+        "number" : "1896"
+    }
+}
+{
+    "_id" : "af862649-8857-479d-95e1-92614a2ec49f",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "79d57250-a440-40a6-9670-2834f7036114",
+    "label" : "Loja Black Buriti Shopping",
+    "contactName" : "Buriti Shopping",
+    "primaryPhoneNumber" : "+556230979572",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "74916260",
+        "state" : "GO",
+        "city" : "Aparecida de Goiânia",
+        "street" : "Avenida Rio Verde",
+        "neighborhood" : "Vila Sao Tomaz",
+        "number" : "Qd 102/104"
+    }
+}
+{
+    "_id" : "82b291e0-75b2-4dc3-9a3e-6ccda77bd064",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Canoas Shopping ",
+    "contactName" : "51 995570908",
+    "primaryPhoneNumber" : "+5551995353016",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "96216400",
+        "state" : "RS",
+        "city" : "Rio Grande",
+        "street" : "Avenida Engenheira Lúcia Maria Balbela Chiesa",
+        "neighborhood" : "Parque Residencial São Pedro",
+        "number" : "2842"
+    }
+}
+{
+    "_id" : "148cd985-84df-43a5-b9f1-b779db5be5c9",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "label" : "Brasil Atacadista - Palhoça",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88135016",
+        "state" : "SC",
+        "city" : "Palhoça",
+        "street" : "Rodovia BR-101",
+        "neighborhood" : "Aririu",
+        "number" : "KM 215 7"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "b3a7bfe3-d035-45b7-9c14-4415d968f2cd",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "2748f4d9-b05f-4b13-9b28-f83317b850ff",
+    "label" : "Teste",
+    "contactName" : "dasdsadsa",
+    "primaryPhoneNumber" : "+5547997904888",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88317525",
+        "state" : "SC",
+        "city" : "Itajaí",
+        "street" : "Rua Waldemar da Silva",
+        "neighborhood" : "Santa Regina",
+        "number" : "dasdsa"
+    }
+}
+{
+    "_id" : "df09bf3c-6eb9-4b4e-ba75-9f5037d58cd0",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "LDN-SHOP CATUAI",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554333155000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(10000),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "86050901",
+        "state" : "PR",
+        "city" : "Londrina",
+        "street" : "Rodovia Celso Garcia Cid, km 377",
+        "neighborhood" : "Gleba Fazenda Palhano",
+        "number" : "5600"
+    }
+}
+{
+    "_id" : "40e5d47e-81d4-4375-a048-5ba8ae98840f",
+    "ownerId" : "64907cd6-e679-4765-b563-20cf08326cac",
+    "groupId" : "ec7d03fd-6c65-4537-a601-66a9c355d9f3",
+    "label" : "Teste 2",
+    "contactName" : "Guilherme",
+    "primaryPhoneNumber" : "+5547996751113",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88330043",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "neighborhood" : "Centro",
+        "street" : "Avenida Brasil",
+        "number" : "teste 2"
+    }
+}
+{
+    "_id" : "7fe881d6-a0a9-4ab1-9f55-f1968c805247",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "label" : "Supermercados Imperatriz - Córrego Grande",
+    "contactName" : "Super Imperatriz - Córrego Grande",
+    "primaryPhoneNumber" : "+554833893639",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88037001",
+        "state" : "SC",
+        "city" : "Florianópolis",
+        "street" : "Rua João Pio Duarte Silva",
+        "neighborhood" : "Córrego Grande",
+        "number" : "1623"
+    }
+}
+{
+    "_id" : "1731efbb-b21f-4383-92ce-c8dc7d932f8e",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "9390d791-1d40-43b7-96dc-90f54db39fb1",
+    "label" : "Shopping BIG Anita Garibaldi",
+    "contactName" : "A Definir ",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89202000",
+        "state" : "SC",
+        "city" : "Joinville",
+        "street" : "Avenida Getúlio Vargas",
+        "neighborhood" : "Anita Garibaldi",
+        "number" : "1446"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "bea82746-c151-4788-87a2-0a133c7ee90e",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "c3f00a4e-5ae5-49c8-9bad-3bbf668f6791",
+    "label" : "Castanheira Shopping Center",
+    "contactName" : "Shopping Castanheira",
+    "primaryPhoneNumber" : "+559140088100",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "66645001",
+        "state" : "PA",
+        "city" : "Belém",
+        "street" : "Rodovia BR-316, Km 01",
+        "neighborhood" : "Castanheira",
+        "number" : "Km 01"
+    }
+}
+{
+    "_id" : "82c3a6a3-f91b-4d8a-bf29-5d6c3f15fec8",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "hiper Zaffari Caxias do Sul ",
+    "contactName" : "4004 1112",
+    "primaryPhoneNumber" : "+555112345678",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "95020310",
+        "state" : "RS",
+        "city" : "Caxias do Sul",
+        "neighborhood" : "Centro",
+        "street" : "Rua Borges de Medeiros",
+        "number" : "391"
+    }
+}
+{
+    "_id" : "b971d89f-5a29-41b3-8377-12277a76f664",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd",
+    "label" : "Rancho Bom Supermercados - Vieira",
+    "contactName" : "Rancho Bom-Vieira",
+    "primaryPhoneNumber" : "+554733746995",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89254700",
+        "state" : "SC",
+        "city" : "Jaraguá do Sul",
+        "street" : "Rodovia Prefeito Engelbert Oechsler",
+        "neighborhood" : "Chico de Paulo",
+        "number" : "16"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "5200bb3f-2fa7-4f78-9acd-67ae0e2d000b",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "6ac3336d-3ce6-4036-a13b-b71fe67531e0",
+    "label" : "KkX Acessórios",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Av. Nereu Ramos",
+        "neighborhood" : "Meia Praia",
+        "number" : "4463"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "297f5621-1cff-4a22-9dce-1d9fa0b07b5b",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "PARK BOULEVARD CURITIBA",
+    "contactName" : "44988606256",
+    "primaryPhoneNumber" : "+5544988606256",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "81690300",
+        "state" : "PR",
+        "city" : "Curitiba",
+        "street" : "Rodovia BR-116",
+        "neighborhood" : "Xaxim",
+        "number" : "16303"
+    }
+}
+{
+    "_id" : "00f9f221-6242-496a-83ed-aebd60109e1e",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "label" : "Badick Pub",
+    "contactName" : "Badick Pub",
+    "primaryPhoneNumber" : "+5547999143795",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88380000",
+        "state" : "SC",
+        "city" : "Balneário Piçarras",
+        "street" : "Avenida Nereu Ramos",
+        "neighborhood" : "Centro",
+        "number" : "451"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "cc2c57e3-0601-4381-b15d-840108302afe",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "99574b16-6d46-452c-83f6-fbb0d705f18c",
+    "label" : "Gin Clube",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88330484",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "street" : "Rua 1822",
+        "neighborhood" : "Centro",
+        "number" : "637"
+    }
+}
+{
+    "_id" : "c7bfdd9c-adfa-436d-ae63-75d61c5c6e1e",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "label" : "Food Park - BC (WEIK)",
+    "contactName" : "Maurício",
+    "primaryPhoneNumber" : "+5547999999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(20),
+    "isPercentage" : true,
+    "address" : {
+        "zipCode" : "88330828",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "street" : "Rua 1931",
+        "neighborhood" : "Centro",
+        "number" : "21"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "1c3d4ffa-398d-46f9-9168-a8e05293b9f8",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "46315b85-0e02-4e46-9696-ef56d00da49b",
+    "label" : "Pop Camelodromo",
+    "contactName" : "Gabriel",
+    "primaryPhoneNumber" : "+5551981018697",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "90030001",
+        "state" : "RS",
+        "city" : "Porto Alegre",
+        "neighborhood" : "Centro Histórico",
+        "street" : "Rua Voluntários da Pátria",
+        "number" : "0"
+    }
+}
+{
+    "_id" : "a11b797c-2d05-4fe2-b9b3-fbd1187bdb7f",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "label" : "Continente Shopping - São José/SC",
+    "contactName" : "Shopping",
+    "primaryPhoneNumber" : "+554830949268",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88104800",
+        "state" : "SC",
+        "city" : "São José",
+        "street" : "Rodovia BR-101",
+        "neighborhood" : "Distrito Industrial",
+        "number" : "KM 210 "
+    }
+}
+{
+    "_id" : "c9de4fd2-2870-4830-9dbf-04e84e09f751",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "label" : "Shopping Vale do Aço",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+553138245000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "35160291",
+        "state" : "MG",
+        "city" : "Ipatinga",
+        "street" : "Avenida Pedro Linhares Gomes",
+        "neighborhood" : "Industrial",
+        "number" : "3900"
+    }
+}
+{
+    "_id" : "d97ecabc-25a6-414e-af2e-9f5a6772e1d1",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Boavista Shopping - São Paulo",
+    "contactName" : "Boavista Shopping",
+    "primaryPhoneNumber" : "+551155476000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "04747030",
+        "state" : "SP",
+        "city" : "São Paulo",
+        "street" : "Rua Borba Gato",
+        "neighborhood" : "Santo Amaro",
+        "number" : "59"
+    }
+}
+{
+    "_id" : "4d3a104e-b424-46f7-b60b-c2c1aad7dde1",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Supermercado Rivieira - Diadema",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+555555555555",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "09920000",
+        "state" : "SP",
+        "city" : "Diadema",
+        "street" : "Avenida Conceição",
+        "neighborhood" : "Centro",
+        "number" : "866"
+    },
+    "routeId" : "8e010a79-e0cd-43d7-9617-43a03f592143"
+}
+{
+    "_id" : "6d26717b-87eb-45b3-b217-8aba9d4599b1",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Zaffari Otto ",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555140041112",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "91910001",
+        "state" : "RS",
+        "city" : "Porto Alegre",
+        "street" : "Avenida Otto Niemeyer",
+        "neighborhood" : "Tristeza",
+        "number" : "601"
+    }
+}
+{
+    "_id" : "ebc626c1-c0f1-413c-9155-414f46d52afd",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "df23f4f5-043e-4397-afad-864ca67739dc",
+    "label" : "Recreio Shopping",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+5521981752947",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "22451375",
+        "state" : "RJ",
+        "city" : "Rio de Janeiro",
+        "street" : "Rua Maria das Dores de Melo",
+        "neighborhood" : "Rocinha",
+        "number" : "11"
+    }
+}
+{
+    "_id" : "26730dff-8803-4e76-9481-a2b505c9b7b3",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Rissul ",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555135541213",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "93052270",
+        "state" : "RS",
+        "city" : "São Leopoldo",
+        "street" : "Avenida Integração",
+        "neighborhood" : "Feitoria",
+        "number" : "1383"
+    }
+}
+{
+    "_id" : "8823c413-2495-4255-931d-a1a2433ad2ec",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "c3f00a4e-5ae5-49c8-9bad-3bbf668f6791",
+    "label" : " Parque Shopping Belém",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+559140420542",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "66635110",
+        "state" : "PA",
+        "city" : "Belém",
+        "street" : "Rodovia Augusto Montenegro",
+        "neighborhood" : "Parque Verde",
+        "number" : "4300"
+    }
+}
+{
+    "_id" : "9dcda5ab-2b2e-4ff8-a200-7b0d01b06208",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "9390d791-1d40-43b7-96dc-90f54db39fb1",
+    "label" : "Boavista Shopping - São Paulo",
+    "contactName" : "Boavista Shopping",
+    "primaryPhoneNumber" : "+551155476000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "04747030",
+        "state" : "SP",
+        "city" : "São Paulo",
+        "street" : "Rua Borba Gato",
+        "neighborhood" : "Santo Amaro",
+        "number" : "59"
+    }
+}
+{
+    "_id" : "2deb57b4-1a3a-42fe-ac65-c31e8d5fa917",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "label" : "Shopping Estação BH",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+5500000000000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "31744007",
+        "state" : "MG",
+        "city" : "Belo Horizonte",
+        "street" : "Avenida Cristiano Machado",
+        "neighborhood" : "Vila Cloris",
+        "number" : "11833"
+    }
+}
+{
+    "_id" : "9d75972b-8af3-439a-a7b9-000ee654cebb",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Posto Ampessan - Biguaçu",
+    "contactName" : "Posto Ampessan",
+    "primaryPhoneNumber" : "+554832436788",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88160000",
+        "state" : "SC",
+        "city" : "Biguaçu",
+        "street" : "R. Cecília Maria José Azevedo",
+        "neighborhood" : "Mar das Pedras",
+        "number" : "470"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "1be71d66-0b62-4bb7-beb1-8db5072dae74",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "538e5185-36bc-42a1-b2eb-0d75acf0c9bb",
+    "label" : "Panificadora Mini Mercado Nunes",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554899999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88066000",
+        "state" : "SC",
+        "city" : "Florianópolis",
+        "street" : "SC-406",
+        "neighborhood" : "Armação do Pântano do Sul",
+        "number" : "5897"
+    }
+}
+{
+    "_id" : "2e23fa1a-8887-4159-a5d0-ac9e2a6607d5",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "9390d791-1d40-43b7-96dc-90f54db39fb1",
+    "label" : "Shopping Atlântico PISO 1 - TACI",
+    "contactName" : "FATIMA",
+    "primaryPhoneNumber" : "+5547999999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88330900",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "street" : "Avenida Brasil",
+        "neighborhood" : "Centro",
+        "number" : "1271"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "c7a19e74-2cc9-4f87-99e1-f550c2641c8c",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Mega Loja Black Tour",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Avenida Nereu Ramos",
+        "neighborhood" : "Meia Praia",
+        "number" : "Esquina 246"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "82d8b504-acb5-47ea-a6fa-571e14c84b9a",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8b9196f7-241f-4a11-8ba2-2830fabdf441",
+    "label" : "Shopping Itaguaçu - WM",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88117292",
+        "state" : "SC",
+        "city" : "São José",
+        "street" : "Rua Gerôncio Thives",
+        "neighborhood" : "Barreiros",
+        "number" : "1079"
+    }
+}
+{
+    "_id" : "afa875cf-e00e-4923-b0ba-b66a561b9d2d",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8b9196f7-241f-4a11-8ba2-2830fabdf441",
+    "label" : "CTB-SHOP PALLADIUM - WM",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554132123500",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "80610905",
+        "state" : "PR",
+        "city" : "Curitiba",
+        "street" : "Avenida Presidente Kennedy",
+        "neighborhood" : "Portão",
+        "number" : "4121"
+    }
+}
+{
+    "_id" : "74ce0c54-02f3-4df1-bcf5-30524aa5f15d",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "2fbb082b-b716-4b18-8eee-a1e15ff86542",
+    "label" : "MTK eventos ",
+    "contactName" : "Daiane ",
+    "primaryPhoneNumber" : "+5551985943880",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(20),
+    "isPercentage" : true,
+    "address" : {
+        "zipCode" : "94090720",
+        "state" : "RS",
+        "city" : "Gravataí",
+        "neighborhood" : "Vera Cruz",
+        "street" : "Rodovia RS-020",
+        "number" : "60"
+    }
+}
+{
+    "_id" : "f9bcd6b5-4cef-45ff-b5ee-696452ab81fc",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "DDS-SHOP AV. CENTER",
+    "contactName" : "44988606256",
+    "primaryPhoneNumber" : "+5544988606256",
+    "secondaryPhoneNumber" : "+5544988606256",
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "79830150",
+        "state" : "MS",
+        "city" : "Dourados",
+        "street" : "Rua Santos Dumont",
+        "neighborhood" : "Jardim Paulista",
+        "number" : "3600"
+    }
+}
+{
+    "_id" : "37d492ce-6b1c-4e95-888d-0e4a21b09c69",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "IND-SHOP INDAIATUBA",
+    "contactName" : "(19) 3835-9000",
+    "primaryPhoneNumber" : "+551938359000",
+    "secondaryPhoneNumber" : "+551938359000",
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "13344580",
+        "state" : "SP",
+        "city" : "Indaiatuba",
+        "street" : "Alameda Filtros Mann",
+        "neighborhood" : "Jardim Tropical",
+        "number" : "670"
+    }
+}
+{
+    "_id" : "c3ecbf74-69e9-412d-9463-2709edbfe6ce",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "label" : "Shopping Contagem",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+553139569621",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "32110005",
+        "state" : "MG",
+        "city" : "Contagem",
+        "street" : "Avenida Severino Ballesteros Rodrigues",
+        "neighborhood" : "Ressaca",
+        "number" : "850 "
+    }
+}
+{
+    "_id" : "6eccc00b-1ef9-4bb5-8bb9-49fc27af9a9d",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "PGR-MUF UVARANAS",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554231227200",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(4000),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "84031050",
+        "state" : "PR",
+        "city" : "Ponta Grossa",
+        "street" : "Rua Vicente Spósito",
+        "neighborhood" : "Uvaranas",
+        "number" : "205"
+    }
+}
+{
+    "_id" : "df32f105-c2d3-4044-b2e2-2ba52cc3a4bf",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "df23f4f5-043e-4397-afad-864ca67739dc",
+    "label" : "Itaboraí Plaza",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+552137858585",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "24809266",
+        "state" : "RJ",
+        "city" : "Itaboraí",
+        "street" : "Rua C",
+        "neighborhood" : "Três Pontes",
+        "number" : "101"
+    }
+}
+{
+    "_id" : "60152746-b640-43a0-83ef-a4cf7cf5d268",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Supermercado P. Maia",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+5511111111111",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "09930270",
+        "state" : "SP",
+        "city" : "Diadema",
+        "street" : "Avenida Prestes Maia",
+        "neighborhood" : "Centro",
+        "number" : "2323"
+    },
+    "routeId" : "8e010a79-e0cd-43d7-9617-43a03f592143"
+}
+{
+    "_id" : "a67c1932-0a1b-4c0d-8dd5-9dd5e343981b",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CGR-SHOP NORTE SUL PLAZA",
+    "contactName" : "LICIO ",
+    "primaryPhoneNumber" : "+556730443900",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "79005471",
+        "state" : "MS",
+        "city" : "Campo Grande",
+        "street" : "Avenida Presidente Ernesto Geisel",
+        "neighborhood" : "Vila São Vicente",
+        "number" : "2300"
+    }
+}
+{
+    "_id" : "32b2fc8a-d0c8-4bb6-8f55-d5982b623148",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "87ee1b46-13de-41b4-be5e-fbe5d0c75689",
+    "label" : "Bourbon Shopping Teresópolis",
+    "contactName" : "Shopping",
+    "primaryPhoneNumber" : "+550040041828",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "90680570",
+        "state" : "RS",
+        "city" : "Porto Alegre",
+        "street" : "Rua Coronel Aparício Borges",
+        "neighborhood" : "Glória",
+        "number" : "250"
+    }
+}
+{
+    "_id" : "b03f004b-2339-4ca8-9ccf-98f99504fc3d",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "b3fa014c-5c6d-41d0-90d4-d5044dc81918",
+    "label" : "Conveniência Biritas",
+    "contactName" : "Rejane",
+    "primaryPhoneNumber" : "+5548984768848",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88123040",
+        "state" : "SC",
+        "city" : "São José",
+        "street" : "SC-281",
+        "neighborhood" : "Colônia Santana",
+        "number" : "8156"
+    }
+}
+{
+    "_id" : "4302c1bb-a945-472b-ad15-2e77156d575d",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Rissul",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555135663388",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "93020190",
+        "state" : "RS",
+        "city" : "São Leopoldo",
+        "street" : "Av. João Corrêa",
+        "neighborhood" : "Centro",
+        "number" : "1827"
+    }
+}
+{
+    "_id" : "a5303761-57d7-4302-ab5f-b0deb1d2d357",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Prife Supermercado",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+5544444444444",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "05858000",
+        "state" : "SP",
+        "city" : "São Paulo",
+        "street" : "Estrada de Itapecerica",
+        "neighborhood" : "Jardim Vista Linda",
+        "number" : "5530"
+    },
+    "routeId" : "8e010a79-e0cd-43d7-9617-43a03f592143"
+}
+{
+    "_id" : "c7858451-f599-442d-b51b-a2c3f622ed7c",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "PGR-SHOP TOTAL",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554240095800",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "84053000",
+        "state" : "PR",
+        "city" : "Ponta Grossa",
+        "street" : "Avenida Dom Pedro II",
+        "neighborhood" : "Nova Rússia",
+        "number" : "350"
+    }
+}
+{
+    "_id" : "e88711fa-2178-44bf-a36a-ed1b38e9997f",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Loja Black Calçadão Praia Shopping",
+    "contactName" : "Calçadão",
+    "primaryPhoneNumber" : "+554733684055",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Av. Nereu Ramos",
+        "neighborhood" : "Meia Praia",
+        "number" : "3855"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "c62ac0e7-b90f-45e3-aa08-ad18288c5b92",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "label" : "Via Shopping Barreiro",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+5500000000000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "30640070",
+        "state" : "MG",
+        "city" : "Belo Horizonte",
+        "street" : "Avenida Afonso Vaz de Melo",
+        "neighborhood" : "Barreiro",
+        "number" : "640"
+    }
+}
+{
+    "_id" : "d7496c35-bd81-43d3-90de-9e5c24e78e1c",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Camelódromo-Black",
+    "contactName" : "À definir ",
+    "primaryPhoneNumber" : "+5547999999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : true,
+    "address" : {
+        "zipCode" : "88330532",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "neighborhood" : "Centro",
+        "street" : "Rua 1520",
+        "number" : "265"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "0f8f68a9-e827-447e-a32b-c95d45526218",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "90a17480-0873-4d6b-89f7-996f3726b58d",
+    "label" : "Shopping Estação Cuiabá",
+    "contactName" : "Shopping Estação Cuiabá",
+    "primaryPhoneNumber" : "+556530468200",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "78040365",
+        "state" : "MT",
+        "city" : "Cuiabá",
+        "street" : "Avenida Miguel Sutil",
+        "neighborhood" : "Santa Rosa",
+        "number" : "9300"
+    }
+}
+{
+    "_id" : "a7e4b7fe-d77f-46ed-ac57-bc2f1f4f9048",
+    "ownerId" : "64907cd6-e679-4765-b563-20cf08326cac",
+    "groupId" : "ec7d03fd-6c65-4537-a601-66a9c355d9f3",
+    "label" : "Spots",
+    "contactName" : "Guilhermes",
+    "primaryPhoneNumber" : "+5547996751113",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(400),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88330043",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "street" : "Avenida Brasil",
+        "neighborhood" : "Centro",
+        "number" : "233"
+    }
+}
+{
+    "_id" : "4144ec57-51ad-4787-8bb1-68136264a429",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "2eb8df8b-1eaf-4363-b1bc-88176b85a9c1",
+    "label" : "Panificadora e Confeitaria São Domingos",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+550000000000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88370700",
+        "state" : "SC",
+        "city" : "Navegantes",
+        "street" : "Rua José Francisco Laurindo",
+        "neighborhood" : "São Domingos",
+        "number" : "1420"
+    }
+}
+{
+    "_id" : "fe33fc3a-5026-4b21-afef-77de936ee7da",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Central Compras Farroupilha ",
+    "contactName" : "54-2109 8500",
+    "primaryPhoneNumber" : "+555421098500",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "95180058",
+        "state" : "RS",
+        "city" : "Farroupilha",
+        "neighborhood" : "Volta Grande",
+        "street" : "Rua Silveira Martins",
+        "number" : "720"
+    }
+}
+{
+    "_id" : "441dfb1a-e00c-4797-bb06-a54b1d949a2a",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "ba180a7a-8ff9-4d7c-9547-5adeea57a72e",
+    "label" : "D'Malu Conveniência",
+    "contactName" : "D´Malu Conveniência",
+    "primaryPhoneNumber" : "+5547997934666",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88370472",
+        "state" : "SC",
+        "city" : "Navegantes",
+        "street" : "Avenida Conselheiro João Gaya",
+        "neighborhood" : "Centro",
+        "number" : "1336"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "c88773f1-ab79-4eac-b161-3bc12fabcf15",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "c3f00a4e-5ae5-49c8-9bad-3bbf668f6791",
+    "label" : "It center ",
+    "contactName" : "981765221",
+    "primaryPhoneNumber" : "+5591981765221",
+    "secondaryPhoneNumber" : "+5591981765221",
+    "rent" : NumberInt(2500),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "66120000",
+        "state" : "PA",
+        "city" : "Belém",
+        "neighborhood" : "Sacramenta",
+        "street" : "Avenida Senador Lemos",
+        "number" : "3153",
+        "extraInfo" : "it.center  shopping "
+    }
+}
+{
+    "_id" : "eed8bbe8-358f-46d4-9d56-c49e7fe3db50",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd",
+    "label" : "Park Nereu Ramos - São Francisco Do Sul",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89240000",
+        "state" : "SC",
+        "city" : "São Francisco do Sul",
+        "street" : "Av. Dr. Nereu Ramos",
+        "neighborhood" : "Rocio Grande",
+        "number" : "439"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "285d25f0-8849-4d7f-b6b1-b0b14cf96e81",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Loja Black Savoia",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554799999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Av. Nereu Ramos",
+        "neighborhood" : "Meia Praia",
+        "number" : "4078"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "66d56277-7c12-4e30-8f16-8c3cd5f42d0e",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "9390d791-1d40-43b7-96dc-90f54db39fb1",
+    "label" : "Eskimó Sorvetes Itapema",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554788888888",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Av. Marginal Oeste",
+        "neighborhood" : "Casa Branca",
+        "number" : "1120"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "ca62dff7-5c43-40e4-96ac-f27993c5074f",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8b9196f7-241f-4a11-8ba2-2830fabdf441",
+    "label" : "Suzano Shopping - WM",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+551125007940",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "08673020",
+        "state" : "SP",
+        "city" : "Suzano",
+        "street" : "Rua Sete de Setembro",
+        "neighborhood" : "Parque Suzano",
+        "number" : "555"
+    }
+}
+{
+    "_id" : "3f5aa58e-74f6-4b84-b2ba-b26166757ff8",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8b9196f7-241f-4a11-8ba2-2830fabdf441",
+    "label" : "Loja Black Embarcadero - WM",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+555100000000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "90010110",
+        "state" : "RS",
+        "city" : "Porto Alegre",
+        "street" : "Avenida Mauá",
+        "neighborhood" : "Centro Histórico",
+        "number" : "1050"
+    },
+    "routeId" : "2dcc027f-5b8f-46e3-b27e-74dfe826b144"
+}
+{
+    "_id" : "b0b15b90-ec19-4e1b-b8ae-09f5817e853f",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "c3f00a4e-5ae5-49c8-9bad-3bbf668f6791",
+    "label" : "São Luís Shopping",
+    "contactName" : "(98) 3313-3760",
+    "primaryPhoneNumber" : "+559833133760",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "65076907",
+        "state" : "MA",
+        "city" : "São Luís",
+        "neighborhood" : "Jaracaty",
+        "street" : "Avenida Professor Carlos Cunha",
+        "number" : "1000"
+    }
+}
+{
+    "_id" : "663d136c-3bf9-4f44-bd35-6c95866a17a7",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "PCB-SHOP PIRACICABA",
+    "contactName" : "(19) 3403-3833",
+    "primaryPhoneNumber" : "+551934033833",
+    "secondaryPhoneNumber" : "+551934033833",
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "13414900",
+        "state" : "SP",
+        "city" : "Piracicaba",
+        "street" : "Avenida Limeira",
+        "neighborhood" : "Areão",
+        "number" : "722 "
+    }
+}
+{
+    "_id" : "d4cbef23-1963-4285-820a-01e17b360318",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "CTB-SHOP VENTURA",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554130257000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(4500),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "81070150",
+        "state" : "PR",
+        "city" : "Curitiba",
+        "street" : "Rua Itacolomi",
+        "neighborhood" : "Portão",
+        "number" : "292"
+    }
+}
+{
+    "_id" : "a73a9216-1cd1-475d-97d6-526d140e4306",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "c3f00a4e-5ae5-49c8-9bad-3bbf668f6791",
+    "label" : "Pátio Belém ",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+559140085800",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "66023710",
+        "state" : "PA",
+        "city" : "Belém",
+        "street" : "Travessa Padre Eutíquio",
+        "neighborhood" : "Batista Campos",
+        "number" : "1078"
+    }
+}
+{
+    "_id" : "58b5f037-4391-44a2-85c1-d54146ac2630",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "São Leopoldo",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555140041828",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "93010210",
+        "state" : "RS",
+        "city" : "São Leopoldo",
+        "street" : "Rua Primeiro de Março",
+        "neighborhood" : "Centro",
+        "number" : "821"
+    }
+}
+{
+    "_id" : "ba97dbde-9f12-42d1-8a75-eb26a2a905e8",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "7c5ae269-696a-48f3-876c-0a8d74190240",
+    "label" : "Shopping Praia da Costa",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+552734222600",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "29140000",
+        "state" : "Espirito Santo",
+        "city" : "Cariacica",
+        "street" : "Avenida Mario Gurgel",
+        "neighborhood" : "São Francisco",
+        "number" : "5353"
+    }
+}
+{
+    "_id" : "7841ae39-af8e-4991-8a7c-ace390acd822",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "SOR-SHOP SOROCABA",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+551532322757",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(12000),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "18040000",
+        "state" : "SP",
+        "city" : "Sorocaba",
+        "street" : "Avenida Doutor Afonso Vergueiro",
+        "neighborhood" : "Vila Augusta",
+        "number" : "1700"
+    }
+}
+{
+    "_id" : "1f3dae2b-a974-4de6-b169-9e71ca90fb3b",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "PGR-MUF MAX",
+    "contactName" : "a definir",
+    "primaryPhoneNumber" : "+554231223900",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(4000),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "84062000",
+        "state" : "PR",
+        "city" : "Ponta Grossa",
+        "street" : "Avenida Souza Naves",
+        "neighborhood" : "Chapada",
+        "number" : "2420"
+    }
+}
+{
+    "_id" : "9562c027-6e07-4a24-a4b3-8a7fcac46fbb",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Ponto 250 - Itapema",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554799998888",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88220000",
+        "state" : "SC",
+        "city" : "Itapema",
+        "street" : "Rua 250",
+        "neighborhood" : "Meia Praia",
+        "number" : "0000"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "1081bb85-4f23-4653-9456-bc10aec8fa68",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "87ee1b46-13de-41b4-be5e-fbe5d0c75689",
+    "label" : "Grand Plaza Shopping",
+    "contactName" : "Shopping",
+    "primaryPhoneNumber" : "+551144375000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "09080510",
+        "state" : "SP",
+        "city" : "Santo André",
+        "street" : "Avenida Industrial",
+        "neighborhood" : "Campestre",
+        "number" : "600"
+    }
+}
+{
+    "_id" : "f6b1bd87-da45-4cac-ba9e-46eacb1e83dc",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "SOR-SHOP IGUATEMI",
+    "contactName" : "0000000",
+    "primaryPhoneNumber" : "+550000000000",
+    "secondaryPhoneNumber" : "+550000000000",
+    "rent" : NumberInt(10500),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "18110650",
+        "state" : "SP",
+        "city" : "Votorantim",
+        "neighborhood" : "Parque Bela Vista",
+        "street" : "Avenida Gisele Constantino",
+        "number" : "0"
+    }
+}
+{
+    "_id" : "d34234ea-bdef-4a88-8bb2-5cd66172ab65",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "6ac3336d-3ce6-4036-a13b-b71fe67531e0",
+    "label" : "Pesque e Pague Tradição Gaúcha",
+    "contactName" : "Pesque e Pague Tradição Gaúcha",
+    "primaryPhoneNumber" : "+5548998302636",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88200000",
+        "state" : "Santa Catarina",
+        "city" : "Tijucas",
+        "street" : "SC-410",
+        "neighborhood" : "Joaia",
+        "number" : "0"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "a0242ba5-179f-4820-8810-a44a8f315f35",
+    "ownerId" : "71399704-f727-4e63-aecb-eb290f64d278",
+    "groupId" : "736fc46c-75f7-4976-911d-a90d1ec54ea1",
+    "label" : "Rissul Gramado",
+    "contactName" : "51 9557-0908",
+    "primaryPhoneNumber" : "+555432864211",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "95670000",
+        "state" : "RS",
+        "city" : "Gramado",
+        "street" : "Av. Borges de Medeiros",
+        "neighborhood" : "Centro",
+        "number" : "3994"
+    }
+}
+{
+    "_id" : "8460c15f-36d6-455d-b750-8bc24cfcca91",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Caldo de Cana Recanto do Amanhecer (Água de Coco)",
+    "contactName" : "Água de Coco",
+    "primaryPhoneNumber" : "+5547996931994",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88210000",
+        "state" : "SC",
+        "city" : "Porto Belo",
+        "street" : "Av. Gov. Celso Ramos",
+        "neighborhood" : "Jardim Dourado",
+        "number" : "x"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "356914e7-4be1-44d9-a23b-9d8ec43e05df",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "bea4ed28-ceb3-4954-86ec-afb01f2ee8dd",
+    "label" : "Rancho Bom Supermercados - Matriz",
+    "contactName" : "Rancho Bom-Matriz",
+    "primaryPhoneNumber" : "+554733746997",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "89275970",
+        "state" : "SC",
+        "city" : "Schroeder",
+        "street" : "Rua Marechal Castelo Branco",
+        "neighborhood" : "Centro",
+        "number" : "5120"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "bdd77835-ea4e-4f96-97c6-f2b693dc46d6",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "fb198e5b-f49b-492d-bde4-76dac594569a",
+    "label" : "Cantareira Norte Shopping",
+    "contactName" : "Cantareira Shopping",
+    "primaryPhoneNumber" : "+551130908100",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "02984035",
+        "state" : "SP",
+        "city" : "São Paulo",
+        "street" : "Avenida Raimundo Pereira de Magalhães",
+        "neighborhood" : "Jardim Pirituba",
+        "number" : "11001"
+    }
+}
+{
+    "_id" : "8cc66beb-1ff0-476d-a73f-07f4e53dfdb9",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "46315b85-0e02-4e46-9696-ef56d00da49b",
+    "label" : "Tramandaí",
+    "contactName" : "A definir",
+    "primaryPhoneNumber" : "+5551999999999",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "95590000",
+        "state" : "RS",
+        "city" : "Tramandaí",
+        "street" : "Av. Emancipação",
+        "neighborhood" : "Centro",
+        "number" : "245"
+    }
+}
+{
+    "_id" : "1f747d35-102d-476e-86a6-a803f643c475",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "df23f4f5-043e-4397-afad-864ca67739dc",
+    "label" : "Botafogo Praia Shopping",
+    "contactName" : "Shopping",
+    "primaryPhoneNumber" : "+5521971697360",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "22250040",
+        "state" : "RJ",
+        "city" : "Rio de Janeiro",
+        "street" : "Praia Botafogo",
+        "neighborhood" : "Botafogo",
+        "number" : "400"
+    }
+}
+{
+    "_id" : "1b5a8fa7-bdd4-41ff-87c3-a5befb4c9c64",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8d481e4b-c2a0-4ecd-85c9-776d968d0284",
+    "label" : "Loja Black Embarcadero",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+555100000000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "90010110",
+        "state" : "RS",
+        "city" : "Porto Alegre",
+        "street" : "Avenida Mauá",
+        "neighborhood" : "Centro Histórico",
+        "number" : "1050"
+    },
+    "routeId" : "2dcc027f-5b8f-46e3-b27e-74dfe826b144"
+}
+{
+    "_id" : "8f28e54c-3f36-4b12-a6c9-62c37f675539",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Beto Carrero World - Black",
+    "contactName" : "Beto Carrero",
+    "primaryPhoneNumber" : "+554732612222",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88385000",
+        "state" : "SC",
+        "city" : "Penha",
+        "street" : "Rod. Beto Carrero World",
+        "neighborhood" : "Praia de Armação do Itapocorói",
+        "number" : "s/n"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "d7e54c83-7411-496b-8212-ada15279a224",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8d481e4b-c2a0-4ecd-85c9-776d968d0284",
+    "label" : "ExpoLondrina - Diego",
+    "contactName" : "ExpoLondrina",
+    "primaryPhoneNumber" : "+554333782000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "86072000",
+        "state" : "PR",
+        "city" : "Londrina",
+        "street" : "Avenida Tiradentes",
+        "neighborhood" : "Jardim Rosicler",
+        "number" : "6275"
+    }
+}
+{
+    "_id" : "3b3f742e-11dd-4c33-9eaf-9596447af8d4",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "9390d791-1d40-43b7-96dc-90f54db39fb1",
+    "label" : "Loja Black Outlet Premium - TACI",
+    "contactName" : "Outlet Premium",
+    "primaryPhoneNumber" : "+554730402000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88210000",
+        "state" : "SC",
+        "city" : "Porto Belo",
+        "street" : "BR-101, KM 159 Sentido Norte",
+        "neighborhood" : "Alto Perequê",
+        "number" : "KM 159"
+    },
+    "routeId" : null
+}
+{
+    "_id" : "e85f192a-a8db-4f1a-b006-9e9d91e30048",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "99574b16-6d46-452c-83f6-fbb0d705f18c",
+    "label" : "Sorveteria Mix",
+    "contactName" : "Sorveteria Mix",
+    "primaryPhoneNumber" : "+5547984690119",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88337300",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "street" : "5ª Avenida",
+        "neighborhood" : "Municípios",
+        "number" : "1335"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "adc5a2ea-6f6d-4107-ba02-40df8ae9d82d",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "ede4846a-8c3a-4270-b85e-0cdae9d9d2ab",
+    "label" : "Sociedade Rural de Maringá",
+    "contactName" : "Sociedade Rural de Maringá",
+    "primaryPhoneNumber" : "+554432611700",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "87045000",
+        "state" : "PR",
+        "city" : "Maringá",
+        "street" : "Avenida Colombo",
+        "neighborhood" : "Vila Nova",
+        "number" : "2186"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
+{
+    "_id" : "445e47f2-8f65-41ef-91bf-ff2ecb65fa01",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "df23f4f5-043e-4397-afad-864ca67739dc",
+    "label" : "Loja Black NorteShopping - RJ",
+    "contactName" : "NorteShopping",
+    "primaryPhoneNumber" : "+552133154300",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "20771004",
+        "state" : "RJ",
+        "city" : "Rio de Janeiro",
+        "street" : "Avenida Dom Hélder Câmara",
+        "neighborhood" : "Cachambi",
+        "number" : "5474",
+        "extraInfo" : "Loja 4703"
+    },
+    "routeId" : "2c20271d-00dd-4cf4-824b-4e14335daca0"
+}
+{
+    "_id" : "1aac34fb-e6da-420d-b597-ca8d474b86f7",
+    "ownerId" : "d6691cbd-e3e7-4306-af4b-9a165af5818e",
+    "groupId" : "ad52104e-a49e-4822-9069-4e5f12d5b132",
+    "label" : "Glitter Mania",
+    "contactName" : "Luis",
+    "primaryPhoneNumber" : "+5547992634343",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(20),
+    "isPercentage" : true,
+    "address" : {
+        "zipCode" : "88331010",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "neighborhood" : "Pioneiros",
+        "street" : "Rua Julieta Lins",
+        "number" : "360"
+    }
+}
+{
+    "_id" : "e4c4bae0-180e-47f8-9671-91f7d2293a30",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "SJP-MAX SÃO JOSÉ DOS PINHAIS",
+    "contactName" : "GABRIEL MAES",
+    "primaryPhoneNumber" : "+5555448860625",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "83065260",
+        "state" : "PR",
+        "city" : "São José dos Pinhais",
+        "street" : "Avenida Rui Barbosa",
+        "neighborhood" : "Iná",
+        "number" : "6131",
+        "extraInfo" : "MAX ATACADISTA"
+    }
+}
+{
+    "_id" : "1b6897c3-171e-447e-b8d0-cd119f5c07ac",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "2d691750-0b5f-428d-a635-ee9b804bbe47",
+    "label" : "Loja Black Canela",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+555400000000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "95680000",
+        "state" : "RS",
+        "city" : "Canela",
+        "street" : "Rua Praça João Correa",
+        "neighborhood" : "Centro",
+        "number" : "27",
+        "extraInfo" : "Sala 02"
+    },
+    "routeId" : "2dcc027f-5b8f-46e3-b27e-74dfe826b144"
+}
+{
+    "_id" : "3df23bfd-04d7-42df-9980-58afd37b7a4e",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "Super Muffato São José dos Pinhais",
+    "contactName" : "(41) 4009-5900",
+    "primaryPhoneNumber" : "+554140095900",
+    "secondaryPhoneNumber" : "+554140095900",
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "83005000",
+        "state" : "PR",
+        "city" : "São José dos Pinhais",
+        "street" : "Rua Quinze de Novembro",
+        "neighborhood" : "Centro",
+        "number" : "2401",
+        "extraInfo" : "2401"
+    }
+}
+{
+    "_id" : "31ef3770-7a8c-492b-8963-34a9e9d8b88c",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "43bc4ff3-199d-4e39-8f3c-c87246a0b9dd",
+    "label" : "LJ JOCKEI PLAZA CTB",
+    "contactName" : "(41) 3216-1600",
+    "primaryPhoneNumber" : "+554132161600",
+    "secondaryPhoneNumber" : "+554132161600",
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "82821020",
+        "state" : "PR",
+        "city" : "Curitiba",
+        "street" : "Rua Konrad Adenauer",
+        "neighborhood" : "Tarumã",
+        "number" : "370"
+    }
+}
+{
+    "_id" : "4650b83f-e055-4861-b0c0-f84b247563f8",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Brasil Atacadista - São José",
+    "contactName" : "Brasil Atacadista",
+    "primaryPhoneNumber" : "+5555483279412",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88106115",
+        "state" : "SC",
+        "city" : "São José",
+        "street" : "Rodovia SC-281",
+        "neighborhood" : "Picadas do Sul",
+        "number" : "2665"
+    }
+}
+{
+    "_id" : "17fe5166-f5bd-4d42-8378-284e4b7c581f",
+    "ownerId" : "cb3f75bd-08e6-4419-b6e0-e2361677f4a8",
+    "groupId" : "8369b438-8f8e-41eb-a0d5-52148bf91689",
+    "label" : "Loja Black Atlântico Shopping",
+    "contactName" : "A Definir",
+    "primaryPhoneNumber" : "+554700000000",
+    "secondaryPhoneNumber" : null,
+    "rent" : NumberInt(0),
+    "isPercentage" : false,
+    "address" : {
+        "zipCode" : "88330900",
+        "state" : "SC",
+        "city" : "Balneário Camboriú",
+        "street" : "Avenida Brasil",
+        "neighborhood" : "Centro",
+        "number" : "1271"
+    },
+    "routeId" : "e659e9cb-e3cf-4cdf-9c1d-b3d30d410737"
+}
